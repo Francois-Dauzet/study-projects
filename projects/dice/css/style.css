@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Bebas Neue", cursive;
+  color: var(--c-black);
+}
+
+.study-projects-back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #e0e1dd;
+  color: #000;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 11px #0002;
+  z-index: 12;
+  border: 1px solid #333;
+}
+
+body {
+  background-image: url("../img/bgDice.jpg");
+}
+
+:root {
+  --c-white: #e9f6ff;
+  --c-black: #110500;
+  --c-blue: #01064a;
+}
+
+h2 {
+  text-shadow: 1px -1px 6px rgba(255, 255, 255, 0.5);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0 60px;
+}
+
+.containerDice p {
+  font-size: 100px;
+  border: 1px solid var(--c-black);
+  padding: 20px 0;
+  width: 300px;
+  height: 120px;
+  text-align: center;
+  font-weight: 800;
+}
+
+.containerDice h2 {
+  text-align: center;
+  font-size: 48px;
+}
+
+.containerDice button {
+  padding: 6px 6px;
+  font-size: 38px;
+  border-radius: 0 0 15px 15px;
+  width: 303px;
+  cursor: pointer;
+  border: 1px solid var(--c-black);
+  background-color: var(--c-white);
+}
+
+.inputText {
+  font-size: 52px;
+  width: 300px;
+  height: 62px;
+  text-align: center;
+  border: 1px solid var(--c-black);
+  background-color: var(--c-white);
+  border-radius: 15px 15px 0 0;
+}
+
+.containerResult {
+  margin-top: 10px;
+  height: 220px;
+  width: 300px;
+  overflow-y: auto;
+  color: var(--c-white);
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.containerResult p {
+  font-size: 22px;
+  text-align: center;
+  color: var(--c-white);
+}
+
+.containerResult h2 {
+  font-size: 26px;
+  text-align: center;
+  color: var(--c-white);
+  background-color: var(--c-blue);
+  padding: 5px;
+}
+
+.btnReset button {
+  margin-top: 10px;
+  font-size: 38px;
+  padding: 2px 8px;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: var(--c-white);
+}
+
+#diceResult {
+  color: var(--c-white);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: var(--c-white);
+}

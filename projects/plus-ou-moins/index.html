@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Game where you have to guess the number randomly drawn by the computer using higher or lower hints."
+    />
+    <meta name="keywords" content="html, css, js" />
+    <meta name="author" content="François Dauzet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <script type="text/javascript" src="js/script.js" defer></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anton&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap"
+      rel="stylesheet"
+    />
+    <title>Plus ou Moins</title>
+  </head>
+  <body>
+    <a class="study-projects-back-button" href="../../index.html">Back</a>
+    <div class="containerBody">
+      <div class="containerIntro">
+        <h1>Plus ou Moins</h1>
+        <p class="animShine">
+          <a target="_blank" href="https://francois-dauzet.labo-ve.fr/"
+            >François Dauzet</a
+          >
+        </p>
+        <button id="btnPlay">Jouer</button>
+      </div>
+      <div class="containerDifficulties">
+        <p>Choisir la difficulté</p>
+
+        <button id="difficulty10000">
+          0 <br />
+          10 000
+          <p id="CupExample">
+            <img src="img/or.png" alt="" />-12
+            <img src="img/argent.png" alt="" />-16
+            <img src="img/bronze.png" alt="" />-20
+          </p>
+        </button>
+        <button id="difficulty1000">
+          0 <br />
+          1000
+          <p id="CupExample">
+            <img src="img/or.png" alt="" />-8
+            <img src="img/argent.png" alt="" />-12
+            <img src="img/bronze.png" alt="" />-16
+          </p>
+        </button>
+        <button id="difficulty100">
+          0 <br />
+          100
+          <p id="CupExample">
+            <img src="img/or.png" alt="" />-4
+            <img src="img/argent.png" alt="" />-8
+            <img src="img/bronze.png" alt="" />-12
+          </p>
+        </button>
+      </div>
+      <div class="containerGame">
+        <div class="scorePlayer">
+          <p>Score</p>
+          <p id="scorePlayer">0</p>
+        </div>
+        <div class="containerScreen">
+          <p id="playerInput"></p>
+        </div>
+        <div class="containerResult">
+          <p id="playerResult"></p>
+        </div>
+        <div class="containerBtn">
+          <div class="containerBtnNumber">
+            <button id="btnNum">0</button>
+            <button id="btnNum">1</button>
+            <button id="btnNum">2</button>
+            <button id="btnNum">3</button>
+            <button id="btnNum">4</button>
+            <button id="btnNum">5</button>
+            <button id="btnNum">6</button>
+            <button id="btnNum">7</button>
+            <button id="btnNum">8</button>
+            <button id="btnNum">9</button>
+          </div>
+          <div class="containerBtnReset">
+            <button id="btnReset">Supprimer</button>
+          </div>
+          <div class="containerBtnValid">
+            <button id="btnVal">Valider</button>
+          </div>
+        </div>
+        <div class="lastNumber">
+          <p>Dernier numéro</p>
+          <p id="lastNumber">0</p>
+        </div>
+      </div>
+      <div class="containerCup">
+        <div class="textCup">
+          <p class="textTop cupTitle"></p>
+          <p class="textMiddle cup">Or</p>
+          <p class="textBottom">Score</p>
+          <p class="textBottom resultCup">0</p>
+        </div>
+        <div class="btnQuit">
+          <button id="btnQuit">Quitter</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

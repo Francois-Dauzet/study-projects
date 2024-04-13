@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Revamp of the famous Blackjack 21 game with three levels of difficulty, providing hours of entertainment."
+    />
+    <meta name="keywords" content="html, css, js" />
+    <meta name="author" content="François Dauzet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <script type="text/javascript" src="js/script.js" defer></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Blackjack 21</title>
+  </head>
+  <body>
+    <a class="study-projects-back-button" href="../../index.html">Back</a>
+    <div class="containerIntro">
+      <h1>BLACKJACK 21</h1>
+      <h2 class="animShine">
+        <a target="_blank" href="https://francois-dauzet.labo-ve.fr/"
+          >François Dauzet</a
+        >
+      </h2>
+
+      <button id="btnStart">Jouer</button>
+      <div class="rules">
+        <details>
+          <summary>
+            <p>règles du jeu</p>
+          </summary>
+          <ul>
+            <li>Le but consiste à battre la banque en atteignant 21</li>
+            <li>
+              Si aucun des joueurs ne dépasse 21, c'est le joueur le plus proche
+              de 21 qui gagne
+            </li>
+            <li>
+              Si tous les joueurs dépassent 21, c'est le joueur le plus proche
+              de 21 qui gagne
+            </li>
+            <li>S'il y a égalité, rien ne se passe</li>
+            <li>Les cartes vont de 1 à 10 et il n'y a pas de doublon</li>
+            <li>La partie se joue en 3 manches gagnantes</li>
+          </ul>
+        </details>
+      </div>
+    </div>
+    <div class="containerGame">
+      <div class="containerScore">
+        <div class="scoreJoueur">
+          <p>Joueur &nbsp</p>
+          <p id="screenPlayer">0</p>
+        </div>
+        <div class="scoreOrdinateur">
+          <p>Banque &nbsp</p>
+          <p id="screenComputer">0</p>
+        </div>
+      </div>
+      <div class="difficultyText animShine">
+        <p id="difficultyText"></p>
+      </div>
+      <div class="containerCard">
+        <p id="c1"></p>
+        <p id="c2"></p>
+        <p id="c3"></p>
+        <p id="c4"></p>
+        <p id="c5"></p>
+        <p id="c6"></p>
+        <p id="c7"></p>
+      </div>
+      <div class="containerResult">
+        <div class="gameResultOrdinateur">
+          <p id="resultComputeur"></p>
+          <p id="screenResult"></p>
+        </div>
+      </div>
+      <div class="containerTotalHand">
+        <p id="totalHand">GO</p>
+      </div>
+      <div id="btnGame" class="containerBtnGame">
+        <button id="btnCard">Carte</button>
+        <button id="btnStay">Rester</button>
+      </div>
+      <div id="btnDifficulty" class="containerBtnDifficulty">
+        <p id="textbtnDifficulty" class="textDifficulty">
+          Choisir la difficulté
+        </p>
+        <button id="btnEasy">Facile</button>
+        <button id="btnMedium">Moyen</button>
+        <button id="btnHard">Difficile</button>
+      </div>
+      <div class="containerBtnEnd">
+        <a href="javascript:window.location.reload()"
+          ><button>Quitter</button></a
+        >
+      </div>
+    </div>
+  </body>
+</html>

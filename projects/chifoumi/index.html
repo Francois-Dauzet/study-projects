@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Revamp of the rock-paper-scissors game on the browser, a game pitting two players against each other in 3 winning rounds."
+    />
+    <meta name="keywords" content="html, css, js" />
+    <meta name="author" content="François Dauzet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap"
+      rel="stylesheet"
+    />
+    <script type="text/javascript" src="js/script.js" defer></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <title>ChiFouMi</title>
+  </head>
+  <body>
+    <a class="study-projects-back-button" href="../../index.html">Back</a>
+    <nav></nav>
+    <header>
+      <div class="containerHeader">
+        <img src="img/chifoumi.png" alt="" />
+      </div>
+    </header>
+    <section class="flexSection">
+      <div class="containerIntro">
+        <div class="itemIntro">
+          <h1>ChiFouMi</h1>
+          <p class="animShine">
+            <a target="_blank" href="https://francois-dauzet.labo-ve.fr/"
+              >François Dauzet</a
+            >
+          </p>
+          <div class="btnStart">
+            <button id="buttonS">Jouer</button>
+          </div>
+        </div>
+      </div>
+      <div class="printScore">
+        <div class="joueurPoints">0</div>
+        <p>|</p>
+        <div class="resultat">Go</div>
+        <p>|</p>
+        <div class="ordinateurPoints">0</div>
+      </div>
+      <div class="containerGame">
+        <div class="containerImgChoix">
+          <div class="itemImgChoix">
+            <img
+              class="hiddenCard"
+              id="pierrePlayerImg"
+              src="img/pierre.png"
+              alt=""
+            />
+            <img
+              class="hiddenCard"
+              id="feuillePlayerImg"
+              src="img/feuille.png"
+              alt=""
+            />
+            <img
+              class="hiddenCard"
+              id="ciseauxPlayerImg"
+              src="img/ciseaux.png"
+              alt=""
+            />
+          </div>
+          <img class="hiddenImg" src="img/vs.png" alt="" />
+
+          <div class="itemImgChoix">
+            <img
+              class="hiddenCard"
+              id="pierreOrdinateurImg"
+              src="img/pierre.png"
+              alt=""
+            />
+            <img
+              class="hiddenCard"
+              id="feuilleOrdinateurImg"
+              src="img/feuille.png"
+              alt=""
+            />
+            <img
+              class="hiddenCard"
+              id="ciseauxOrdinateurImg"
+              src="img/ciseaux.png"
+              alt=""
+            />
+          </div>
+        </div>
+
+        <div class="containerBtnChoix">
+          <button id="buttonP"><img src="img/pierre.png" alt="" /></button>
+          <button id="buttonF"><img src="img/feuille.png" alt="" /></button>
+          <button id="buttonC"><img src="img/ciseaux.png" alt="" /></button>
+        </div>
+        <div class="containerBtnEnd">
+          <div>
+            <button id="buttonR" class="btnRestart">Recommencer</button>
+            <button id="buttonL" class="btnLeave">Quitter</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

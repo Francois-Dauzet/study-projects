@@ -1,0 +1,488 @@
+/* //////////////// 0thers //////////////// */
+
+* {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+.study-projects-back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #e0e1dd;
+  color: #000;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 11px #0002;
+  z-index: 12;
+  border: 1px solid #333;
+}
+
+.containerGame {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  display: none;
+  background-image: url("../img/bgGame.png");
+  background-size: cover;
+  background-position: top;
+  background-color: #047f40;
+}
+
+.animShine {
+  background: linear-gradient(90deg, green, #fff, rgba(0, 0, 0, 0));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-repeat: repeat;
+  background-size: 80%;
+  animation: shine 12s linear infinite;
+  position: relative;
+}
+
+@keyframes shine {
+  0% {
+    background-position-x: -500%;
+  }
+  100% {
+    background-position-x: 500%;
+  }
+}
+
+/* //////////////// Intro //////////////// */
+
+.containerIntro {
+  height: 100vh;
+  display: block;
+  text-align: center;
+  background-color: #004236;
+  background-image: url("../img/bgIntro.jpg");
+  background-size: cover;
+}
+
+.containerIntro a {
+  text-decoration: none;
+}
+
+.containerIntro h1 {
+  color: lightgray;
+  font-size: 88px;
+  padding-top: 6%;
+  text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.486);
+}
+
+.containerIntro h2 {
+  color: white;
+  font-size: 32px;
+  padding-bottom: 3%;
+  font-weight: 300;
+  text-shadow: 1px -1px 1px rgba(0, 128, 0, 0.5);
+}
+
+.containerIntro button {
+  margin: 3%;
+  background-color: rgba(0, 0, 0, 0.493);
+  color: white;
+  font-weight: 600;
+  border: 3px solid gold;
+}
+
+.containerIntro button:hover {
+  background-color: rgba(255, 217, 0, 0.5);
+  color: black;
+  border: 3px solid lightgray;
+}
+
+/* //////////////// Règles //////////////// */
+
+.rules {
+  margin: 0 auto;
+  color: lightgray;
+  border-radius: 25px;
+  font-weight: 600;
+}
+
+.rules ul {
+  list-style-type: none;
+  font-size: 24px;
+  border-bottom: 3px solid gold;
+  border-top: 3px solid gold;
+  background-color: rgba(0, 0, 0, 0.753);
+  letter-spacing: 5%;
+}
+
+.rules p {
+  font-size: 28px;
+  text-shadow: 2px -2px 4px black;
+  color: gold;
+}
+
+/* //////////////// Score //////////////// */
+
+.containerScore {
+  display: flex;
+  justify-content: space-around;
+  display: none;
+}
+
+.scoreJoueur,
+.scoreOrdinateur {
+  display: flex;
+  font-size: 38px;
+  margin-top: 4%;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 0 2%;
+  color: lightgray;
+  border-radius: 15px;
+  border: 2px solid #4b8757;
+}
+
+/* //////////////// Difficutly //////////////// */
+
+.difficultyText {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 1%;
+  text-shadow: 1px -2px 6px black;
+  text-transform: uppercase;
+}
+
+/* //////////////// Difficulty //////////////// */
+
+#difficultyText {
+  display: none;
+}
+
+.textDifficulty {
+  margin-top: 4%;
+  margin-bottom: 5%;
+  color: lightgray;
+  text-shadow: 1px -4px 8px black;
+  font-weight: 600;
+}
+
+/* //////////////// Card //////////////// */
+
+.containerCard {
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  display: none;
+}
+
+.containerCard p {
+  padding: 0 5%;
+  margin: 40px 1%;
+  font-size: 50px;
+  border: 3px solid #4b8757;
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  color: lightgray;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#c1,
+#c2,
+#c3,
+#c4,
+#c5,
+#c6 {
+  transform: scaleX(0);
+  filter: opacity(0);
+  transition: 0.5s;
+}
+
+#c7 {
+  display: none;
+}
+
+/* //////////////// Result //////////////// */
+
+.containerResult {
+  display: flex;
+  justify-content: center;
+  display: none;
+}
+
+.containerResult p {
+  text-align: center;
+  font-size: 48px;
+}
+
+#resultComputeur {
+  margin-bottom: 10%;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  color: lightgray;
+  border-radius: 25px;
+}
+
+#screenResult {
+  background-color: rgba(0, 0, 0, 0.753);
+  padding: 5px 50px;
+  margin: 0 3%;
+  border-radius: 25px;
+  font-size: 55px;
+  border: 4px solid green;
+}
+
+.gameResultOrdinateur {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 45px;
+  margin-bottom: 3%;
+  /* display: none; */
+}
+
+/* //////////////// Total Hand //////////////// */
+
+.containerTotalHand {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 0;
+  display: none;
+  border: 8px solid #4b8757;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  color: lightgray;
+}
+
+/* //////////////// Btn //////////////// */
+
+.containerBtnGame {
+  display: flex;
+  justify-content: center;
+  display: none;
+}
+
+.containerBtnDifficulty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.containerBtnDifficulty p {
+  text-align: center;
+  font-size: 55px;
+  text-transform: uppercase;
+}
+
+.containerBtnEnd {
+  text-align: center;
+  display: none;
+}
+
+.containerBtnEnd button {
+  border: 3px solid #4b8757;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgray;
+}
+
+.containerBtnEnd button:hover {
+  border: 3px solid lightgray;
+  background-color: rgba(0, 0, 0, 0.76);
+  color: #4b8757;
+}
+
+button {
+  font-size: 36px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 2% 6%;
+  padding: 1% 4%;
+  text-transform: uppercase;
+  transition: 0.6s;
+  box-shadow: 2px 4px 8px black;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-weight: 600;
+  color: lightgray;
+}
+
+button:hover {
+  background-color: gray;
+  color: black;
+  transition: 0.3s;
+  box-shadow: 1px 2px 4px black;
+  border: 3px solid lightgray;
+}
+
+#btnCard {
+  border: 3px solid blue;
+}
+
+#btnStay {
+  border: 3px solid red;
+  display: flex;
+  display: none;
+}
+
+#btnEasy,
+#btnMedium,
+#btnHard {
+  margin: 2% 16%;
+}
+
+#btnEasy {
+  border: 3px solid green;
+}
+
+#btnMedium {
+  border: 3px solid orange;
+}
+
+#btnHard {
+  border: 3px solid red;
+}
+
+#btnCard:hover {
+  background-color: rgba(0, 0, 255, 0.5);
+  border: 3px solid lightgray;
+}
+
+#btnStay:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+  border: 3px solid lightgray;
+}
+
+#btnEasy:hover {
+  background-color: rgba(0, 128, 0, 0.5);
+  border: 3px solid lightgray;
+}
+
+#btnMedium:hover {
+  background-color: rgba(255, 166, 0, 0.493);
+  border: 3px solid lightgray;
+}
+
+#btnHard:hover {
+  background-color: rgba(255, 0, 0, 0.507);
+  border: 3px solid lightgray;
+}
+
+@media screen and (max-width: 860px) {
+  /* body {
+    background-color: rgb(255, 0, 98);
+  } */
+
+  .textDifficulty {
+    margin-top: 16%;
+    margin-bottom: 10%;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  /* body {
+      background-color: rgb(255, 0, 98);
+    } */
+
+  .textDifficulty {
+    margin-top: 22%;
+    margin-bottom: 12%;
+  }
+  .containerIntro h1 {
+    font-size: 56px;
+    padding-top: 8%;
+  }
+
+  .rules ul {
+    font-size: 20px;
+    letter-spacing: 2%;
+  }
+
+  .containerCard p {
+    padding: 0 3%;
+    margin: 40px 0;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  /* body {
+      background-color: rgb(255, 0, 98);
+    } */
+
+  .textDifficulty {
+    margin-top: 18%;
+    margin-bottom: 18%;
+  }
+  #btnEasy,
+  #btnMedium,
+  #btnHard {
+    margin: 6% 16%;
+  }
+  .scoreJoueur,
+  .scoreOrdinateur {
+    display: flex;
+    font-size: 38px;
+    margin-top: 16%;
+  }
+  button {
+    margin: 2% 2%;
+  }
+  .containerIntro h1 {
+    font-size: 44px;
+    padding-top: 12%;
+  }
+
+  .containerIntro h2 {
+    color: white;
+    font-size: 28px;
+    padding-bottom: 50%;
+    font-weight: 300;
+    text-shadow: 1px -1px 1px rgba(0, 128, 0, 0.5);
+  }
+
+  .rules ul {
+    font-size: 18px;
+    letter-spacing: 1%;
+  }
+  .containerCard p {
+    padding: 0 2%;
+    margin: 40px 0;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .containerIntro h1 {
+    font-size: 34px;
+    padding-top: 12%;
+  }
+
+  #btnEasy,
+  #btnMedium,
+  #btnHard {
+    margin: 3% 16%;
+  }
+
+  #textbtnDifficulty {
+    font-size: 35px;
+    margin-top: 18%;
+  }
+
+  .scoreOrdinateur,
+  .scoreJoueur {
+    font-size: 28px;
+    margin-top: 24%;
+  }
+  button {
+    font-size: 30px;
+  }
+
+  .rules ul {
+    font-size: 16px;
+    letter-spacing: 0;
+  }
+  .containerCard p {
+    padding: 0 1%;
+    margin: 40px 0;
+  }
+}

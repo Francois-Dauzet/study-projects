@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Dice replacement utility with the ability to roll a random number up to 99,999."
+    />
+    <meta name="keywords" content="html, css, js" />
+    <meta name="author" content="François Dauzet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../favicon.ico" type="image/x-icon" rel="icon" />
+    <script type="text/javascript" src="js/script.js" defer></script>
+    <link href="" type="image/png" rel="icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Dice</title>
+  </head>
+  <body>
+    <a class="study-projects-back-button" href="../../index.html">Back</a>
+    <div class="container">
+      <div class="containerDice">
+        <h2>Choisir une valeur</h2>
+        <input class="inputText" id="inputText" type="text" />
+        <p id="diceResult"></p>
+        <button type="submit" id="btnStart">Lancer</button>
+      </div>
+      <div class="containerResult">
+        <h2>Récapitulatif</h2>
+        <br />
+        <p class="textResult"></p>
+      </div>
+      <div class="btnReset">
+        <button id="btnReset">Réinitialiser</button>
+      </div>
+    </div>
+  </body>
+</html>

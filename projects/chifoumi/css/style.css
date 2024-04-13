@@ -1,0 +1,338 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #e5e5e5;
+  font-family: "Fjalla One", sans-serif;
+  user-select: none;
+  overflow: hidden;
+}
+
+.study-projects-back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #e0e1dd;
+  color: #000;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 11px #0002;
+  z-index: 12;
+  border: 1px solid #333;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.containerHeader {
+  display: none;
+}
+
+.containerGame {
+  display: none;
+}
+
+:root {
+  --color1: #e5e5e5;
+  --color2: #808080;
+  --color3: #3c3c3c;
+  --colorText: #0c0c0c;
+}
+
+.animShine {
+  background: linear-gradient(90deg, #e5e5e5, #0c0c0c, #e5e5e5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-repeat: repeat;
+  background-size: 80%;
+  animation: shine 12s linear infinite;
+  position: relative;
+}
+
+@keyframes shine {
+  0% {
+    background-position-x: -500%;
+  }
+  100% {
+    background-position-x: 500%;
+  }
+}
+
+/* ////////////////header//////////////// */
+
+.containerHeader {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-image: url("../img/header.png");
+  background-color: rgb(128, 128, 128);
+  filter: invert(10%);
+}
+
+/* ////////////////section//////////////// */
+
+/* ________________intro________________ */
+
+.containerIntro {
+  background-image: url("../img/bgIntro.png");
+  background-size: cover;
+  background-position: top;
+  display: block;
+  height: 100vh;
+  width: 100%;
+  filter: opacity(80%);
+  text-align: center;
+}
+
+.containerIntro h1 {
+  font-size: 88px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+  color: var(--colorText);
+  text-shadow: 1px -1px 28px var(--color1);
+}
+
+.containerIntro p {
+  font-size: 22px;
+  padding: 0;
+  margin: 0;
+}
+
+.itemIntro {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.itemIntro button {
+  margin-top: 25px;
+  box-shadow: 2px 4px 8px black, 1px 2px 18px white;
+  background-color: var(--color3);
+  color: var(--color1);
+  padding: 10px 15px;
+  font-weight: 600;
+  transition: 0.5s;
+  font-size: 30px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  border: 3px solid gold;
+}
+
+.itemIntro button:hover {
+  border: 3px solid var(--color3);
+  background-color: gold;
+  color: var(--colorText);
+  cursor: pointer;
+  box-shadow: 2px 4px 4px black, 1px 2px 9px white;
+}
+
+/* ________________score________________ */
+
+.printScore {
+  display: flex;
+  justify-content: center;
+  font-size: 44px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ordinateurPoints,
+.joueurPoints {
+  margin: 0 2%;
+  border: 3px solid var(--color2);
+  border-radius: 20px;
+  padding: 0 12px;
+  background-color: var(--color3);
+  text-shadow: 1px -1px 4px rgba(0, 0, 0, 0.5);
+  color: var(--color1);
+  box-shadow: 1px 2px 8px black;
+}
+
+.resultat {
+  text-align: center;
+  margin: 0 2%;
+  color: var(--color3);
+  text-shadow: 1px -1px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* ________________imgChoix________________ */
+
+.containerImgChoix {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  position: relative;
+}
+
+.containerImgChoix img {
+  width: 250px;
+  border-radius: 15px;
+}
+
+.itemImgChoix {
+  width: 250px;
+  height: 250px;
+}
+
+.hiddenCard {
+  position: absolute;
+  opacity: 0;
+  transform: scale(0);
+  transition: transform 0.3s ease;
+}
+
+.hiddenCard.showCard {
+  transform: scale(1);
+  opacity: 1;
+  box-shadow: 2px 4px 8px black, 1px 2px 18px white;
+}
+
+/* ________________victoireDéfaite________________ */
+
+.printVictoireDefaite {
+  display: flex;
+  justify-content: center;
+  font-size: 45px;
+}
+
+/* ________________btnChoix________________ */
+
+.containerBtnChoix {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerBtnChoix button {
+  width: 180px;
+  height: 180px;
+  margin: 3px 40px;
+  border-radius: 15px;
+  box-shadow: 2px 4px 8px black, 1px 2px 18px white;
+  background-color: var(--color1);
+  transition: 0.3s;
+}
+
+.containerBtnChoix img {
+  width: 160px;
+  height: 160px;
+  border-radius: 15px;
+}
+
+.containerBtnChoix button text {
+  display: none;
+}
+
+.containerBtnChoix button:hover {
+  box-shadow: 2px 4px 4px black, 1px 2px 9px white;
+  background-color: var(--color3);
+  transform: scale(110%);
+  cursor: pointer;
+}
+
+/* ________________btnEnd________________ */
+
+.containerBtnEnd {
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+  display: none;
+}
+
+.containerBtnEnd div {
+  display: flex;
+  flex-direction: column;
+}
+
+.containerBtnEnd button {
+  font-size: 30px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  background-color: var(--color3);
+  color: var(--color1);
+  box-shadow: 2px 4px 8px black, 1px 2px 18px white;
+  padding: 10px 15px;
+  font-weight: 600;
+  transition: 0.5s;
+}
+
+.containerBtnEnd .btnRestart {
+  margin: 6% 0;
+  border: 3px solid green;
+}
+
+.containerBtnEnd .btnLeave {
+  margin: 3% 0;
+  border: 3px solid red;
+}
+
+.containerBtnEnd .btnRestart:hover {
+  border: 3px solid var(--color3);
+  background-color: green;
+  color: var(--color1);
+  cursor: pointer;
+  box-shadow: 2px 4px 4px black, 1px 2px 9px white;
+}
+
+.containerBtnEnd .btnLeave:hover {
+  border: 3px solid var(--color3);
+  background-color: red;
+  color: var(--color1);
+  cursor: pointer;
+  box-shadow: 2px 4px 4px black, 1px 2px 9px white;
+}
+
+/* ////////////////mediaquerry//////////////// */
+
+@media (max-width: 740px) {
+  .hiddenImg {
+    display: none;
+  }
+  .containerImgChoix {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  .containerBtnChoix button {
+    width: 120px;
+    height: 120px;
+    margin: 3px 6px;
+  }
+  .containerBtnChoix img {
+    width: 100px;
+    height: 100px;
+  }
+  .itemImgChoix {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+  }
+  .containerHeader img {
+    display: none;
+  }
+  .containerImgChoix img {
+    width: 200px;
+  }
+
+  .itemImgChoix {
+    width: 200px;
+    height: 200px;
+  }
+  .flexSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+  }
+}

@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.study-projects-back-button {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #e0e1dd;
+  color: #000;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 11px #0002;
+  z-index: 12;
+  border: 1px solid #333;
+}
+
+body .container {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  font-size: 30px;
+  width: 46px;
+  border-radius: 10px;
+  margin: 1px;
+  font-family: "Roboto Mono", monospace;
+  cursor: pointer;
+}
+
+.containerNum button {
+  background-color: #21242d;
+  color: #c0c4c7;
+}
+
+.containerOpe button {
+  background-color: #045e28;
+  color: #c0c4c7;
+}
+
+.containerBottom button {
+  background-color: #0977a2;
+  color: #c0c4c7;
+}
+
+.containerCalculatrice {
+  margin: 5%;
+  padding: 35px 5px 35px 5px;
+  width: 260px;
+  height: 320px;
+  display: grid;
+  flex-direction: column;
+  border: solid 1px black;
+  justify-content: center;
+  border-radius: 15%;
+  background-color: #c0cbcd;
+  box-shadow: 4px 8px 12px black, -4px -8px 12px rgb(153, 153, 153);
+}
+
+.containerCalculatrice P {
+  text-align: center;
+  margin-bottom: 15px;
+  background-color: #2d3c4c;
+  border-radius: 15px;
+  color: #f6fefd;
+  padding: 1%;
+  font-size: 14px;
+}
+
+.containerScreen {
+  border: solid 3px black;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  background-color: #1f1f27;
+  color: #04fefe;
+  overflow: hidden;
+}
+
+.containerScreen p {
+  margin: 0;
+  font-size: 50px;
+  font-family: "VT323", monospace;
+}
+
+.containerBtn {
+  display: flex;
+  flex-direction: row;
+}
+
+.containerNum {
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+}
+
+.containerOpe {
+  display: flex;
+  flex-direction: column;
+}
+
+.containerBottom {
+  display: grid;
+  grid-template-columns: repeat(2, 100px);
+}
+
+.btnVal,
+.btnRes,
+.btnZer {
+  width: 96px;
+}
