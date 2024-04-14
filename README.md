@@ -37,6 +37,13 @@
 - **Description**: Game where you have to guess the number randomly drawn by the computer using higher or lower hints.
 - **Technologies**: HTML, CSS, JavaScript
 
+## Random QCM
+
+- **Date**: 01/03/2024
+- **Author**: François Dauzet
+- **Description**: Random QCM features randomized multiple choice quizzes covering a range of topics I've studied.
+- **Technologies**: HTML, CSS, JavaScript
+
 ## Snaky Game
 
 - **Date**: 10/12/2021

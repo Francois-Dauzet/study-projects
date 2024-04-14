@@ -1,0 +1,789 @@
+[
+  {
+    "category": "Acculturation Data",
+    "question": "Le Deep Learning fait partie du Machine Learning ?",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Le Deep Learning, utilisant des réseaux de neurones, est une sous-catégorie avancée du Machine Learning"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Les modèles de Deep Learning n'ont pas besoin de beaucoup de données pour être performant",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "Les modèles de Deep Learning nécessitent souvent de vastes ensembles de données pour exceller"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Pour un DataScientist il y a un dilemme entre choisir un modèle interprétable ou performant",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Les data scientists font souvent face à un compromis entre l'interprétabilité et la performance des modèles"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "On cherche à traduire une phrase en anglais. Sommes-nous dans un cas de Computer Vision ou de Natural Language Processing ?",
+    "choices": ["Computer Vision", "Natural Language Processing"],
+    "correctAnswer": "Natural Language Processing",
+    "explanation": "La traduction de phrases relève du NLP, qui traite et comprend le langage, contrairement à la Computer Vision"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "On cherche à prédire si un email est un spam ou non. Sommes-nous dans un cas de Computer Vision ou de Natural Language Processing ?",
+    "choices": ["Computer Vision", "Natural Language Processing"],
+    "correctAnswer": "Natural Language Processing",
+    "explanation": "Prédire si un email est spam relève du NLP, qui analyse le texte, pas des images"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "A partir d'un ensemble d'images d'animaux, on cherche à prédire si c'est une image de chien. Sommes-nous dans un cas de Computer Vision ou de Natural Language Processing ?",
+    "choices": ["Computer Vision", "Natural Language Processing"],
+    "correctAnswer": "Computer Vision",
+    "explanation": "Identifier des chiens sur des images relève de la Computer Vision, qui analyse les visuels"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Quel est le rôle d'un Data Engineer ?",
+    "choices": [
+      "Un Data Engineer est chargé de définir et mettre en place des outils et architectures pour traiter les gros volumes de données",
+      "Un Data Engineer est chargé d'implémenter des algorithmes de traitement de données massives",
+      "Un Data Engineer est chargé de définir les modèles d'analyse à utiliser pour traiter des données brutes",
+      "Un Data Engineer est chargé de visualiser les données"
+    ],
+    "correctAnswer": "Un Data Engineer est chargé de définir et mettre en place des outils et architectures pour traiter les gros volumes de données",
+    "explanation": "Un Data Engineer est chargé de définir et mettre en place des outils et architectures pour traiter les gros volumes de données"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Quel est le rôle du Data Manager dans une équipe Data ?",
+    "choices": [
+      "Un Data Manager supervise des projets de Machine Learning",
+      "Un Data Manager doit garantir l'accessibilité, la qualité et la conformité des données à certaines normes",
+      "Un Data Manager s'occupe de l'analyse des données pour en sortir des indicateurs clé de performance"
+    ],
+    "correctAnswer": "Un Data Manager doit garantir l'accessibilité, la qualité et la conformité des données à certaines normes",
+    "explanation": "Un Data Manager doit garantir l'accessibilité, la qualité et la conformité des données à certaines normes"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Qu'est-ce qui distingue le Machine Learning Engineer du Data Scientist ?",
+    "choices": [
+      "La mise en production des modèles de Machine Learning",
+      "La mise en place de modèles d'analyse des données",
+      "Le Machine Learning Engineer ne touche pas aux techniques de Deep Learning"
+    ],
+    "correctAnswer": "La mise en production des modèles de Machine Learning",
+    "explanation": "La mise en production des modèles de Machine Learning"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Qu'est-il impossible de faire à l'aide d'outils de Data Visualisation ?",
+    "choices": [
+      "Créer des graphiques interactifs utilisables sur des pages web",
+      "Extraire des informations pertinentes d'un jeu de données",
+      "Prédire la valeur futur d'une variable"
+    ],
+    "correctAnswer": "Prédire la valeur futur d'une variable",
+    "explanation": "Prédire la valeur futur d'une variable"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "La classification est une méthode d'apprentissage supervisé ?",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "La classification est une méthode d'apprentissage supervisé où les données sont étiquetées et le modèle apprend à prédire des étiquettes pour de nouvelles données"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "On cherche à identifier des groupes de consommateurs similaires. Nous sommes dans un cas d'apprentissage supervisé ou non supervisé ?",
+    "choices": ["Apprentissage Supervisé", "Apprentissage Non Supervisé"],
+    "correctAnswer": "Apprentissage Non Supervisé",
+    "explanation": "Dans ce cas, il s'agit d'un apprentissage non supervisé car il n'y a pas d'étiquettes prédéfinies pour les groupes de consommateurs"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "On cherche à prédire si un consommateur va acheter un produit ou non. Dans quel type de situation sommes-nous ?",
+    "choices": ["Classification", "Régression", "Non Supervisé"],
+    "correctAnswer": "Classification",
+    "explanation": "Dans cette situation, nous sommes dans un cas de classification car nous cherchons à prédire une catégorie ou une classe spécifique (acheter ou ne pas acheter)"
+  },
+  {
+    "category": "Acculturation Data",
+    "question": "Vous souhaitez traduire un menu de restaurant à partir d'une photo, de quel(s) type(s) de modèle(s) de Deep Learning avez-vous besoin ?",
+    "choices": ["Computer Vision", "Natural Language Processing", "Les deux"],
+    "correctAnswer": "Computer Vision",
+    "explanation": "Pour traduire un menu de restaurant à partir d'une photo, vous auriez besoin d'un modèle de Deep Learning de Computer Vision"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quel est le système d'exploitation le plus utilisé dans le cloud ?",
+    "choices": ["Windows", "macOS", "Linux", "Unix"],
+    "correctAnswer": "Linux",
+    "explanation": "Linux est le système d'exploitation le plus utilisé dans le cloud grâce à sa flexibilité et sa fiabilité"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de créer un répertoire dans Bash ?",
+    "choices": ["touch", "mkdir", "cp", "mv"],
+    "correctAnswer": "mkdir",
+    "explanation": "La commande mkdir permet de créer un nouveau répertoire dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Qu'est-ce qu'une variable d'environnement dans Bash ?",
+    "choices": [
+      "Une variable stockée dans la mémoire vive de l'ordinateur",
+      "Une variable utilisée pour stocker les résultats d'une commande",
+      "Une variable utilisée pour stocker des données temporaires dans un script Bash",
+      "Une variable spéciale qui contient des informations sur le système d'exploitation ou sur la configuration de l'utilisateur"
+    ],
+    "correctAnswer": "Une variable spéciale qui contient des informations sur le système d'exploitation ou sur la configuration de l'utilisateur",
+    "explanation": "Une variable d'environnement dans Bash contient des informations sur le système ou la configuration utilisateur"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de changer de répertoire dans Bash ?",
+    "choices": ["ls", "mv", "cp", "cd"],
+    "correctAnswer": "cd",
+    "explanation": "La commande cd est utilisée pour changer le répertoire courant dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de lister les fichiers et répertoires d'un répertoire dans Bash ?",
+    "choices": ["ls", "rm", "cp", "mv"],
+    "correctAnswer": "ls",
+    "explanation": "ls est la commande pour lister les fichiers et répertoires dans un répertoire en Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de changer les permissions d'un fichier dans Bash ?",
+    "choices": ["chmod", "chown", "chgrp", "perm"],
+    "correctAnswer": "chmod",
+    "explanation": "chmod permet de changer les permissions d'un fichier dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de supprimer un fichier dans Bash ?",
+    "choices": ["rm", "rmdir", "del", "erase"],
+    "correctAnswer": "rm",
+    "explanation": "La commande rm est utilisée pour supprimer des fichiers dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de rechercher du texte dans un fichier dans Bash ?",
+    "choices": ["find", "search", "grep", "locate"],
+    "correctAnswer": "grep",
+    "explanation": "grep est la commande pour rechercher du texte dans des fichiers en utilisant Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de tuer un processus en cours d'exécution dans Bash ?",
+    "choices": ["kill", "stop", "terminate", "end"],
+    "correctAnswer": "kill",
+    "explanation": "La commande kill permet d'arrêter un processus en cours d'exécution dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet d'afficher le contenu d'un fichier dans Bash ?",
+    "choices": ["cat", "ls", "cp", "mv"],
+    "correctAnswer": "cat",
+    "explanation": "cat est utilisée pour afficher le contenu d'un fichier dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quel format de compression est généralement utilisé avec la commande `tar` dans Bash ?",
+    "choices": ["zip", "gzip", "rar", "7z"],
+    "correctAnswer": "gzip",
+    "explanation": "gzip est souvent utilisé avec tar pour la compression dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de créer un répertoire dans Bash ?",
+    "choices": ["mkdir", "touch", "cp", "mv"],
+    "correctAnswer": "mkdir",
+    "explanation": "La commande mkdir permet de créer un répertoire dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de visualiser les processus en cours d'exécution dans Bash ?",
+    "choices": ["ls", "top", "kill", "ps"],
+    "correctAnswer": "ps",
+    "explanation": "ps est la commande pour visualiser les processus en cours d'exécution dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de démarrer un service dans Bash ?",
+    "choices": ["systemctl start", "service start", "system start", "start"],
+    "correctAnswer": "systemctl start",
+    "explanation": "systemctl start est utilisé pour démarrer un service dans Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle boucle permet d'itérer sur une liste d'éléments dans un script Bash ?",
+    "choices": [
+      "La boucle `while`",
+      "La boucle `do-while`",
+      "La boucle `for`",
+      "La boucle `until`"
+    ],
+    "correctAnswer": "La boucle `for`",
+    "explanation": "La boucle for est utilisée pour itérer sur une liste d'éléments dans un script Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle structure de contrôle permet d'exécuter une instruction conditionnelle dans un script Bash ?",
+    "choices": [
+      "L'instruction `if`",
+      "L'instruction `switch`",
+      "L'instruction `else`",
+      "L'instruction `for`"
+    ],
+    "correctAnswer": "L'instruction `if`",
+    "explanation": "L'instruction if permet d'exécuter une instruction conditionnelle dans un script Bash"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet d'exécuter un script Bash dans un environnement cron ?",
+    "choices": ["crontab", "bash", "cron", "execute"],
+    "correctAnswer": "bash",
+    "explanation": "crontab est la commande pour exécuter un script Bash dans un environnement cron"
+  },
+  {
+    "category": "Linux et Bash DevOps",
+    "question": "Quelle commande permet de créer une boucle de répétition dans un script Bash ?",
+    "choices": ["if", "while", "for", "switch"],
+    "correctAnswer": "while",
+    "explanation": "La commande for permet de créer une boucle de répétition dans un script Bash"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quel est le rôle d'un hyperviseur dans la virtualisation ?",
+    "choices": [
+      "Il permet de gérer les machines virtuelles et de leur attribuer des ressources matérielles",
+      "Il fournit une interface graphique pour interagir avec les machines virtuelles",
+      "Il assure la sécurité des machines virtuelles en isolant leurs environnements",
+      "Il facilite la migration des machines virtuelles entre différents serveurs physiques"
+    ],
+    "correctAnswer": "Il permet de gérer les machines virtuelles et de leur attribuer des ressources matérielles",
+    "explanation": "L'hyperviseur est responsable de la gestion des machines virtuelles en leur attribuant des ressources matérielles et en facilitant leur exécution"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle est la différence entre la virtualisation matérielle et la virtualisation logicielle ?",
+    "choices": [
+      "La virtualisation matérielle permet d'exécuter différents systèmes d'exploitation sur un même serveur physique, tandis que la virtualisation logicielle permet de virtualiser des applications pour les déployer sur différents appareils",
+      "La virtualisation matérielle permet de consolider plusieurs serveurs virtuels sur une seule machine physique, tandis que la virtualisation logicielle permet de créer un système informatique complet avec du matériel virtuel",
+      "La virtualisation matérielle concerne la gestion des ressources matérielles telles que le CPU et le stockage, tandis que la virtualisation logicielle concerne la virtualisation des applications et des systèmes d'exploitation",
+      "La virtualisation matérielle est utilisée pour la virtualisation des serveurs, tandis que la virtualisation logicielle est utilisée pour la virtualisation du réseau"
+    ],
+    "correctAnswer": "La virtualisation matérielle concerne la gestion des ressources matérielles telles que le CPU et le stockage, tandis que la virtualisation logicielle concerne la virtualisation des applications et des systèmes d'exploitation",
+    "explanation": "La virtualisation matérielle se concentre sur la gestion des ressources matérielles, tandis que la virtualisation logicielle se concentre sur la virtualisation des applications et des systèmes d'exploitation"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quels sont les avantages de la virtualisation ?",
+    "choices": [
+      "Réduction des coûts matériels et énergétiques",
+      "Isolation des applications pour une meilleure sécurité",
+      "Minimisation des temps d'arrêt, augmentation de la réactivité informatique et amélioration de la gestion du centre de données",
+      "Tous les choix ci-dessus sont des avantages de la virtualisation"
+    ],
+    "correctAnswer": "Réduction des coûts matériels et énergétiques",
+    "explanation": "La virtualisation permet de réduire les coûts matériels et énergétiques en consolidant plusieurs machines virtuelles sur une seule machine physique"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quel est l'avantage des conteneurs par rapport aux machines virtuelles ?",
+    "choices": [
+      "Les conteneurs offrent une meilleure isolation des processus",
+      "Les conteneurs consomment moins de ressources matérielles",
+      "Les conteneurs permettent une meilleure portabilité des applications",
+      "Les conteneurs offrent un contrôle plus granulaire des ressources"
+    ],
+    "correctAnswer": "Les conteneurs offrent une meilleure isolation des processus",
+    "explanation": "Les conteneurs fournissent une isolation des processus similaire à celle des machines virtuelles, voire meilleure dans certains cas, tout en consommant moins de ressources matérielles"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Qu'est-ce que Docker ?",
+    "choices": [
+      "Docker est un outil qui permet de virtualiser des machines physiques",
+      "Docker est un outil qui permet de créer des machines virtuelles à l'aide de Vagrant",
+      "Docker est un outil qui permet de regrouper une application avec toutes ses dépendances dans un conteneur",
+      "Docker est un outil qui permet de déployer des applications sur des machines virtuelles"
+    ],
+    "correctAnswer": "Docker est un outil qui permet de regrouper une application avec toutes ses dépendances dans un conteneur",
+    "explanation": "Docker permet de créer des conteneurs logiciels qui regroupent une application avec toutes ses dépendances, ce qui facilite le développement de logiciels"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle commande permet d'installer Vagrant sur une distribution Linux en utilisant les gestionnaires de paquets par défaut ?",
+    "choices": [
+      "`sudo apt-get install vagrant`",
+      "`vagrant install`",
+      "`sudo vagrant install`",
+      "`apt install vagrant`"
+    ],
+    "correctAnswer": "`sudo apt-get install vagrant`",
+    "explanation": "La commande sudo apt-get install vagrant permet d'installer Vagrant en utilisant les gestionnaires de paquets par défaut sur une distribution Linux"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle est la signification du paramètre 'forwarded_port' dans la configuration d'une machine virtuelle Vagrant ?",
+    "choices": [
+      "Il définit les ports à rediriger depuis la machine virtuelle vers l'hôte",
+      "Il définit les ports à bloquer entre la machine virtuelle et l'hôte",
+      "Il définit les ports à utiliser pour la communication interne entre les machines virtuelles",
+      "Il définit les ports à rediriger depuis l'hôte vers la machine virtuelle"
+    ],
+    "correctAnswer": "Il définit les ports à rediriger depuis l'hôte vers la machine virtuelle",
+    "explanation": "Le paramètre 'forwarded_port' dans la configuration d'une machine virtuelle Vagrant permet de définir les ports à rediriger depuis l'hôte vers la machine virtuelle"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Qu'est-ce que Vagrant ?",
+    "choices": [
+      "Un outil de gestion de configuration",
+      "Un outil de virtualisation",
+      "Un outil de gestion d'environnements de développement",
+      "Un outil de provisionnement"
+    ],
+    "correctAnswer": "Un outil de gestion d'environnements de développement",
+    "explanation": "Vagrant est un outil de gestion d'environnements de développement qui facilite la création et la configuration de machines virtuelles pour les projets de développement"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Comment vérifier si Vagrant est correctement installé ?",
+    "choices": [
+      "`vagrant check`",
+      "`vagrant --version`",
+      "`vagrant info`",
+      "`vagrant status`"
+    ],
+    "correctAnswer": "`vagrant --version`",
+    "explanation": "La commande vagrant --version affiche la version actuellement installée de Vagrant"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quels sont les outils de provisionnement pris en charge par Vagrant ?",
+    "choices": ["Ansible", "Docker", "Chef", "Terraform"],
+    "correctAnswer": "Ansible",
+    "explanation": "Ansible est un outil de provisionnement pris en charge par Vagrant"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle commande permet de démarrer une machine virtuelle avec Vagrant ?",
+    "choices": [
+      "`vagrant up`",
+      "`vagrant start`",
+      "`vagrant run`",
+      "`vagrant boot`"
+    ],
+    "correctAnswer": "`vagrant up`",
+    "explanation": "La commande `vagrant up` permet de démarrer une machine virtuelle avec Vagrant"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Comment spécifier la quantité de mémoire allouée à une machine virtuelle avec Vagrant ?",
+    "choices": [
+      "`vagrant memory`",
+      "`vagrant configure`",
+      "`vagrant box`",
+      "Il faut modifier le Vagrantfile"
+    ],
+    "correctAnswer": "Il faut modifier le Vagrantfile",
+    "explanation": "Pour spécifier la quantité de mémoire allouée à une machine virtuelle avec Vagrant, il faut modifier le Vagrantfile, et ce via la syntaxe suivante `serveur_web.create_args = ['--memory=Xg']` (On remplace X par la valeur souhaitée, exemple 1g)"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quels sont les types de réseaux disponibles dans Vagrant ?",
+    "choices": [
+      "bridge, host, overlay, ipvlan, macvlan, none",
+      "NAT, internal, public",
+      "LAN, WAN, MAN",
+      "eth0, eth1, eth2"
+    ],
+    "correctAnswer": "bridge, host, overlay, ipvlan, macvlan, none",
+    "explanation": "Les types de réseaux disponibles dans Vagrant sont : bridge, host, overlay, ipvlan, macvlan et none"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Comment configurer la redirection de port dans Vagrant ?",
+    "choices": [
+      "En renseignant dans le Vagrantfile les ports concernés et en utilisant la commande `vagrant reload`",
+      "En utilisant la commande `vagrant ssh`",
+      "En utilisant la commande `vagrant up`",
+      "En utilisant la commande `vagrant destroy`"
+    ],
+    "correctAnswer": "En renseignant dans le Vagrantfile les ports concernés et en utilisant la commande `vagrant reload`",
+    "explanation": "Pour configurer la redirection de port dans Vagrant, il faut modifier le fichier Vagrantfile en spécifiant les ports à rediriger et ensuite exécuter la commande `vagrant reload` pour appliquer les modifications"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle est la différence entre les types de réseau 'bridge' et 'host' dans Vagrant ?",
+    "choices": [
+      "Le type 'bridge' permet à la machine virtuelle d'accéder au réseau externe, tandis que le type 'host' permet à la machine virtuelle d'accéder au réseau de l'hôte",
+      "Le type 'bridge' est utilisé pour les connexions sans fil, tandis que le type 'host' est utilisé pour les connexions filaires",
+      "Le type 'bridge' permet la communication entre plusieurs machines virtuelles, tandis que le type 'host' isole la machine virtuelle du reste du réseau",
+      "Le type 'bridge' est utilisé pour les machines virtuelles Linux, tandis que le type 'host' est utilisé pour les machines virtuelles Windows"
+    ],
+    "correctAnswer": "Le type 'bridge' permet à la machine virtuelle d'accéder au réseau externe, tandis que le type 'host' permet à la machine virtuelle d'accéder au réseau de l'hôte",
+    "explanation": "Le type 'bridge' dans Vagrant permet à la machine virtuelle d'accéder au réseau externe en créant une interface réseau virtuelle, tandis que le type 'host' permet à la machine virtuelle d'accéder au réseau de l'hôte directement"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quel type de réseau dans Vagrant permet d'isoler complètement la machine virtuelle du réseau de l'hôte ?",
+    "choices": ["bridge", "host", "overlay", "ipvlan"],
+    "correctAnswer": "host",
+    "explanation": "Le type 'host' dans Vagrant isole complètement la machine virtuelle du réseau de l'hôte, la machine virtuelle n'a pas de connectivité avec le réseau de l'hôte"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Comment vérifier l'adresse IP attribuée à une machine virtuelle Vagrant ?",
+    "choices": [
+      "En utilisant la commande `vagrant ip`",
+      "En utilisant la commande `vagrant ssh-config`",
+      "En utilisant la commande `vagrant status`",
+      "En vérifiant le fichier Vagrantfile"
+    ],
+    "correctAnswer": "En utilisant la commande `vagrant ssh-config`",
+    "explanation": "La commande `vagrant ssh-config` permet de vérifier l'adresse IP attribuée à une machine virtuelle Vagrant"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle est la fonction du paramètre 'private_network' dans la configuration d'une machine virtuelle Vagrant ?",
+    "choices": [
+      "Définir une adresse IP publique pour la machine virtuelle",
+      "Configurer un réseau privé virtuel entre plusieurs machines virtuelles",
+      "Attribuer une adresse IP privée à la machine virtuelle",
+      "Activer la communication avec le réseau de l'hôte"
+    ],
+    "correctAnswer": "Attribuer une adresse IP privée à la machine virtuelle",
+    "explanation": "Le paramètre 'private_network' dans la configuration d'une machine virtuelle Vagrant permet d'attribuer une adresse IP privée à la machine virtuelle"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Quelle est la différence entre les types de réseau 'public_network' et 'private_network' dans Vagrant ?",
+    "choices": [
+      "Le type 'public_network' permet à la machine virtuelle d'accéder au réseau externe, tandis que le type 'private_network' permet uniquement une communication interne entre les machines virtuelles",
+      "Le type 'public_network' attribue une adresse IP publique à la machine virtuelle, tandis que le type 'private_network' attribue une adresse IP privée",
+      "Le type 'public_network' attribue une adresse IP publique à la machine virtuelle, tandis que le type 'private_network' attribue une adresse IP privée et permet une communication interne entre les machines virtuelles",
+      "Le type 'public_network' permet uniquement une communication interne entre les machines virtuelles, tandis que le type 'private_network' permet à la machine virtuelle d'accéder au réseau externe"
+    ],
+    "correctAnswer": "Le type 'public_network' permet uniquement une communication interne entre les machines virtuelles, tandis que le type 'private_network' permet à la machine virtuelle d'accéder au réseau externe",
+    "explanation": "Le type 'public_network' dans Vagrant attribue une adresse IP publique à la machine virtuelle et permet l'accès au réseau externe. Le type 'private_network' attribue une adresse IP privée et permet également une communication interne entre les machines virtuelles"
+  },
+  {
+    "category": "Vagrant",
+    "question": "Comment définir une adresse IP spécifique pour une machine virtuelle Vagrant ?",
+    "choices": [
+      "En modifiant directement les fichiers de configuration réseau de la machine virtuelle",
+      "En utilisant la commande `vagrant network`",
+      "En configurant le paramètre 'private_network' avec l'adresse IP souhaitée dans le fichier Vagrantfile",
+      "En utilisant la commande `vagrant ip`"
+    ],
+    "correctAnswer": "En configurant le paramètre 'private_network' avec l'adresse IP souhaitée dans le fichier Vagrantfile",
+    "explanation": "Pour définir une adresse IP spécifique pour une machine virtuelle Vagrant, vous devez configurer le paramètre 'private_network' avec l'adresse IP souhaitée dans le fichier Vagrantfile"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Les appareils de stockage réseau (NAS : Network Attached Storage) appartiennent à la catégorie du stockage fichier",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Ce sont des périphériques réseaux qui gèrent des systèmes de fichiers distribués"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Le stockage fichier permet de gérer plusieurs format de données (image, audio, vidéo, texte, etc.)",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Tout à fait, comme dans Linux par exemple, tout est considéré comme un fichier identifié par une route unique"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Le stockage de fichiers peut être difficile à configurer",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "Au contraire, cette approche étant très semblable à une gestion d'une boite d'archive, elle très intuitive"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "L'accès aux données est limité dans ce mode par un chemin d'accès unique",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "En effet, sauf effort supplémentaire par l'OS, les métadonnées de fichiers sont généralement limitées à leurs propres chemins seulement"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Microsoft Azure Blob Storage est un cloud storage en mode fichiers",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "C'est plutôt une solution orientée object storage qu'on découvrira dans une section ultérieure"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Hadoop est parmi les systèmes opérant en block storage",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Évidemment, il s'agit d'un système de stockage qui traite toutes les structures de données comme des blocs dont les tailles max par défaut est de 64 Mo"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Pour le stockage bloc, la haute disponibilité et les performances ne sont pas des caractéristiques essentielles",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "Au contraire, ce mode de stockage basique vise principalement à assurer une résilience (par le biais de la duplication ou autre mécanisme) et une réponde rapide"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Un réseau SAN est un réseau informatique qui fournit un accès au stockage des données. Les réseaux SAN présentent le stockage par blocs aux autres systèmes en réseau, comme si ces blocs étaient des périphériques connectés localement",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "La technologie SAN vise essentiellement à faire abstraction faite de la localité physique de la data par rapport à sa manipulation"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Overlay2, overlay sont deux pilotes de stockage Docker opérant en mode bloc",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "Ils opèrent plutôt en mode fichier"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Le stockage objet est idéal pour les ensembles de données très volumineux",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "La notion d'objet est abstraite et elle n'est pas contraignante à une taille donnée"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Dans le stockage d'objets, les métadonnées ne peuvent pas être personnalisées pour inclure des informations supplémentaires et détaillées sur les fichiers de données stockés dans l'objet",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Faux",
+    "explanation": "Bien au contraire, comme le concept d'un objet dans la POO, les attributs sont le libre choix du concepteur du storage"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Il suffit de disposer de l'ID d'un objet pour y accéder",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Exactement, étant donné que les attributs sont au choix, la seule métadonnée obligatoire étant l'ID et qui permet de facto d'accéder à l'objet correspondant"
+  },
+  {
+    "category": "Gestion des données",
+    "question": "Amazon Web Services S3 est un exemple de système de stockage en architecture objet",
+    "choices": ["Vrai", "Faux"],
+    "correctAnswer": "Vrai",
+    "explanation": "Oui et ce depuis son apparition en 2006"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelle commande permet d'afficher les informations sur la mémoire et le cache ?",
+    "choices": ["top", "free", "ps", "vmstat"],
+    "correctAnswer": "top",
+    "explanation": "La commande top affiche les informations sur la mémoire et le cache"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quel fichier contient les informations détaillées sur la mémoire système ?",
+    "choices": [
+      "/proc/meminfo",
+      "/etc/fstab",
+      "/etc/hosts",
+      "/var/log/messages"
+    ],
+    "correctAnswer": "/proc/meminfo",
+    "explanation": "Le fichier /proc/meminfo contient les informations détaillées sur la mémoire système"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Comment monte-t-on un périphérique sous Linux ?",
+    "choices": ["umount", "mount", "lsblk", "blkid"],
+    "correctAnswer": "mount",
+    "explanation": "Pour monter un périphérique sous Linux, utilisez la commande mount"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelle commande permet de créer une nouvelle partition avec `fdisk` ?",
+    "choices": ["fdisk -l", "fdisk -p", "fdisk -n", "fdisk -c"],
+    "correctAnswer": "fdisk -n",
+    "explanation": "Pour créer une nouvelle partition avec fdisk, utilisez la commande fdisk -n"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelle commande permet de supprimer une partition ?",
+    "choices": ["umount", "fsck", "mount", "fdisk"],
+    "correctAnswer": "fdisk",
+    "explanation": "Pour supprimer une partition, utilisez la commande fdisk"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Comment affiche-t-on la liste des groupes de volumes LVM existants ?",
+    "choices": ["vgs", "pvs", "lvmdiskscan", "pvdisplay"],
+    "correctAnswer": "vgs",
+    "explanation": "Pour afficher la liste des groupes de volumes LVM existants, utilisez la commande vgs"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelle commande permet de formater un volume logique dans un groupe de volumes LVM ?",
+    "choices": ["mkfs -t", "pvcreate", "lvcreate", "vgcreate"],
+    "correctAnswer": "mkfs -t",
+    "explanation": "Pour formater un volume logique dans un groupe de volumes LVM, utilisez la commande mkfs -t"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce que le modèle OSI et quel est son rôle dans la gestion du réseau ?",
+    "choices": [
+      "Le modèle OSI est un protocole de gestion du réseau utilisé pour superviser les équipements et les services",
+      "Le modèle OSI est un protocole de routage utilisé pour acheminer les paquets dans un réseau",
+      "Le modèle OSI est un modèle de référence qui définit une structure en sept couches pour les protocoles réseau. Son rôle est de fournir un cadre conceptuel pour la conception, le développement et la gestion des réseaux",
+      "Le modèle OSI est un protocole de sécurité utilisé pour chiffrer les données transitant sur un réseau"
+    ],
+    "correctAnswer": "Le modèle OSI est un modèle de référence qui définit une structure en sept couches pour les protocoles réseau. Son rôle est de fournir un cadre conceptuel pour la conception, le développement et la gestion des réseaux",
+    "explanation": "Le modèle OSI est une structure en sept couches qui définit les protocoles réseau"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelles sont les différentes couches du modèle OSI et quelles sont leurs fonctions ?",
+    "choices": [
+      "Couches du modèle OSI : 1. Couche réseau (routage des paquets), 2. Couche transport (gestion de la fiabilité du transport), 3. Couche liaison de données (transfert de trames), 4. Couche physique (transmission des bits), 5. Couche application (interactions avec les applications), 6. Couche session (gestion des sessions), 7. Couche présentation (gestion des formats de données)",
+      "Couches du modèle OSI : 1. Couche physique (transmission des bits), 2. Couche liaison de données (transfert de trames), 3. Couche réseau (routage des paquets), 4. Couche transport (gestion de la fiabilité du transport), 5. Couche session (gestion des sessions), 6. Couche présentation (gestion des formats de données), 7. Couche application (interactions avec les applications)",
+      "Couches du modèle OSI : 1. Couche physique (transmission des bits), 2. Couche session (gestion des sessions), 3. Couche application (interactions avec les applications), 4. Couche liaison de données (transfert de trames), 5. Couche transport (gestion de la fiabilité du transport), 6. Couche présentation (gestion des formats de données), 7. Couche réseau (routage des paquets)",
+      "Couches du modèle OSI : 1. Couche application (interactions avec les applications), 2. Couche présentation (gestion des formats de données), 3. Couche session (gestion des sessions), 4. Couche transport (gestion de la fiabilité du transport), 5. Couche réseau (routage des paquets), 6. Couche liaison de données (transfert de trames), 7. Couche physique (transmission des bits)"
+    ],
+    "correctAnswer": "Couches du modèle OSI : 1. Couche physique (transmission des bits), 2. Couche liaison de données (transfert de trames), 3. Couche réseau (routage des paquets), 4. Couche transport (gestion de la fiabilité du transport), 5. Couche session (gestion des sessions), 6. Couche présentation (gestion des formats de données), 7. Couche application (interactions avec les applications)",
+    "explanation": "Les différentes couches du modèle OSI sont : application, présentation, session, transport, réseau, liaison de données et physique"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Comment convertir une adresse IP décimale en binaire ?",
+    "choices": [
+      "Convertir chaque partie décimale de l'adresse IP en binaire et les concaténer pour former l'adresse IP binaire complète",
+      "Convertir chaque partie décimale de l'adresse IP en octal et les concaténer pour former l'adresse IP octale complète",
+      "Convertir chaque partie décimale de l'adresse IP en hexadécimal et les concaténer pour former l'adresse IP hexadécimale complète",
+      "Convertir chaque partie décimale de l'adresse IP en base64 et les concaténer pour former l'adresse IP en base64 complète"
+    ],
+    "correctAnswer": "Convertir chaque partie décimale de l'adresse IP en binaire et les concaténer pour former l'adresse IP binaire complète",
+    "explanation": "Pour convertir une adresse IP décimale en binaire, convertissez chaque partie décimale en binaire et concaténez-les"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelles sont les classes d'adresses IP et à quoi servent-elles ?",
+    "choices": [
+      "Les classes d'adresses IP sont A, B, C, D et E. Elles servent à identifier le type et la taille de réseau d'une adresse IP",
+      "Les classes d'adresses IP sont 1, 2, 3, 4 et 5. Elles servent à définir les différentes couches du modèle OSI",
+      "Les classes d'adresses IP sont A, B, C, D et E. Elles servent à identifier la localisation géographique d'une adresse IP",
+      "Les classes d'adresses IP sont A, B, C, D et E. Elles servent à spécifier le protocole de transport utilisé"
+    ],
+    "correctAnswer": "Les classes d'adresses IP sont A, B, C, D et E. Elles servent à identifier le type et la taille de réseau d'une adresse IP",
+    "explanation": "Les classes d'adresses IP sont A, B, C, D et E, et elles servent à identifier le type et la taille de réseau"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce que l'adressage IP et comment fonctionne-t-il ?",
+    "choices": [
+      "L'adressage IP est un système qui permet d'attribuer des adresses uniques à chaque appareil connecté à un réseau. Il fonctionne en utilisant des adresses IP composées de nombres binaires ou décimaux, qui identifient l'emplacement et l'identité d'un appareil dans un réseau",
+      "L'adressage IP est un système qui permet de regrouper des adresses similaires dans des classes. Il fonctionne en utilisant des masques de sous-réseau pour diviser les adresses en sous-réseaux plus petits",
+      "L'adressage IP est un système qui permet de convertir les adresses IP en noms de domaine. Il fonctionne en utilisant des serveurs DNS pour effectuer la résolution IP/Domaine",
+      "L'adressage IP est un système qui permet de sécuriser les connexions réseau. Il fonctionne en utilisant des clés de cryptage pour chiffrer les données échangées entre les appareils"
+    ],
+    "correctAnswer": "L'adressage IP est un système qui permet d'attribuer des adresses uniques à chaque appareil connecté à un réseau. Il fonctionne en utilisant des adresses IP composées de nombres binaires ou décimaux, qui identifient l'emplacement et l'identité d'un appareil dans un réseau",
+    "explanation": "L'adressage IP attribue des adresses uniques à chaque appareil sur un réseau pour les identifier et fonctionne en utilisant des adresses binaires ou décimales"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce qu'un masque de sous-réseau et comment est-il utilisé dans la configuration réseau ?",
+    "choices": [
+      "Un masque de sous-réseau est un système de protection contre les attaques réseau. Il est utilisé dans la configuration réseau pour bloquer l'accès non autorisé aux ressources",
+      "Un masque de sous-réseau est un format de représentation des adresses IP. Il est utilisé dans la configuration réseau pour spécifier le type d'adresse IP utilisé",
+      "Un masque de sous-réseau est un protocole de routage utilisé pour diriger les paquets dans un réseau. Il est utilisé dans la configuration réseau pour définir les chemins de routage",
+      "Un masque de sous-réseau est un paramètre utilisé pour diviser un réseau en sous-réseaux plus petits. Il est utilisé dans la configuration réseau en conjonction avec une adresse IP pour définir la portée et les limites d'un réseau"
+    ],
+    "correctAnswer": "Un masque de sous-réseau est un paramètre utilisé pour diviser un réseau en sous-réseaux plus petits. Il est utilisé dans la configuration réseau en conjonction avec une adresse IP pour définir la portée et les limites d'un réseau",
+    "explanation": "Un masque de sous-réseau divise un réseau en sous-réseaux plus petits et est utilisé avec une adresse IP pour définir la portée et les limites du réseau"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce qu'un socket et que sont les numéros de port ?",
+    "choices": [
+      "Un socket est un type de câble utilisé pour connecter des appareils réseau. Les numéros de port sont des adresses IP assignées aux appareils pour les identifier sur le réseau",
+      "Un socket est une technique de cryptage utilisée pour sécuriser les connexions réseau. Les numéros de port sont des clés de chiffrement utilisées pour décoder les données",
+      "Un socket est un point de communication bidirectionnel entre deux programmes sur un réseau. Les numéros de port sont des identifiants numériques utilisés pour diriger les données vers des applications spécifiques",
+      "Un socket est un type de pare-feu utilisé pour bloquer les connexions réseau non autorisées. Les numéros de port sont des adresses IP utilisées pour identifier les appareils sur le réseau"
+    ],
+    "correctAnswer": "Un socket est un point de communication bidirectionnel entre deux programmes sur un réseau. Les numéros de port sont des identifiants numériques utilisés pour diriger les données vers des applications spécifiques",
+    "explanation": "Un socket est un point de communication entre deux programmes sur un réseau, et les numéros de port sont des identifiants numériques pour diriger les données"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce que le système de noms de domaine (DNS) et comment fonctionne-t-il ?",
+    "choices": [
+      "Le système de noms de domaine (DNS) est un système qui associe des noms de domaine (par exemple, www.example.com) à des adresses IP. Il fonctionne en utilisant une structure hiérarchique de serveurs DNS qui se consultent mutuellement pour résoudre les requêtes de conversion nom-IP",
+      "Le système de noms de domaine (DNS) est un système qui permet de créer des adresses IP temporaires pour les appareils sur un réseau. Il fonctionne en attribuant dynamiquement des adresses IP aux appareils lors de leur connexion au réseau",
+      "Le système de noms de domaine (DNS) est un système de sécurité réseau qui détecte et bloque les attaques DNS. Il fonctionne en analysant les paquets réseau à la recherche de comportements suspects",
+      "Le système de noms de domaine (DNS) est un système de routage qui détermine les chemins de transmission des données sur le réseau. Il fonctionne en utilisant des tables de routage pour diriger les paquets vers leur destination"
+    ],
+    "correctAnswer": "Le système de noms de domaine (DNS) est un système qui associe des noms de domaine (par exemple, www.example.com) à des adresses IP. Il fonctionne en utilisant une structure hiérarchique de serveurs DNS qui se consultent mutuellement pour résoudre les requêtes de conversion nom-IP",
+    "explanation": "Le DNS associe des noms de domaine à des adresses IP en utilisant une structure hiérarchique de serveurs DNS pour résoudre les requêtes"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Qu'est-ce que le routage et comment les paquets sont-ils acheminés dans un réseau ?",
+    "choices": [
+      "Le routage est le processus de cryptage des paquets de données dans un réseau. Les paquets sont acheminés en utilisant des algorithmes de chiffrement pour garantir leur confidentialité",
+      "Le routage est le processus de filtrage des paquets de données dans un réseau. Les paquets sont acheminés en utilisant des pare-feu pour bloquer les connexions non autorisées",
+      "Le routage est le processus de compression des paquets de données dans un réseau. Les paquets sont acheminés en utilisant des algorithmes de compression pour réduire leur taille",
+      "Le routage est le processus de transmission de paquets de données à travers un réseau. Les paquets sont acheminés en utilisant des tables de routage qui contiennent des informations sur les chemins les plus efficaces pour atteindre leur destination"
+    ],
+    "correctAnswer": "Le routage est le processus de transmission de paquets de données à travers un réseau. Les paquets sont acheminés en utilisant des tables de routage qui contiennent des informations sur les chemins les plus efficaces pour atteindre leur destination",
+    "explanation": "Le routage est le processus de transmission de paquets de données à travers un réseau en utilisant des tables de routage pour déterminer les chemins les plus efficaces"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quelles sont les différences entre IPv4 et IPv6 ?",
+    "choices": [
+      "IPv4 utilise des adresses de 64 bits et IPv6 utilise des adresses de 128 bits",
+      "IPv4 utilise des adresses de 32 bits et IPv6 utilise des adresses de 128 bits",
+      "IPv4 utilise des adresses de 128 bits et IPv6 utilise des adresses de 64 bits",
+      "IPv4 utilise des adresses de 16 bits et IPv6 utilise des adresses de 32 bits"
+    ],
+    "correctAnswer": "IPv4 utilise des adresses de 32 bits et IPv6 utilise des adresses de 128 bits",
+    "explanation": "IPv4 utilise des adresses de 32 bits, tandis que IPv6 utilise des adresses de 128 bits"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Comment utiliser la commande 'ip' pour afficher les informations relatives aux adresses IP ?",
+    "choices": [
+      "La commande `ipconfig` affiche les informations relatives aux adresses IP",
+      "La commande `ifconfig` affiche les informations relatives aux adresses IP",
+      "La commande `netstat` affiche les informations relatives aux adresses IP",
+      "La commande `ip addr show` affiche les informations relatives aux adresses IP"
+    ],
+    "correctAnswer": "La commande `ip addr show` affiche les informations relatives aux adresses IP",
+    "explanation": "Pour afficher les informations relatives aux adresses IP, utilisez la commande ip addr show"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Comment demander une adresse IP à un serveur DHCP à l'aide de la commande `dhclient` ?",
+    "choices": [
+      "La commande `dhclient` demande automatiquement une adresse IP à un serveur DHCP",
+      "La commande `dhcp-request` demande une adresse IP à un serveur DHCP",
+      "La commande `ifconfig` demande une adresse IP à un serveur DHCP",
+      "La commande `ipconfig` demande une adresse IP à un serveur DHCP"
+    ],
+    "correctAnswer": "La commande `dhclient` demande automatiquement une adresse IP à un serveur DHCP",
+    "explanation": "La commande dhclient demande automatiquement une adresse IP à un serveur DHCP"
+  },
+  {
+    "category": "Administration des systèmes Linux",
+    "question": "Quel est le rôle du fichier '/etc/resolv.conf' dans la résolution IP/Domaine et comment le configurer ?",
+    "choices": [
+      "Le fichier '/etc/resolv.conf' contient les informations sur les serveurs DNS utilisés pour la résolution IP/Domaine. Il peut être configuré en ajoutant les adresses IP des serveurs DNS dans ce fichier",
+      "Le fichier '/etc/resolv.conf' contient les informations sur les adresses IP des interfaces réseau. Il peut être configuré en spécifiant les adresses IP dans ce fichier",
+      "Le fichier '/etc/resolv.conf' contient les informations sur les routes par défaut du système. Il peut être configuré en ajoutant les routes dans ce fichier",
+      "Le fichier '/etc/resolv.conf' contient les informations sur les paramètres de proxy du système. Il peut être configuré en spécifiant les paramètres de proxy dans ce fichier"
+    ],
+    "correctAnswer": "Le fichier '/etc/resolv.conf' contient les informations sur les serveurs DNS utilisés pour la résolution IP/Domaine. Il peut être configuré en ajoutant les adresses IP des serveurs DNS dans ce fichier",
+    "explanation": "Le fichier /etc/resolv.conf contient les informations sur les serveurs DNS utilisés pour la résolution IP/Domaine, et il peut être configuré en ajoutant les adresses IP des serveurs DNS"
+  }
+]
