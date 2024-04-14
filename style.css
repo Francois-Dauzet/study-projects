@@ -4,17 +4,31 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #0d1b2a;
   margin: 0;
+  user-select: none;
+}
+
+.container {
+  margin-bottom: 2rem;
 }
 
 .container h1 {
   font-size: 4rem;
   text-align: center;
-  color: #fff;
-  padding: 2rem 0;
+  color: #eee;
+  padding: 1rem 0;
   margin-top: 0;
-  border-bottom: 2px solid #fff;
+  margin-bottom: 0;
   background-color: #1b263b;
-  box-shadow: 1px 1px 11px #0004;
+}
+
+.container .container-description {
+  font-size: 1rem;
+  text-align: center;
+  color: #ccc;
+  padding: 0.75rem 2rem 2rem 2rem;
+  margin-top: 0;
+  background-color: #1b263b;
+  border-bottom: 2px solid #ccc;
 }
 
 .container-projects {
@@ -22,24 +36,44 @@ body {
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
+  margin-top: 2rem;
 }
 
 .container-projects a {
   text-decoration: none;
   background-color: #1b263b;
-  color: #fff;
+  color: #eee;
   font-size: 2rem;
   margin: 2rem;
   padding: 2rem;
   border-radius: 1rem;
   transition: background-color 0.4s;
-  min-width: 12rem;
+  width: 12rem;
+  height: 14rem;
   text-align: center;
   box-shadow: 1px 1px 11px #0004;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .container-projects a:hover {
   background-color: #415a77;
   transition: background-color 0.2s;
   box-shadow: 1px 1px 11px #0008;
+}
+
+.container-projects a img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 1rem;
+  box-shadow: 0 0 32px #415a7780;
+  opacity: 80%;
+}
+
+.container-projects p {
+  margin-bottom: 0;
+  font-size: 1.5rem;
 }
