@@ -1,6 +1,6 @@
 # Study Projects
 
-#### Welcome to my portfolio website! Here, you'll find a collection of projects that I've developed during my journey in learning web development. Each project represents a milestone in my learning process and showcases my skills in HTML, CSS, and JavaScript.
+#### Welcome to my portfolio website! Here, you'll find a collection of projects that I've developed during my journey in learning web development. Each project represents a milestone in my learning process and showcases my skills.
 
 ## Blackjack 21
 
