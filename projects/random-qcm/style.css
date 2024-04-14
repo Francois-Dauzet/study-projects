@@ -125,39 +125,39 @@ body {
 @media screen and (max-width: 1000px) {
   /* Title */
   .question h3 {
-    font-size: 3.2rem;
+    font-size: 1.8rem;
   }
   .question h2 {
-    font-size: 3.4rem;
+    font-size: 1.8rem;
     margin-bottom: 64px;
   }
 
   /* Buttons choices */
   .choice {
     margin: 16px 0;
-    font-size: 3.2rem;
+    font-size: 1.8rem;
     padding: 16px 32px;
     min-width: 512px;
   }
 
   /* Response */
   .container-explanation img {
-    width: 16rem;
+    width: 8rem;
   }
   .response-true {
-    font-size: 3.8rem;
+    font-size: 1.8rem;
   }
   .response-false {
-    font-size: 3.8rem;
+    font-size: 1.8rem;
   }
   .explanation {
-    font-size: 3.2rem;
+    font-size: 1.8rem;
   }
 
   /* Next question */
   #nextQuestion {
     margin: 16px 0;
-    font-size: 3.2rem;
+    font-size: 1.8rem;
     padding: 16px 32px;
     min-width: 256px;
   }
