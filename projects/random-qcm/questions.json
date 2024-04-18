@@ -785,5 +785,194 @@
     ],
     "correctAnswer": "Le fichier '/etc/resolv.conf' contient les informations sur les serveurs DNS utilisés pour la résolution IP/Domaine. Il peut être configuré en ajoutant les adresses IP des serveurs DNS dans ce fichier",
     "explanation": "Le fichier /etc/resolv.conf contient les informations sur les serveurs DNS utilisés pour la résolution IP/Domaine, et il peut être configuré en ajoutant les adresses IP des serveurs DNS"
-  }
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Qu'est-ce qui caractérise une table d'une base de données ?",
+    "choices": ["Un schéma", "Des variables", "Des attributs"],
+    "correctAnswer": "Un schéma",
+    "explanation": "Une table dans une base de données est caractérisée par son schéma, qui définit la structure et les propriétés des données qu'elle contient."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Que signifie l’acronyme ACID, qui détermine les propriétés vérifiées par des SGBDR ?",
+    "choices": [
+      "Atomicité, Cohérence, Isolation, Durabilité",
+      "Agilité, Consistance, Innovation, Dynamisme"
+    ],
+    "correctAnswer": "Atomicité, Cohérence, Isolation, Durabilité",
+    "explanation": "L'acronyme ACID représente les propriétés fondamentales garanties par les Systèmes de Gestion de Bases de Données Relationnelles (SGBDR) pour assurer la fiabilité des transactions."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Qu’est-ce qui caractérise la clé primaire d’une table ?",
+    "choices": [
+      "Elle ne peut être composée que d’un attribut",
+      "Elle doit toujours être renseignée",
+      "Elle doit être unique",
+      "Il s’agit du 1er attribut renseigné dans la table"
+    ],
+    "correctAnswer": "Elle doit être unique",
+    "explanation": "La clé primaire d'une table doit être unique, ce qui signifie qu'aucune autre ligne dans la table ne peut avoir la même valeur pour cette clé."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Quelle est la commande pour faire une projection / afficher les éléments d’une table ?",
+    "choices": ["PRINT", "OUTPUT", "SELECT"],
+    "correctAnswer": "SELECT",
+    "explanation": "La commande SELECT est utilisée pour faire une projection dans une base de données, c'est-à-dire pour récupérer et afficher les éléments spécifiés d'une ou plusieurs tables."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Que permet le mot-clé DISTINCT dans une requête ?",
+    "choices": [
+      "Afficher un seul élément dans chaque colonne",
+      "Afficher les éléments uniques de chaque colonne"
+    ],
+    "correctAnswer": "Afficher les éléments uniques de chaque colonne",
+    "explanation": "Le mot-clé DISTINCT permet de filtrer les doublons dans les résultats d'une requête, en affichant uniquement les valeurs uniques des colonnes spécifiées."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Lequel de ces mots-clés n’est pas un opérateur pour établir une condition ?",
+    "choices": ["NOT NULL", "BETWEEN", "DIFFERENT", "LIKE"],
+    "correctAnswer": "DIFFERENT",
+    "explanation": "DIFFERENT n'est pas un opérateur pour établir une condition en SQL. Les opérateurs usuels sont NOT NULL, BETWEEN, et LIKE."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Lequel de ces mots-clés ne permet pas d’établir une relation entre 2 ensembles ?",
+    "choices": ["IGNORE", "INTERSECT", "UNION", "EXCEPT"],
+    "correctAnswer": "IGNORE",
+    "explanation": "Le mot-clé IGNORE ne permet pas d'établir une relation entre 2 ensembles en SQL. Les autres mots-clés, INTERSECT, UNION et EXCEPT, sont utilisés pour établir des relations entre ensembles."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Quel sera l’ordre de tri établi par défaut par la clause ORDER BY ?",
+    "choices": ["ASC", "DESC"],
+    "correctAnswer": "ASC",
+    "explanation": "Par défaut, la clause ORDER BY trie les résultats dans l'ordre croissant (ASC) selon la colonne spécifiée. Pour trier dans l'ordre décroissant, on utilise DESC."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Quelle requête permet de chercher les examens portant sur du SQL ?",
+    "choices": [
+      "SELECT * FROM Examen WHERE Module LIKE ‘%SQL%’;",
+      "SELECT * FROM Examen WHERE Module LIKE ‘[SQL]’;",
+      "SELECT * FROM Examen WHERE Module LIKE ‘^SQL^’;"
+    ],
+    "correctAnswer": "SELECT * FROM Examen WHERE Module LIKE ‘%SQL%’;",
+    "explanation": "La requête SELECT * FROM Examen WHERE Module LIKE ‘%SQL%’; permet de chercher les examens dont le nom du module contient le terme 'SQL'. Le % est un caractère générique qui peut représenter n'importe quelle séquence de caractères."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Quel type de jointure est impossible à réaliser en SQL ?",
+    "choices": ["INNER JOIN", "OUTER JOIN", "LEFT JOIN", "EXTERNAL JOIN"],
+    "correctAnswer": "EXTERNAL JOIN",
+    "explanation": "Le type de jointure 'EXTERNAL JOIN' n'existe pas en SQL. Les autres types de jointure comme INNER JOIN, OUTER JOIN et LEFT JOIN sont couramment utilisés."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Que permettent les fonctions d'agrégation ?",
+    "choices": [
+      "Combiner des attributs entre eux",
+      "Réaliser des opérations sur plusieurs lignes"
+    ],
+    "correctAnswer": "Réaliser des opérations sur plusieurs lignes",
+    "explanation": "Les fonctions d'agrégation permettent de réaliser des opérations sur plusieurs lignes de données, telles que la somme, la moyenne, le comptage, etc., pour fournir des résultats agrégés."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Laquelle de ces fonctions n’est pas une fonction d’agrégation ?",
+    "choices": ["SUM", "LENGTH", "AVG", "COUNT"],
+    "correctAnswer": "LENGTH",
+    "explanation": "La fonction LENGTH n'est pas une fonction d'agrégation en SQL. Les fonctions SUM, AVG et COUNT sont couramment utilisées pour agréger des données."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "A quoi sert le mot-clé GROUP BY dans une requête ?",
+    "choices": [
+      "Regrouper un ou plusieurs attributs sur lesquels appliquer une fonction d’agrégation",
+      "Créer de nouvelles tables à partir d’attributs déjà existants"
+    ],
+    "correctAnswer": "Regrouper un ou plusieurs attributs sur lesquels appliquer une fonction d’agrégation",
+    "explanation": "Le mot-clé GROUP BY est utilisé pour regrouper les résultats d'une requête en fonction des valeurs d'un ou plusieurs attributs, sur lesquels peuvent ensuite être appliquées des fonctions d'agrégation comme SUM, AVG, COUNT, etc."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Comment ajouter une clé étrangère lors de la création d’une table / ajout d’une contrainte ?",
+    "choices": [
+      "FOREIGN KEY (attribut) REFERENCES Table(attribut)",
+      "FOREIGN KEY (attribut) RELATES TO Table(attribut)",
+      "FOREIGN KEY (attribut) INDICATES Table(attribut)"
+    ],
+    "correctAnswer": "FOREIGN KEY (attribut) REFERENCES Table(attribut)",
+    "explanation": "Pour ajouter une clé étrangère lors de la création d'une table ou l'ajout d'une contrainte, on utilise la syntaxe : FOREIGN KEY (attribut) REFERENCES Table(attribut), où 'attribut' est l'attribut de la table courante faisant référence à 'attribut' dans une autre table."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Lors de la création d’une contrainte dans une table, quel est le mot-clé à employer pour vérifier qu’une condition est respectée ?",
+    "choices": ["VERIFIES", "CHECK"],
+    "correctAnswer": "CHECK",
+    "explanation": "Lors de la création d'une contrainte dans une table, le mot-clé à employer pour vérifier qu'une condition est respectée est CHECK. Cette condition spécifie une expression qui doit être évaluée comme vraie pour chaque ligne de la table."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Comment supprimer une ligne d’une table ?",
+    "choices": ["DELETE FROM TABLE", "DROP FROM TABLE"],
+    "correctAnswer": "DELETE FROM TABLE",
+    "explanation": "Pour supprimer une ligne d'une table en SQL, on utilise la commande DELETE FROM TABLE, où TABLE est le nom de la table à partir de laquelle vous souhaitez supprimer les lignes."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Comment supprimer une table d’une base de données ?",
+    "choices": ["DELETE TABLE", "DROP TABLE"],
+    "correctAnswer": "DROP TABLE",
+    "explanation": "Pour supprimer une table d'une base de données en SQL, on utilise la commande DROP TABLE, suivie du nom de la table que l'on souhaite supprimer."
+  },
+  {
+    "category": "Langage SQL",
+    "question": "Qu'est-ce qui caractérise les attributs d'une table ?",
+    "choices": [
+        "Un type",
+        "Une ou des contraintes",
+        "Un objet"
+    ],
+    "correctAnswer": "Une ou des contraintes",
+    "explanation": "Les attributs d'une table peuvent être caractérisés par une ou plusieurs contraintes, en plus de leur type de données, pour imposer des règles sur les valeurs qu'ils peuvent contenir."
+},
+{
+    "category": "Langage SQL",
+    "question": "Quel type peut prendre un attribut en SQL ?",
+    "choices": [
+        "STRING",
+        "DOUBLE",
+        "BOOLEAN",
+        "DATETIME"
+    ],
+    "correctAnswer": "DOUBLE",
+    "explanation": "En SQL, un attribut peut être de type DOUBLE, ce qui permet de stocker des valeurs numériques décimales avec une précision étendue."
+},
+{
+    "category": "Langage SQL",
+    "question": "Une clé étrangère peut faire référence à n’importe quelle colonne d’une autre table.",
+    "choices": [
+        "Vrai",
+        "Faux"
+    ],
+    "correctAnswer": "Faux",
+    "explanation": "Une clé étrangère doit faire référence à une colonne spécifique d'une autre table, permettant ainsi de créer une relation entre ces deux tables basée sur cette colonne spécifique."
+},
+{
+    "category": "Langage SQL",
+    "question": "Quelle jointure est à privilégier si l’on souhaite éviter d’avoir des valeurs nulles dans notre requête ?",
+    "choices": [
+        "INNER JOIN",
+        "LEFT JOIN",
+        "RIGHT JOIN",
+        "OUTER JOIN"
+    ],
+    "correctAnswer": "INNER JOIN",
+    "explanation": "L'INNER JOIN est à privilégier si l'on souhaite éviter d'avoir des valeurs nulles dans notre requête, car il ne renvoie que les enregistrements qui ont des valeurs correspondantes dans les deux tables."
+}
 ]
