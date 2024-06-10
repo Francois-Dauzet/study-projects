@@ -974,5 +974,125 @@
     ],
     "correctAnswer": "INNER JOIN",
     "explanation": "L'INNER JOIN est à privilégier si l'on souhaite éviter d'avoir des valeurs nulles dans notre requête, car il ne renvoie que les enregistrements qui ont des valeurs correspondantes dans les deux tables."
+},
+{
+  "category": "Docker",
+  "question": "Qu'est-ce que Docker ?",
+  "choices": [
+    "Un système d'exploitation basé sur Linux.",
+    "Une plateforme de virtualisation.",
+    "Un outil de gestion de conteneurs.",
+    "Un langage de programmation."
+  ],
+  "correctAnswer": "Un outil de gestion de conteneurs.",
+  "explanation": "Docker est un outil de gestion de conteneurs qui permet de déployer des applications de manière cohérente et portable."
+},
+{
+  "category": "Docker",
+  "question": "Quels sont les avantages de l'utilisation de Docker ?",
+  "choices": [
+    "Isolation des applications dans des conteneurs légers et portables.",
+    "Utilisation efficace des ressources système.",
+    "Facilité de déploiement et de mise à l'échelle des applications.",
+    "Virtualisation complète du matériel."
+  ],
+  "correctAnswer": "Isolation des applications dans des conteneurs légers et portables.",
+  "explanation": "Docker permet l'isolation des applications, une utilisation efficace des ressources et facilite le déploiement et la mise à l'échelle. Cependant, il ne virtualise pas complètement le matériel comme les hyperviseurs traditionnels."
+},
+{
+  "category": "Docker",
+  "question": "Qu'est-ce qu'une image Docker ?",
+  "choices": [
+    "Un modèle de machine virtuelle.",
+    "Un package logiciel qui contient tout le nécessaire pour exécuter une application.",
+    "Une configuration réseau pour connecter des conteneurs entre eux.",
+    "Un outil pour construire des applications multiplateformes."
+  ],
+  "correctAnswer": "Un package logiciel qui contient tout le nécessaire pour exécuter une application.",
+  "explanation": "Une image Docker est un package logiciel qui inclut tout le nécessaire pour exécuter une application : code, runtime, bibliothèques et paramètres."
+},
+{
+  "category": "Docker",
+  "question": "Comment crée-t-on une image Docker ?",
+  "choices": [
+    "En utilisant la commande `docker create .`",
+    "En utilisant la commande `docker build .`",
+    "En utilisant la commande `docker run .`",
+    "En utilisant la commande `docker pull .`"
+  ],
+  "correctAnswer": "En utilisant la commande `docker build .`",
+  "explanation": "La commande `docker build .` est utilisée pour créer une image Docker à partir d'un Dockerfile."
+},
+{
+  "category": "Docker",
+  "question": "Quelle commande permet de démarrer un conteneur Docker à partir d'une image ?",
+  "choices": [
+    "`docker run`",
+    "`docker start`",
+    "`docker create`",
+    "`docker build`"
+  ],
+  "correctAnswer": "`docker run`",
+  "explanation": "La commande `docker run` démarre un conteneur à partir d'une image Docker spécifiée."
+},
+{
+  "category": "Docker",
+  "question": "Comment partage-t-on une image Docker avec d'autres utilisateurs ?",
+  "choices": [
+    "En utilisant la commande `docker share`",
+    "En envoyant l'image par e-mail.",
+    "En la publiant sur le registre Docker Hub.",
+    "En la copiant manuellement sur d'autres machines."
+  ],
+  "correctAnswer": "En la publiant sur le registre Docker Hub.",
+  "explanation": "Pour partager une image Docker, il est courant de la publier sur Docker Hub, un registre public pour les images Docker."
+},
+{
+  "category": "Docker",
+  "question": "Comment arrête-t-on un conteneur Docker en cours d'exécution ?",
+  "choices": [
+    "`docker stop`",
+    "`docker kill`",
+    "`docker pause`",
+    "`docker remove`"
+  ],
+  "correctAnswer": "`docker stop`",
+  "explanation": "La commande `docker stop` arrête un conteneur Docker en cours d'exécution de manière ordonnée."
+},
+{
+  "category": "Docker",
+  "question": "Qu'est-ce qu'un Dockerfile ?",
+  "choices": [
+    "Un fichier de configuration pour déployer un conteneur Docker.",
+    "Un fichier de journalisation des activités du conteneur Docker.",
+    "Un fichier de sauvegarde pour les données du conteneur Docker.",
+    "Un fichier de script pour gérer les dépendances du conteneur Docker."
+  ],
+  "correctAnswer": "Un fichier de configuration pour déployer un conteneur Docker.",
+  "explanation": "Un Dockerfile est un fichier de configuration contenant les instructions nécessaires pour assembler une image Docker."
+},
+{
+  "category": "Docker",
+  "question": "Comment relie-t-on plusieurs conteneurs Docker ensemble ?",
+  "choices": [
+    "En utilisant des volumes partagés.",
+    "En utilisant des variables d'environnement.",
+    "En utilisant des liens (links) entre les conteneurs.",
+    "En utilisant des sous-réseaux virtuels (Virtual subnets)."
+  ],
+  "correctAnswer": "En utilisant des volumes partagés.",
+  "explanation": "Pour relier plusieurs conteneurs Docker ensemble, on utilise des volumes partagés pour permettre la communication et le partage de données entre eux."
+},
+{
+  "category": "Docker",
+  "question": "Quelle commande permet de lister tous les conteneurs Docker en cours d'exécution ?",
+  "choices": [
+    "`docker list`",
+    "`docker ps`",
+    "`docker status`",
+    "`docker inspect`"
+  ],
+  "correctAnswer": "`docker ps`",
+  "explanation": "La commande `docker ps` permet de lister tous les conteneurs Docker en cours d'exécution."
 }
 ]
