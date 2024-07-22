@@ -1094,5 +1094,225 @@
   ],
   "correctAnswer": "`docker ps`",
   "explanation": "La commande `docker ps` permet de lister tous les conteneurs Docker en cours d'exécution."
+},
+{
+  "category": "Github",
+  "question": "Qu'est-ce que Git ?",
+  "choices": [
+    "Un système de gestion de versions",
+    "Un logiciel de retouche d'image",
+    "Un éditeur de texte"
+  ],
+  "correctAnswer": "Un système de gestion de versions",
+  "explanation": "Git est un système de gestion de versions distribué qui permet de suivre les modifications apportées aux fichiers et de coordonner le travail entre plusieurs personnes."
+},
+{
+  "category": "Github",
+  "question": "Comment crée-t-on un nouveau référentiel Git ?",
+  "choices": [
+    "git init",
+    "git clone",
+    "git branch"
+  ],
+  "correctAnswer": "git init",
+  "explanation": "La commande `git init` initialise un nouveau référentiel Git."
+},
+{
+  "category": "Github",
+  "question": "Quelle commande est utilisée pour enregistrer des modifications dans un référentiel Git ?",
+  "choices": [
+    "git add",
+    "git push",
+    "git commit"
+  ],
+  "correctAnswer": "git commit",
+  "explanation": "La commande `git commit` enregistre les modifications dans l'historique du référentiel."
+},
+{
+  "category": "Github",
+  "question": "Quelle commande permet de cloner un référentiel Git distant sur votre ordinateur local ?",
+  "choices": [
+    "git remote",
+    "git clone",
+    "git pull"
+  ],
+  "correctAnswer": "git clone",
+  "explanation": "La commande `git clone` copie un référentiel Git distant sur votre ordinateur local."
+},
+{
+  "category": "Github",
+  "question": "Quel est le but de la commande git pull ?",
+  "choices": [
+    "Mettre à jour votre référentiel local avec les dernières modifications du référentiel distant",
+    "Envoyer les modifications de votre référentiel local vers le référentiel distant",
+    "Créer une nouvelle branche dans le référentiel distant"
+  ],
+  "correctAnswer": "Mettre à jour votre référentiel local avec les dernières modifications du référentiel distant",
+  "explanation": "La commande `git pull` récupère les modifications du référentiel distant et les fusionne avec votre référentiel local."
+},
+{
+  "category": "Github",
+  "question": "Quelle est la commande pour vérifier l'état de votre référentiel Git local ?",
+  "choices": [
+    "git log",
+    "git diff",
+    "git status"
+  ],
+  "correctAnswer": "git status",
+  "explanation": "La commande `git status` affiche l'état des modifications dans votre répertoire de travail."
+},
+{
+  "category": "Github",
+  "question": "Comment fusionne-t-on une branche dans Git ?",
+  "choices": [
+    "git merge",
+    "git branch",
+    "git checkout"
+  ],
+  "correctAnswer": "git merge",
+  "explanation": "La commande `git merge` fusionne une branche spécifiée dans la branche courante."
+},
+{
+  "category": "Github",
+  "question": "Comment supprime-t-on une branche dans Git ?",
+  "choices": [
+    "git merge",
+    "git branch -d",
+    "git push"
+  ],
+  "correctAnswer": "git branch -d",
+  "explanation": "La commande `git branch -d` supprime une branche locale spécifiée."
+},
+{
+  "category": "Github",
+  "question": "Que fait la commande Git restore ?",
+  "choices": [
+    "Elle supprime définitivement un fichier de l'historique Git",
+    "Elle restaure les modifications d'un fichier à un état précédent dans l'historique Git",
+    "Elle annule les modifications d'un fichier dans l'espace de travail Git"
+  ],
+  "correctAnswer": "Elle annule les modifications d'un fichier dans l'espace de travail Git",
+  "explanation": "La commande `git restore` annule les modifications apportées à un fichier dans l'espace de travail."
+},
+{
+  "category": "Github",
+  "question": "Quelle est la différence entre git pull et git fetch ?",
+  "choices": [
+    "Git pull récupère et fusionne les modifications du référentiel distant, tandis que git fetch ne récupère que les modifications",
+    "Git fetch récupère et fusionne les modifications du référentiel distant, tandis que git pull ne récupère que les modifications",
+    "Git pull et git fetch sont identiques"
+  ],
+  "correctAnswer": "Git pull récupère et fusionne les modifications du référentiel distant, tandis que git fetch ne récupère que les modifications",
+  "explanation": "La commande `git pull` récupère les modifications et les fusionne avec la branche courante, tandis que `git fetch` récupère les modifications sans les fusionner."
+},
+{
+  "category": "Github",
+  "question": "Qu'est-ce qu'un conflit de fusion dans Git ?",
+  "choices": [
+    "Une situation où Git crée une nouvelle branche à partir de deux branches existantes.",
+    "Une situation où deux branches sont identiques et ne nécessitent pas de fusion.",
+    "Une situation où Git ne peut pas fusionner deux branches automatiquement."
+  ],
+  "correctAnswer": "Une situation où Git ne peut pas fusionner deux branches automatiquement.",
+  "explanation": "Un conflit de fusion se produit lorsque Git ne peut pas résoudre automatiquement les différences entre deux branches."
+},
+{
+  "category": "Github",
+  "question": "Comment résoudre un conflit de fusion dans Git ?",
+  "choices": [
+    "Utiliser la commande git merge pour résoudre le conflit.",
+    "Ouvrir le fichier en conflit et le modifier manuellement.",
+    "Utiliser la commande git rebase pour résoudre le conflit."
+  ],
+  "correctAnswer": "Ouvrir le fichier en conflit et le modifier manuellement.",
+  "explanation": "Pour résoudre un conflit de fusion, vous devez ouvrir le fichier en conflit et le modifier manuellement, puis le valider."
+},
+{
+  "category": "Github",
+  "question": "Comment crée-t-on une nouvelle branche dans Git ?",
+  "choices": [
+    "git branch",
+    "git checkout",
+    "git branch -b"
+  ],
+  "correctAnswer": "git branch",
+  "explanation": "La commande `git branch` crée une nouvelle branche dans le référentiel."
+},
+{
+  "category": "Github",
+  "question": "Comment ajoute-t-on un nouveau fichier à un référentiel Git ?",
+  "choices": [
+    "git commit",
+    "git add",
+    "git push"
+  ],
+  "correctAnswer": "git add",
+  "explanation": "La commande `git add` ajoute un nouveau fichier à l'index (staging area) du référentiel."
+},
+{
+  "category": "Github",
+  "question": "Comment supprime-t-on un fichier d'un référentiel Git ?",
+  "choices": [
+    "git mv",
+    "git rm",
+    "git delete"
+  ],
+  "correctAnswer": "git rm",
+  "explanation": "La commande `git rm` supprime un fichier du référentiel et de l'index."
+},
+{
+  "category": "Github",
+  "question": "Qu'est-ce que Github Actions ?",
+  "choices": [
+    "Un service de gestion de versions",
+    "Un système de suivi des problèmes",
+    "Un service d'automatisation de flux de travail"
+  ],
+  "correctAnswer": "Un service d'automatisation de flux de travail",
+  "explanation": "GitHub Actions est un service qui permet d'automatiser les flux de travail directement depuis votre référentiel GitHub."
+},
+{
+  "category": "Github",
+  "question": "Comment démarre-t-on un flux de travail dans Github Actions ?",
+  "choices": [
+    "En envoyant une demande de fusion de code",
+    "En ajoutant un commentaire dans une demande de tirage",
+    "En déclenchant un événement spécifique, tel qu'un push ou une création de tag"
+  ],
+  "correctAnswer": "En déclenchant un événement spécifique, tel qu'un push ou une création de tag",
+  "explanation": "Les flux de travail dans GitHub Actions sont déclenchés par des événements spécifiques tels que des push, des pull requests, ou des créations de tags."
+},
+{
+  "category": "Github",
+  "question": "Quelle est le langage utilisé pour écrire des actions personnalisées dans Github Actions ?",
+  "choices": [
+    "Python",
+    "YAML",
+    "JavaScript"
+  ],
+  "correctAnswer": "YAML",
+  "explanation": "Les flux de travail de GitHub Actions sont définis dans des fichiers YAML."
+},
+{
+  "category": "Github",
+  "question": "Comment peut-on déclencher un flux de travail manuellement dans Github Actions ?",
+  "choices": [
+    "En cliquant sur un bouton dans l'interface utilisateur de Github",
+    "En utilisant la commande git push --workflow=myworkflow",
+    "En envoyant une demande de tirage vers une branche spécifique"
+  ],
+  "correctAnswer": "En cliquant sur un bouton dans l'interface utilisateur de Github",
+  "explanation": "Vous pouvez déclencher manuellement un flux de travail dans GitHub Actions en utilisant l'interface utilisateur de GitHub."
+},
+{
+  "category": "Github",
+  "question": "Comment peut-on stocker des secrets dans Github Actions ?",
+  "choices": [
+    "En utilisant la commande git secrets add",
+    "En ajoutant des variables d'environnement cryptées dans le fichier de configuration du flux de travail",
+    "En utilisant la commande git encrypt pour chiffrer les fichiers contenant les secrets"
+  ],
+  "correctAnswer": "En ajoutant des variables d'environnement cryptées dans le fichier de configuration du flux de travail",
+  "explanation": "Les secrets dans GitHub Actions sont stockés en tant que variables d'environnement cryptées et peuvent être référencés dans les fichiers de configuration du flux de travail."
 }
 ]
