@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Fleurs",
+    "question": "Quelle partie de la plante est responsable de la reproduction ?",
+    "choices": [
+      "La racine",
+      "La tige",
+      "La fleur"
+    ],
+    "correctAnswer": "La fleur",
+    "explanation": "La fleur est l'organe de reproduction des plantes à fleurs."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quel est le rôle principal des pétales d'une fleur ?",
+    "choices": [
+      "Protéger les graines",
+      "Attirer les pollinisateurs",
+      "Produire des nutriments"
+    ],
+    "correctAnswer": "Attirer les pollinisateurs",
+    "explanation": "Les pétales colorés et souvent parfumés des fleurs servent principalement à attirer les pollinisateurs."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quelle hormone végétale est principalement responsable de la floraison ?",
+    "choices": [
+      "L'auxine",
+      "L'éthylène",
+      "La gibbérelline"
+    ],
+    "correctAnswer": "L'éthylène",
+    "explanation": "L'éthylène est une hormone végétale qui joue un rôle clé dans le processus de floraison."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quel type de fleur ne produit pas de fruits ?",
+    "choices": [
+      "Fleur incomplète",
+      "Fleur stérile",
+      "Fleur double"
+    ],
+    "correctAnswer": "Fleur stérile",
+    "explanation": "Les fleurs stériles ne produisent pas de fruits car elles ne possèdent pas de structures reproductives fonctionnelles."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quel élément n'est pas considéré comme un soin essentiel pour les fleurs coupées ?",
+    "choices": [
+      "Changer l'eau quotidiennement",
+      "Exposer les fleurs à la lumière directe du soleil",
+      "Recouper les tiges"
+    ],
+    "correctAnswer": "Exposer les fleurs à la lumière directe du soleil",
+    "explanation": "Exposer les fleurs coupées à la lumière directe du soleil peut accélérer leur déperissement."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quelle technique est utilisée pour prolonger la durée de vie des fleurs coupées ?",
+    "choices": [
+      "Ajouter un conservateur floral à l'eau",
+      "Laisser les fleurs sans eau",
+      "Utiliser de l'eau chaude"
+    ],
+    "correctAnswer": "Ajouter un conservateur floral à l'eau",
+    "explanation": "L'utilisation d'un conservateur floral dans l'eau aide à prolonger la durée de vie des fleurs coupées."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quelle condition climatique n'est pas favorable à la plupart des fleurs ?",
+    "choices": [
+      "Climat humide",
+      "Climat froid extrême",
+      "Climat tempéré"
+    ],
+    "correctAnswer": "Climat froid extrême",
+    "explanation": "La plupart des fleurs ne tolèrent pas bien le climat froid extrême."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quelle méthode n'est pas une méthode de propagation des fleurs ?",
+    "choices": [
+      "La greffe",
+      "L'hydroponie",
+      "Le bouturage"
+    ],
+    "correctAnswer": "L'hydroponie",
+    "explanation": "L'hydroponie est une méthode de culture des plantes dans l'eau, mais ce n'est pas une méthode de propagation."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quel est l'effet de l'élagage sur une plante à fleurs ?",
+    "choices": [
+      "Réduit la floraison",
+      "Stimule la floraison",
+      "N'affecte pas la floraison"
+    ],
+    "correctAnswer": "Stimule la floraison",
+    "explanation": "L'élagage peut aider à stimuler la floraison en encourageant la croissance de nouvelles branches florales."
+  },
+  {
+    "category": "Fleurs",
+    "question": "Quel nutriment est essentiel pour la couleur vibrante des fleurs ?",
+    "choices": [
+      "Nitrogène",
+      "Phosphore",
+      "Potassium"
+    ],
+    "correctAnswer": "Phosphore",
+    "explanation": "Le phosphore est un nutriment essentiel qui aide à intensifier la couleur et la qualité des fleurs."
+  }
+]
