@@ -1,112 +1,948 @@
 [
   {
-    "category": "Fleurs",
-    "question": "Quelle partie de la plante est responsable de la reproduction ?",
+    "category": "Végétaux",
+    "question": "Quel est le principal rôle des feuilles dans les plantes ?",
     "choices": [
-      "La racine",
-      "La tige",
-      "La fleur"
+      "Respirer",
+      "Effectuer la photosynthèse",
+      "Absorber l'eau"
     ],
-    "correctAnswer": "La fleur",
-    "explanation": "La fleur est l'organe de reproduction des plantes à fleurs."
+    "correctAnswer": "Effectuer la photosynthèse",
+    "explanation": "Les feuilles transforment les sucs grâce à la photosynthèse."
   },
   {
-    "category": "Fleurs",
-    "question": "Quel est le rôle principal des pétales d'une fleur ?",
+    "category": "Végétaux",
+    "question": "Combien existe-t-il de grandes familles de végétaux selon le document ?",
     "choices": [
-      "Protéger les graines",
-      "Attirer les pollinisateurs",
-      "Produire des nutriments"
+      "1",
+      "2",
+      "3"
     ],
-    "correctAnswer": "Attirer les pollinisateurs",
-    "explanation": "Les pétales colorés et souvent parfumés des fleurs servent principalement à attirer les pollinisateurs."
+    "correctAnswer": "2",
+    "explanation": "Le document mentionne deux familles de végétaux : les coupés et les racinés."
   },
   {
-    "category": "Fleurs",
-    "question": "Quelle hormone végétale est principalement responsable de la floraison ?",
+    "category": "Végétaux",
+    "question": "Quel type de plante est une fleur coupée ?",
     "choices": [
-      "L'auxine",
-      "L'éthylène",
-      "La gibbérelline"
+      "Plante racinée",
+      "Plante coupée",
+      "Plante annuelle"
     ],
-    "correctAnswer": "L'éthylène",
-    "explanation": "L'éthylène est une hormone végétale qui joue un rôle clé dans le processus de floraison."
+    "correctAnswer": "Plante coupée",
+    "explanation": "Les fleurs coupées appartiennent à la famille des plantes coupées."
   },
   {
-    "category": "Fleurs",
-    "question": "Quel type de fleur ne produit pas de fruits ?",
+    "category": "Végétaux",
+    "question": "Quelle est la caractéristique principale des plantes annuelles ?",
     "choices": [
-      "Fleur incomplète",
-      "Fleur stérile",
-      "Fleur double"
+      "Elles vivent plus de deux ans",
+      "Elles vivent un an",
+      "Elles fleurissent deux fois"
     ],
-    "correctAnswer": "Fleur stérile",
-    "explanation": "Les fleurs stériles ne produisent pas de fruits car elles ne possèdent pas de structures reproductives fonctionnelles."
+    "correctAnswer": "Elles vivent un an",
+    "explanation": "Les plantes annuelles ont un cycle de vie court, d'une durée d’un an."
   },
   {
-    "category": "Fleurs",
-    "question": "Quel élément n'est pas considéré comme un soin essentiel pour les fleurs coupées ?",
+    "category": "Végétaux",
+    "question": "Que se passe-t-il à la fin du cycle d’une plante annuelle ?",
     "choices": [
-      "Changer l'eau quotidiennement",
-      "Exposer les fleurs à la lumière directe du soleil",
-      "Recouper les tiges"
+      "Elle entre en dormance",
+      "Elle produit des fruits comestibles",
+      "Elle meurt en laissant des graines"
     ],
-    "correctAnswer": "Exposer les fleurs à la lumière directe du soleil",
-    "explanation": "Exposer les fleurs coupées à la lumière directe du soleil peut accélérer leur déperissement."
+    "correctAnswer": "Elle meurt en laissant des graines",
+    "explanation": "Les plantes annuelles meurent après un an en laissant des graines pour la survie de l’espèce."
   },
   {
-    "category": "Fleurs",
-    "question": "Quelle technique est utilisée pour prolonger la durée de vie des fleurs coupées ?",
+    "category": "Végétaux",
+    "question": "Combien de temps dure le cycle de vie des plantes bisannuelles ?",
     "choices": [
-      "Ajouter un conservateur floral à l'eau",
-      "Laisser les fleurs sans eau",
-      "Utiliser de l'eau chaude"
+      "1 an",
+      "2 ans",
+      "3 ans"
     ],
-    "correctAnswer": "Ajouter un conservateur floral à l'eau",
-    "explanation": "L'utilisation d'un conservateur floral dans l'eau aide à prolonger la durée de vie des fleurs coupées."
+    "correctAnswer": "2 ans",
+    "explanation": "Les plantes bisannuelles ont un cycle de 2 ans."
   },
   {
-    "category": "Fleurs",
-    "question": "Quelle condition climatique n'est pas favorable à la plupart des fleurs ?",
+    "category": "Végétaux",
+    "question": "Que font les plantes bisannuelles la première année ?",
     "choices": [
-      "Climat humide",
-      "Climat froid extrême",
-      "Climat tempéré"
+      "Elles fleurissent",
+      "Elles produisent des graines",
+      "Elles développent leurs racines, tiges et feuilles"
     ],
-    "correctAnswer": "Climat froid extrême",
-    "explanation": "La plupart des fleurs ne tolèrent pas bien le climat froid extrême."
+    "correctAnswer": "Elles développent leurs racines, tiges et feuilles",
+    "explanation": "Durant la première année, les plantes bisannuelles développent leurs structures végétatives."
   },
   {
-    "category": "Fleurs",
-    "question": "Quelle méthode n'est pas une méthode de propagation des fleurs ?",
+    "category": "Végétaux",
+    "question": "Quelles plantes appartiennent à la famille des racinés ?",
     "choices": [
-      "La greffe",
-      "L'hydroponie",
-      "Le bouturage"
+      "Les fleurs coupées",
+      "Les plantes feuillues",
+      "Les plantes succulentes"
     ],
-    "correctAnswer": "L'hydroponie",
-    "explanation": "L'hydroponie est une méthode de culture des plantes dans l'eau, mais ce n'est pas une méthode de propagation."
+    "correctAnswer": "Les plantes succulentes",
+    "explanation": "Les plantes succulentes font partie de la famille des racinés selon le document."
   },
   {
-    "category": "Fleurs",
-    "question": "Quel est l'effet de l'élagage sur une plante à fleurs ?",
+    "category": "Végétaux",
+    "question": "Quel type de plante produit des fleurs et des graines la deuxième année ?",
     "choices": [
-      "Réduit la floraison",
-      "Stimule la floraison",
-      "N'affecte pas la floraison"
+      "Les plantes annuelles",
+      "Les plantes bisannuelles",
+      "Les plantes vivaces"
     ],
-    "correctAnswer": "Stimule la floraison",
-    "explanation": "L'élagage peut aider à stimuler la floraison en encourageant la croissance de nouvelles branches florales."
+    "correctAnswer": "Les plantes bisannuelles",
+    "explanation": "Les plantes bisannuelles fleurissent et produisent des graines avant de mourir la deuxième année."
   },
   {
-    "category": "Fleurs",
-    "question": "Quel nutriment est essentiel pour la couleur vibrante des fleurs ?",
+    "category": "Qualité des végétaux",
+    "question": "Quel critère fait partie du contrôle visuel des végétaux ?",
     "choices": [
-      "Nitrogène",
-      "Phosphore",
-      "Potassium"
+      "L’odeur",
+      "L’aspect général sain",
+      "La hauteur"
     ],
-    "correctAnswer": "Phosphore",
-    "explanation": "Le phosphore est un nutriment essentiel qui aide à intensifier la couleur et la qualité des fleurs."
+    "correctAnswer": "L’aspect général sain",
+    "explanation": "Un végétal de qualité présente un aspect général sain selon les critères visuels."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Pourquoi les pétales et feuillages ne doivent-ils pas être tachés ?",
+    "choices": [
+      "Pour des raisons esthétiques",
+      "Pour éviter la pollution",
+      "Pour économiser de l’eau"
+    ],
+    "correctAnswer": "Pour des raisons esthétiques",
+    "explanation": "Des pétales ou feuillages tachés altèrent l'apparence visuelle des végétaux."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Que garantit un label sur un produit végétal ?",
+    "choices": [
+      "La durée de vie",
+      "L’origine, la qualité et la spécificité",
+      "Le prix du marché"
+    ],
+    "correctAnswer": "L’origine, la qualité et la spécificité",
+    "explanation": "Un label garantit la qualité, l’origine et la spécificité du produit végétal."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Quel est le rôle de la certification ?",
+    "choices": [
+      "Contrôler la couleur des fleurs",
+      "Contrôler les étiquettes",
+      "Engager le producteur au suivi et contrôle de conformité"
+    ],
+    "correctAnswer": "Engager le producteur au suivi et contrôle de conformité",
+    "explanation": "La certification engage le producteur sur le suivi et les contrôles de conformité."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Que signifie la normalisation dans la qualité des végétaux ?",
+    "choices": [
+      "Un développement lent des fleurs",
+      "Un emballage aléatoire",
+      "Un calibrage homogène et un emballage normé"
+    ],
+    "correctAnswer": "Un calibrage homogène et un emballage normé",
+    "explanation": "La normalisation implique un calibrage homogène et un emballage normé."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Que permet la traçabilité ?",
+    "choices": [
+      "Connaître la date de floraison",
+      "Identifier l’origine du végétal via l’étiquette",
+      "Vérifier la couleur des fleurs"
+    ],
+    "correctAnswer": "Identifier l’origine du végétal via l’étiquette",
+    "explanation": "La traçabilité permet de remonter à l’origine du végétal grâce aux informations de l’étiquette."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Que doit mentionner l’étiquette selon les normes de traçabilité ?",
+    "choices": [
+      "Le prix et la taille",
+      "Le nom du producteur et la variété",
+      "Le type de vase recommandé"
+    ],
+    "correctAnswer": "Le nom du producteur et la variété",
+    "explanation": "L’étiquette doit mentionner le nom du producteur, la variété, la quantité, etc."
+  },
+  {
+    "category": "Qualité des végétaux",
+    "question": "Quelle couleur est associée à une charte de qualité dans le document ?",
+    "choices": [
+      "Bleu",
+      "Label rouge",
+      "Vert"
+    ],
+    "correctAnswer": "Label rouge",
+    "explanation": "Le document mentionne le « label rouge » comme exemple de charte de qualité."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quel pape a instauré la Toussaint au 1er novembre ?",
+    "choices": [
+      "Grégoire",
+      "Clément",
+      "Benoît"
+    ],
+    "correctAnswer": "Grégoire",
+    "explanation": "Au 8e siècle, le pape Grégoire a institué la Toussaint au 1er novembre pour concurrencer les fêtes païennes."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Que signifie le mot 'Halloween' ?",
+    "choices": [
+      "La nuit des morts",
+      "La veille de tous les saints",
+      "La fête des enfants"
+    ],
+    "correctAnswer": "La veille de tous les saints",
+    "explanation": "Halloween signifie 'la veille de tous les saints', en lien avec la Toussaint."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quand a lieu la fête des morts ?",
+    "choices": [
+      "Le 31 octobre",
+      "Le 1er novembre",
+      "Le 2 novembre"
+    ],
+    "correctAnswer": "Le 2 novembre",
+    "explanation": "La fête des morts est célébrée le 2 novembre, le lendemain de la Toussaint."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle fleur est traditionnellement associée aux morts en France ?",
+    "choices": [
+      "La rose",
+      "Le chrysanthème",
+      "La marguerite"
+    ],
+    "correctAnswer": "Le chrysanthème",
+    "explanation": "Le chrysanthème est appelé 'la fleur des morts' et est utilisé pour fleurir les tombes à la Toussaint."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Pourquoi le chrysanthème est-il devenu la fleur des morts ?",
+    "choices": [
+      "Parce qu’elle fleurit en hiver",
+      "À cause de son parfum",
+      "Suite à un appel de Georges Clemenceau"
+    ],
+    "correctAnswer": "Suite à un appel de Georges Clemenceau",
+    "explanation": "Georges Clemenceau a appelé à fleurir les tombes avec des chrysanthèmes après la guerre, à l’Armistice du 11/11/21."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quel impact la tradition du chrysanthème a-t-elle eu ?",
+    "choices": [
+      "Un impact esthétique",
+      "Un impact économique",
+      "Un impact sur la biodiversité"
+    ],
+    "correctAnswer": "Un impact économique",
+    "explanation": "L’utilisation massive des chrysanthèmes à la Toussaint a eu un retentissement économique important."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle autre plante est mentionnée comme alternative pour la Toussaint ?",
+    "choices": [
+      "La tulipe",
+      "La véronique",
+      "La jonquille"
+    ],
+    "correctAnswer": "La véronique",
+    "explanation": "La véronique est une plante mentionnée dans le cours avec son feuillage décoratif."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle plante est la plus emblématique de la Toussaint ?",
+    "choices": [
+      "La rose",
+      "Le chrysanthème",
+      "La jonquille"
+    ],
+    "correctAnswer": "Le chrysanthème",
+    "explanation": "Le chrysanthème est la plante la plus utilisée pour la Toussaint."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Jusqu’à quelle température le chrysanthème peut-il résister ?",
+    "choices": [
+      "-5°C",
+      "-10°C",
+      "-15°C"
+    ],
+    "correctAnswer": "-15°C",
+    "explanation": "Le chrysanthème peut résister au froid jusqu’à -15°C."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle plante est connue pour son feuillage décoratif et utilisé en pot ou jardinière ?",
+    "choices": [
+      "Le cyclamen",
+      "La bruyère",
+      "Le sapin"
+    ],
+    "correctAnswer": "La bruyère",
+    "explanation": "La bruyère est utilisée en pot ou jardinière, notamment pour son feuillage résistant."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle plante a des fleurs en forme d’épis et peut rester en place tout l’hiver ?",
+    "choices": [
+      "Le chrysanthème",
+      "Le gaulthérie",
+      "La bruyère"
+    ],
+    "correctAnswer": "La bruyère",
+    "explanation": "La bruyère produit des fleurs en forme d’épis et résiste tout l’hiver."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quelle plante est très utilisée en fleuristerie et existe aussi en versions artificielles ?",
+    "choices": [
+      "Le kalanchoé",
+      "Le cyclamen",
+      "La rose"
+    ],
+    "correctAnswer": "Le cyclamen",
+    "explanation": "Le cyclamen est populaire en fleuristerie, parfois sous forme artificielle et avec plusieurs couleurs."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Combien de chrysanthèmes sont vendus chaque année pour la Toussaint en France ?",
+    "choices": [
+      "10 millions",
+      "15 millions",
+      "23 à 25 millions"
+    ],
+    "correctAnswer": "23 à 25 millions",
+    "explanation": "Environ 23 à 25 millions de chrysanthèmes sont vendus chaque année pour la Toussaint."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quel est l’impact économique de la vente de plantes pour la Toussaint ?",
+    "choices": [
+      "Faible",
+      "Moyen",
+      "Très important"
+    ],
+    "correctAnswer": "Très important",
+    "explanation": "Le marché des plantes de la Toussaint est très important économiquement, notamment grâce aux chrysanthèmes."
+  },
+  {
+    "category": "Plantes de la Toussaint",
+    "question": "Quel est un impact social mentionné concernant la Toussaint ?",
+    "choices": [
+      "Augmentation du prix des fleurs",
+      "Congés pour les fleuristes",
+      "Ouverture obligatoire des magasins"
+    ],
+    "correctAnswer": "Congés pour les fleuristes",
+    "explanation": "Les fleuristes ont souvent des jours fériés non accordés, ce qui crée un impact social pendant la Toussaint."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel lien est souple, malléable et résistant à l’eau ?",
+    "choices": [
+      "Le rafia",
+      "Le fil de fer",
+      "Le raphia synthétique"
+    ],
+    "correctAnswer": "Le raphia synthétique",
+    "explanation": "Le raphia synthétique est souvent utilisé car il est souple, résistant à l’eau et malléable."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel lien est le plus utilisé pour attacher des bottes de végétaux ?",
+    "choices": [
+      "Le bolduc",
+      "Le fil élastique",
+      "Le ruban"
+    ],
+    "correctAnswer": "Le fil élastique",
+    "explanation": "Le fil élastique est le plus couramment utilisé pour attacher des bottes de végétaux."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel lien est souvent rajouté par-dessus d’autres liens pour la décoration ?",
+    "choices": [
+      "Le ruban",
+      "Le bolduc",
+      "Le raphia"
+    ],
+    "correctAnswer": "Le ruban",
+    "explanation": "Le ruban est souvent ajouté à des bouquets pour des raisons esthétiques."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quelle alternative au fil de fer permet de fixer des éléments floraux ?",
+    "choices": [
+      "La mousse florale",
+      "Le fil de laine",
+      "Les attaches métalliques collantes"
+    ],
+    "correctAnswer": "Les attaches métalliques collantes",
+    "explanation": "Les attaches métalliques collantes comme le fil de fer autocollant ou le scotch sont des alternatives pour fixer des éléments."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quel est le rôle des racines ?",
+    "choices": [
+      "Protéger la plante",
+      "Absorber l’eau et fixer la plante",
+      "Produire des fleurs"
+    ],
+    "correctAnswer": "Absorber l’eau et fixer la plante",
+    "explanation": "Les racines absorbent l’eau et les sels minéraux, et servent à fixer la plante dans le sol."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "En combien de parties la tige est-elle divisée ?",
+    "choices": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "2",
+    "explanation": "La tige est divisée en deux parties : les nœuds et les entre-nœuds."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Que porte la tige au niveau des nœuds ?",
+    "choices": [
+      "Des racines",
+      "Des fleurs uniquement",
+      "Des feuilles, tiges ou bourgeons"
+    ],
+    "correctAnswer": "Des feuilles, tiges ou bourgeons",
+    "explanation": "Les nœuds de la tige portent les feuilles, tiges secondaires ou bourgeons."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quelle partie de la tige assure la croissance ?",
+    "choices": [
+      "Zone pilifère",
+      "Zone de croissance",
+      "Zone subéreuse"
+    ],
+    "correctAnswer": "Zone de croissance",
+    "explanation": "La zone de croissance permet l’allongement de la tige."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quel est le rôle de la zone pilifère de la tige ?",
+    "choices": [
+      "Soutenir la plante",
+      "Produire des feuilles",
+      "Absorber l’eau et les sels minéraux"
+    ],
+    "correctAnswer": "Absorber l’eau et les sels minéraux",
+    "explanation": "La zone pilifère contient les poils absorbants qui prennent l’eau et les sels minéraux."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quelle partie de la feuille contient les chlorophylles ?",
+    "choices": [
+      "Le pétiole",
+      "Le limbe",
+      "La nervure"
+    ],
+    "correctAnswer": "Le limbe",
+    "explanation": "Le limbe contient les cellules chlorophylliennes responsables de la photosynthèse."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quel est le rôle des nervures dans une feuille ?",
+    "choices": [
+      "Donner de la couleur",
+      "Protéger la feuille",
+      "Faire circuler la sève"
+    ],
+    "correctAnswer": "Faire circuler la sève",
+    "explanation": "Les nervures permettent le passage de la sève dans la feuille."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Comment s’appelle l’ensemble des feuilles modifiées qui entourent une fleur ?",
+    "choices": [
+      "Les sépales",
+      "Les pétioles",
+      "Les stipules"
+    ],
+    "correctAnswer": "Les sépales",
+    "explanation": "Les sépales sont des feuilles modifiées, souvent vertes, à la base de la fleur."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Quelle est la fonction principale de la feuille ?",
+    "choices": [
+      "L’enracinement",
+      "La reproduction",
+      "La photosynthèse"
+    ],
+    "correctAnswer": "La photosynthèse",
+    "explanation": "La feuille est l’organe principal de la photosynthèse, produisant de la matière organique."
+  },
+  {
+    "category": "Parties du végétal",
+    "question": "Comment appelle-t-on une feuille sans pétiole apparent ?",
+    "choices": [
+      "Soutenue",
+      "Sessile",
+      "Simple"
+    ],
+    "correctAnswer": "Sessile",
+    "explanation": "Une feuille sessile est directement insérée sur la tige sans pétiole."
+  },
+  {
+    "category": "Reproduction des plantes",
+    "question": "Quel organe de la plante contient les ovules ?",
+    "choices": [
+      "Le pistil",
+      "L’étamine",
+      "Le pollen"
+    ],
+    "correctAnswer": "Le pistil",
+    "explanation": "Le pistil est l’organe reproducteur femelle, il contient les ovules."
+  },
+  {
+    "category": "Reproduction des plantes",
+    "question": "Quel est le rôle du pollen ?",
+    "choices": [
+      "Attirer les insectes",
+      "Nourrir les fleurs",
+      "Féconder les ovules"
+    ],
+    "correctAnswer": "Féconder les ovules",
+    "explanation": "Le pollen contient les cellules reproductrices mâles qui fécondent les ovules."
+  },
+  {
+    "category": "Physiologie végétale",
+    "question": "Que transporte la sève brute ?",
+    "choices": [
+      "Les produits de la photosynthèse",
+      "L’eau et les sels minéraux",
+      "Le sucre uniquement"
+    ],
+    "correctAnswer": "L’eau et les sels minéraux",
+    "explanation": "La sève brute est composée d’eau et de sels minéraux absorbés par les racines."
+  },
+  {
+    "category": "Physiologie végétale",
+    "question": "D’où à où circule la sève brute ?",
+    "choices": [
+      "Des feuilles vers les racines",
+      "Des racines vers les feuilles",
+      "Du pistil vers les étamines"
+    ],
+    "correctAnswer": "Des racines vers les feuilles",
+    "explanation": "La sève brute circule dans le sens ascendant, des racines aux feuilles."
+  },
+  {
+    "category": "Physiologie végétale",
+    "question": "La sève élaborée est composée de produits issus de quelle fonction ?",
+    "choices": [
+      "De la respiration",
+      "De la transpiration",
+      "De la photosynthèse"
+    ],
+    "correctAnswer": "De la photosynthèse",
+    "explanation": "La sève élaborée est composée des nutriments fabriqués par la feuille grâce à la photosynthèse."
+  },
+  {
+    "category": "Multiplication végétale",
+    "question": "Qu’est-ce que la multiplication végétative ?",
+    "choices": [
+      "Une reproduction par graines",
+      "Une reproduction sexuée",
+      "Une reproduction sans fécondation"
+    ],
+    "correctAnswer": "Une reproduction sans fécondation",
+    "explanation": "La multiplication végétative est une forme de reproduction asexuée, sans fécondation."
+  },
+  {
+    "category": "Multiplication végétale",
+    "question": "Quel est le principe de la multiplication par piquage ?",
+    "choices": [
+      "Créer une composition florale sur mousse",
+      "Repiquer des graines",
+      "Multiplier par division de bulbes"
+    ],
+    "correctAnswer": "Créer une composition florale sur mousse",
+    "explanation": "La multiplication par piquage consiste à piquer des végétaux dans une mousse hydrophile."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel outil est utilisé pour piquer les fleurs dans une mousse ?",
+    "choices": [
+      "Ciseaux",
+      "Sécateur",
+      "Couteau du fleuriste"
+    ],
+    "correctAnswer": "Couteau du fleuriste",
+    "explanation": "Le couteau du fleuriste est l’outil principal pour tailler et piquer les fleurs dans la mousse."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quelle est la première étape pour réaliser une composition piquée ?",
+    "choices": [
+      "Piquer les fleurs",
+      "Immerger la mousse",
+      "Vérifier la forme de la coupe"
+    ],
+    "correctAnswer": "Immerger la mousse",
+    "explanation": "La première étape est d’immerger la mousse dans un grand volume d’eau pour qu’elle s’imbibe complètement."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Que faut-il faire après avoir piqué toutes les fleurs dans la mousse ?",
+    "choices": [
+      "Tailler la mousse",
+      "Vérifier la forme de la coupe et corriger",
+      "Arroser avec un vaporisateur"
+    ],
+    "correctAnswer": "Vérifier la forme de la coupe et corriger",
+    "explanation": "La dernière étape consiste à ajuster la forme générale de la composition si nécessaire."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel matériau est utilisé pour piquer les fleurs dans une composition piquée ?",
+    "choices": [
+      "Du sable",
+      "De la mousse hydrophile",
+      "Du gravier"
+    ],
+    "correctAnswer": "De la mousse hydrophile",
+    "explanation": "La mousse hydrophile retient l’eau et permet de maintenir les fleurs hydratées dans une composition."
+  },
+  {
+    "category": "Types de plantes",
+    "question": "Quelle est la durée de vie d'une plante annuelle ?",
+    "choices": [
+      "Un an",
+      "Deux ans",
+      "Plusieurs années"
+    ],
+    "correctAnswer": "Un an",
+    "explanation": "Les plantes annuelles complètent leur cycle de vie en une seule année."
+  },
+  {
+    "category": "Types de plantes",
+    "question": "Qu’est-ce qu’une plante bisannuelle ?",
+    "choices": [
+      "Une plante qui meurt après l’hiver",
+      "Une plante qui vit deux ans",
+      "Une plante qui fleurit plusieurs fois par an"
+    ],
+    "correctAnswer": "Une plante qui vit deux ans",
+    "explanation": "Les plantes bisannuelles se développent la première année, puis fleurissent et meurent la seconde."
+  },
+  {
+    "category": "Types de plantes",
+    "question": "Que signifie le terme 'vivace' pour une plante ?",
+    "choices": [
+      "Elle fleurit tous les mois",
+      "Elle vit plusieurs années",
+      "Elle pousse uniquement en hiver"
+    ],
+    "correctAnswer": "Elle vit plusieurs années",
+    "explanation": "Les plantes vivaces peuvent vivre et refleurir pendant plusieurs années."
+  },
+  {
+    "category": "Entretien des plantes",
+    "question": "Quel est le but principal du rempotage ?",
+    "choices": [
+      "Changer la couleur du pot",
+      "Décorer la plante",
+      "Adapter l’espace aux racines et renouveler le substrat"
+    ],
+    "correctAnswer": "Adapter l’espace aux racines et renouveler le substrat",
+    "explanation": "Le rempotage permet d’adapter le volume du pot à la plante et de renouveler le terreau."
+  },
+  {
+    "category": "Entretien des plantes",
+    "question": "Quand faut-il généralement rempoter une plante ?",
+    "choices": [
+      "Quand elle commence à fleurir",
+      "Quand les racines sortent du pot",
+      "Quand elle ne pousse plus en hauteur"
+    ],
+    "correctAnswer": "Quand les racines sortent du pot",
+    "explanation": "On rempote une plante lorsque les racines débordent du pot ou manquent de place."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel type de pliage végétal utilise la nervure centrale de la feuille comme axe ?",
+    "choices": [
+      "Le pliage en accordéon",
+      "Le pliage latéral",
+      "Le pliage axial"
+    ],
+    "correctAnswer": "Le pliage axial",
+    "explanation": "Le pliage axial s’effectue autour de la nervure centrale de la feuille."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quel pliage végétal consiste à enrouler la feuille sur elle-même ?",
+    "choices": [
+      "Pliage spiralé",
+      "Pliage accordéon",
+      "Pliage en éventail"
+    ],
+    "correctAnswer": "Pliage spiralé",
+    "explanation": "Le pliage spiralé implique d’enrouler la feuille sur elle-même en spirale."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Qu’est-ce que le montage couture ?",
+    "choices": [
+      "Une méthode de tressage de feuilles",
+      "Une technique de pliage de feuilles dures",
+      "Une technique de couture sur feuille souple"
+    ],
+    "correctAnswer": "Une technique de couture sur feuille souple",
+    "explanation": "Le montage couture est réalisé avec des feuilles souples cousues entre elles à l’aide d’un fil ou raphia."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quels éléments peuvent être réalisés avec des techniques de décoration végétale ?",
+    "choices": [
+      "Bijoux floraux, colliers, bracelets",
+      "Sacs en tissu, nappes",
+      "Cache-pots en plastique"
+    ],
+    "correctAnswer": "Bijoux floraux, colliers, bracelets",
+    "explanation": "Les techniques de décoration végétale permettent de créer des bijoux floraux comme colliers ou bracelets."
+  },
+  {
+    "category": "Techniques florales",
+    "question": "Quelle est l’utilité de la boucle décorative ?",
+    "choices": [
+      "Pour transporter les fleurs",
+      "Pour attacher les racines",
+      "Pour lier ou stabiliser les montages"
+    ],
+    "correctAnswer": "Pour lier ou stabiliser les montages",
+    "explanation": "La boucle décorative est un fil gainé souple utilisé pour stabiliser ou lier des éléments d’un montage."
+  },
+  {
+    "category": "Formes végétales",
+    "question": "Quelle est la caractéristique principale de la forme érigée ?",
+    "choices": [
+      "Tiges arquées",
+      "Tiges montantes et droites",
+      "Feuillage retombant"
+    ],
+    "correctAnswer": "Tiges montantes et droites",
+    "explanation": "Les plantes à forme érigée possèdent des tiges qui montent verticalement."
+  },
+  {
+    "category": "Formes végétales",
+    "question": "Qu’appelle-t-on une forme étalée ?",
+    "choices": [
+      "Une plante qui monte en hauteur",
+      "Une plante compacte en coussin",
+      "Une plante dont les rameaux partent à l’horizontale"
+    ],
+    "correctAnswer": "Une plante dont les rameaux partent à l’horizontale",
+    "explanation": "Les formes étalées ont des rameaux qui s'étendent latéralement."
+  },
+  {
+    "category": "Formes végétales",
+    "question": "Quel est un exemple typique de plante à forme retombante ?",
+    "choices": [
+      "Géranium lierre",
+      "Chrysanthème",
+      "Verveine droite"
+    ],
+    "correctAnswer": "Géranium lierre",
+    "explanation": "Le géranium lierre est une plante typiquement retombante, idéale pour suspensions."
+  },
+  {
+    "category": "Adaptation végétale",
+    "question": "Pourquoi certaines plantes sont-elles compactes ?",
+    "choices": [
+      "Pour mieux capter le soleil",
+      "Pour conserver l’humidité et résister au froid",
+      "Pour se protéger des animaux"
+    ],
+    "correctAnswer": "Pour conserver l’humidité et résister au froid",
+    "explanation": "Les plantes compactes, comme en coussinet, sont adaptées aux milieux froids et secs."
+  },
+  {
+    "category": "Morphologie végétale",
+    "question": "Que signifie 'forme tapissante' chez une plante ?",
+    "choices": [
+      "Elle couvre le sol en formant un tapis végétal",
+      "Elle pousse uniquement en hauteur",
+      "Elle fleurit en été uniquement"
+    ],
+    "correctAnswer": "Elle couvre le sol en formant un tapis végétal",
+    "explanation": "Les plantes tapissantes s'étalent pour recouvrir le sol, comme des couvre-sols."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Dans un environnement riche, comment se comporte le système racinaire ?",
+    "choices": [
+      "Il est très développé et profond",
+      "Il est limité avec peu de racines secondaires",
+      "Il n'existe pas"
+    ],
+    "correctAnswer": "Il est limité avec peu de racines secondaires",
+    "explanation": "Dans les environnements riches, le développement des feuilles est favorisé, mais les racines sont peu développées."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Pourquoi les racines sont-elles plus étendues en environnement pauvre ?",
+    "choices": [
+      "Pour occuper plus d’espace",
+      "Pour chercher l’eau uniquement",
+      "Pour capter les éléments nutritifs comme les nitrates et phosphates"
+    ],
+    "correctAnswer": "Pour capter les éléments nutritifs comme les nitrates et phosphates",
+    "explanation": "Dans les sols pauvres, les racines s’étendent pour s’adapter au manque de nutriments."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Quel type de racine possède le chardon ?",
+    "choices": [
+      "Racine fasciculée",
+      "Racine traçante",
+      "Racine pivotante"
+    ],
+    "correctAnswer": "Racine pivotante",
+    "explanation": "Le chardon développe une racine pivotante, profonde et verticale."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Quel est un exemple de plante à racine fasciculée ?",
+    "choices": [
+      "Le lierre",
+      "La jacinthe",
+      "Le cactus de Noël"
+    ],
+    "correctAnswer": "La jacinthe",
+    "explanation": "La jacinthe possède un système racinaire fasciculé."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Quel type de racine possède le lierre ?",
+    "choices": [
+      "Racine pivotante",
+      "Racine fasciculée",
+      "Racine adventive"
+    ],
+    "correctAnswer": "Racine adventive",
+    "explanation": "Le lierre développe des racines adventives qui l’aident à s’accrocher à son support."
+  },
+  {
+    "category": "Racines des plantes",
+    "question": "Quel est le rôle secondaire des racines selon le document ?",
+    "choices": [
+      "Capacité à produire des fruits",
+      "Servir de tuteur à la plante",
+      "Éliminer les toxines"
+    ],
+    "correctAnswer": "Servir de tuteur à la plante",
+    "explanation": "Certaines racines, comme celles du maïs ou du figuier, jouent un rôle de tuteur."
+  },
+  {
+    "category": "Sol et substrats",
+    "question": "Quel est un rôle essentiel du sol pour les plantes ?",
+    "choices": [
+      "Décoration",
+      "Créer un écosystème nutritif",
+      "Filtrer l’air"
+    ],
+    "correctAnswer": "Créer un écosystème nutritif",
+    "explanation": "Le sol permet de créer un écosystème nutritif et d’ancrer les racines."
+  },
+  {
+    "category": "Sol et substrats",
+    "question": "Quel sol est riche en matières organiques en décomposition ?",
+    "choices": [
+      "Le sol argileux",
+      "Le sol calcaire",
+      "L’humus"
+    ],
+    "correctAnswer": "L’humus",
+    "explanation": "L’humus est un sol formé par la décomposition de matières organiques."
+  },
+  {
+    "category": "Sol et substrats",
+    "question": "Quel type de sol est souvent salé ?",
+    "choices": [
+      "Sol humique",
+      "Sol salin",
+      "Sol argileux"
+    ],
+    "correctAnswer": "Sol salin",
+    "explanation": "Le sol salin est constitué de sels, parfois en combinaison avec d'autres sols."
+  },
+  {
+    "category": "Sol et substrats",
+    "question": "Que permet la culture hors sol ?",
+    "choices": [
+      "Éviter la lumière",
+      "Remplacer le sol par un substrat",
+      "Planter directement en sol nu"
+    ],
+    "correctAnswer": "Remplacer le sol par un substrat",
+    "explanation": "La culture hors sol utilise un substrat organique ou minéral à la place du sol."
+  },
+  {
+    "category": "Engrais",
+    "question": "De quoi sont constitués les engrais naturels ?",
+    "choices": [
+      "De produits chimiques",
+      "De matières organiques animales ou végétales",
+      "De sable et d’eau"
+    ],
+    "correctAnswer": "De matières organiques animales ou végétales",
+    "explanation": "Les engrais naturels sont issus de matières organiques comme les déchets végétaux ou animaux."
+  },
+  {
+    "category": "Engrais",
+    "question": "Quel est un exemple d'engrais organique ?",
+    "choices": [
+      "Phosphate",
+      "Déchets ménagers",
+      "Hydroxyde de potassium"
+    ],
+    "correctAnswer": "Déchets ménagers",
+    "explanation": "Les déchets ménagers peuvent être compostés et utilisés comme engrais organiques."
+  },
+  {
+    "category": "Engrais",
+    "question": "Quel type d’engrais est constitué d’un mélange de matières organiques et minérales ?",
+    "choices": [
+      "Engrais minéral",
+      "Engrais organo-minéral",
+      "Engrais chimique"
+    ],
+    "correctAnswer": "Engrais organo-minéral",
+    "explanation": "Les engrais organo-minéraux combinent des éléments d’origine organique et minérale."
+  },
+  {
+    "category": "Engrais",
+    "question": "Que contient un engrais potassique ?",
+    "choices": [
+      "Du phosphate de calcium",
+      "Du nitrate de fer",
+      "De l’hydroxyde de potassium"
+    ],
+    "correctAnswer": "De l’hydroxyde de potassium",
+    "explanation": "L’engrais potassique contient du potassium, souvent sous forme d’hydroxyde."
   }
 ]
