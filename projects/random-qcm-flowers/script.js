@@ -1,6 +1,6 @@
 let successCount = 0;
 let failCount = 0;
-let   = 0;
+const scoreBoard = document.getElementById('scoreBoard');
 
 async function loadQuestions() {
     const response = await fetch('questions.json');
@@ -61,8 +61,10 @@ function hideButtons() {
 
 function showExplanation(question, userChoice) {
     const container = document.getElementById('quiz');
+
     const explanationEl = document.createElement('div');
     explanationEl.classList.add('container-explanation');
+    scoreBoard.classList.add('score-container-hide');
 
     if (userChoice === question.correctAnswer) {
         successCount++;
@@ -89,6 +91,7 @@ function showExplanation(question, userChoice) {
 
 document.getElementById('nextQuestion').onclick = function () {
     this.style.display = 'none';
+    scoreBoard.classList.remove('score-container-hide');
     loadQuestions();
 };
 
