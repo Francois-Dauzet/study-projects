@@ -127,6 +127,27 @@ body {
     transition: 0.2s;
 }
 
+/* Next game */
+#restart {
+    cursor: pointer;
+    padding: 8px 16px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #eee;
+    background-color: #222;
+    border: 2px solid #eee;
+    border-radius: 8px;
+    transition: 0.4s;
+    margin-bottom: 32px;
+}
+
+#restart:hover {
+    color: #222;
+    background-color: #eee;
+    border: 2px solid #eee;
+    transition: 0.2s;
+}
+
 .score-container {
     display: flex;
 }
@@ -143,5 +164,13 @@ body {
 
 .score-item span {
     color: #eee;
+    font-weight: bold;
+}
+
+.question-counter {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 1.2em;
     font-weight: bold;
 }

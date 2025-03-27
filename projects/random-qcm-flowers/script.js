@@ -1,47 +1,108 @@
 let successCount = 0;
 let failCount = 0;
+let remainingQuestions = [];
+let totalQuestions = 0;
+
 const scoreBoard = document.getElementById('scoreBoard');
+const questionCounter = document.getElementById('questionCounter');
+const nextButton = document.getElementById('nextQuestion');
+const successDisplay = document.getElementById('successCount');
+const failDisplay = document.getElementById('failCount');
+const quizContainer = document.getElementById('quiz');
 
 async function loadQuestions() {
     const response = await fetch('questions.json');
     const questions = await response.json();
-    generateQCM(questions);
+    totalQuestions = questions.length;
+    remainingQuestions = shuffleArray(questions);
+    generateQCM();
 }
 
-function generateQCM(questions) {
-    const index = Math.floor(Math.random() * questions.length);
-    const q = questions[index];
+function generateQCM() {
+    quizContainer.innerHTML = '';
 
-    const container = document.getElementById('quiz');
-    container.innerHTML = '';
+    if (remainingQuestions.length === 0) {
+        showEndScreen();
+        return;
+    }
 
+    const q = remainingQuestions.shift();
     const questionEl = document.createElement('div');
     questionEl.classList.add('question');
 
-    const categoryEl = document.createElement('h3');
-    categoryEl.textContent = q.category;
-    questionEl.appendChild(categoryEl);
+    questionEl.innerHTML = `
+        <h3>${q.category}</h3>
+        <h2>${q.question}</h2>
+    `;
 
-    const questionTextEl = document.createElement('h2');
-    questionTextEl.textContent = q.question;
-    questionEl.appendChild(questionTextEl);
-
-    // Mélanger les choix
     const shuffledChoices = shuffleArray(q.choices);
-
-    shuffledChoices.forEach(function (choice) {
+    shuffledChoices.forEach(choice => {
         const choiceEl = document.createElement('button');
         choiceEl.textContent = choice;
         choiceEl.classList.add('choice');
-        choiceEl.onclick = function () {
+        choiceEl.onclick = () => {
             showExplanation(q, choice);
-            document.getElementById('nextQuestion').style.display = 'inline';
+            nextButton.style.display = 'inline';
             hideButtons();
         };
         questionEl.appendChild(choiceEl);
     });
 
-    container.appendChild(questionEl);
+    quizContainer.appendChild(questionEl);
+    updateCounter();
+}
+
+function updateCounter() {
+    const current = totalQuestions - remainingQuestions.length;
+    questionCounter.textContent = `${current} / ${totalQuestions}`;
+}
+
+function updateScoreDisplay() {
+    successDisplay.textContent = successCount;
+    failDisplay.textContent = failCount;
+}
+
+function showExplanation(question, userChoice) {
+    const explanationEl = document.createElement('div');
+    explanationEl.classList.add('container-explanation');
+    scoreBoard.classList.add('score-container-hide');
+
+    const isCorrect = userChoice === question.correctAnswer;
+    const resultClass = isCorrect ? 'response-true' : 'response-false';
+    const resultText = isCorrect ? 'Correct' : 'Incorrect';
+    const resultImg = isCorrect ? 'true.png' : 'false.png';
+
+    if (isCorrect) successCount++;
+    else failCount++;
+
+    explanationEl.innerHTML = `
+        <img src="./assets/${resultImg}"/>
+        <p class="${resultClass}">${resultText}</p>
+        <p class="explanation">${question.explanation}</p>
+    `;
+
+    updateScoreDisplay();
+    quizContainer.appendChild(explanationEl);
+}
+
+function hideButtons() {
+    document.querySelectorAll('.choice').forEach(btn => btn.style.display = 'none');
+}
+
+function showEndScreen() {
+    quizContainer.innerHTML = `
+        <h2>Toutes les questions ont été posées !</h2>
+        <button id="restart">Rejouer</button>
+    `;
+    nextButton.style.display = 'none';
+
+    document.getElementById('restart').onclick = () => {
+        successCount = 0;
+        failCount = 0;
+        updateScoreDisplay();
+        scoreBoard.classList.remove('score-container-hide');
+        loadQuestions();
+    };
 }
 
 function shuffleArray(array) {
@@ -52,47 +113,10 @@ function shuffleArray(array) {
     return array;
 }
 
-function hideButtons() {
-    const buttons = document.querySelectorAll('.choice');
-    buttons.forEach(function (button) {
-        button.style.display = 'none';
-    });
-}
-
-function showExplanation(question, userChoice) {
-    const container = document.getElementById('quiz');
-
-    const explanationEl = document.createElement('div');
-    explanationEl.classList.add('container-explanation');
-    scoreBoard.classList.add('score-container-hide');
-
-    if (userChoice === question.correctAnswer) {
-        successCount++;
-        explanationEl.innerHTML =
-            '<img src="./assets/true.png"/><p class="response-true">Correct</p>' +
-            '<p class="explanation">' +
-            question.explanation +
-            '</p>';
-    } else {
-        failCount++;
-        explanationEl.innerHTML =
-            '<img src="./assets/false.png"/><p class="response-false">Incorrect</p>' +
-            '<p class="explanation">' +
-            question.explanation +
-            '</p>';
-    }
-
-    // Mise à jour de l'affichage du score
-    document.getElementById('successCount').textContent = successCount;
-    document.getElementById('failCount').textContent = failCount;
-
-    container.appendChild(explanationEl);
-}
-
-document.getElementById('nextQuestion').onclick = function () {
-    this.style.display = 'none';
+nextButton.onclick = () => {
+    nextButton.style.display = 'none';
     scoreBoard.classList.remove('score-container-hide');
-    loadQuestions();
+    generateQCM();
 };
 
 loadQuestions();
