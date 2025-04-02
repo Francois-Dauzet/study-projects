@@ -944,5 +944,1721 @@
     ],
     "correctAnswer": "De l’hydroxyde de potassium",
     "explanation": "L’engrais potassique contient du potassium, souvent sous forme d’hydroxyde."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel est le rôle d’un accessoire dans une composition florale ?",
+    "choices": [
+      "Donner de la hauteur à la composition",
+      "Compléter et harmoniser la composition",
+      "Fixer les fleurs dans le contenant"
+    ],
+    "correctAnswer": "Compléter et harmoniser la composition",
+    "explanation": "Un accessoire est un élément de décoration qui complète une composition florale et s’harmonise à celle-ci par la couleur et la matière."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert une armature dans un ouvrage floral ?",
+    "choices": [
+      "À nourrir les plantes",
+      "À fixer les feuilles",
+      "À servir de support à la composition"
+    ],
+    "correctAnswer": "À servir de support à la composition",
+    "explanation": "Une armature est un support destiné à un ouvrage floral."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie l’asymétrie dans une composition florale ?",
+    "choices": [
+      "Un déséquilibre volontaire pour créer du mouvement",
+      "Une disposition parfaitement symétrique",
+      "Un non-respect des proportions"
+    ],
+    "correctAnswer": "Un déséquilibre volontaire pour créer du mouvement",
+    "explanation": "L’asymétrie permet de créer un équilibre basé sur la règle d’or, sans symétrie parfaite."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'baguer' dans le domaine floral ?",
+    "choices": [
+      "Attacher un bouquet avec un ruban",
+      "Faire un anneau pour maintenir une partie de la fleur",
+      "Fixer la base d’une composition"
+    ],
+    "correctAnswer": "Faire un anneau pour maintenir une partie de la fleur",
+    "explanation": "Baguer signifie faire une bague ou un anneau pour maintenir le calice ou la tige d’une fleur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert une base en art floral ?",
+    "choices": [
+      "À élever les fleurs",
+      "À soutenir la composition florale",
+      "À arroser les végétaux"
+    ],
+    "correctAnswer": "À soutenir la composition florale",
+    "explanation": "La base est le support utilisé pour réaliser une composition florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'bassiner' dans le vocabulaire floral ?",
+    "choices": [
+      "Tremper les racines dans l’eau",
+      "Plonger les tiges dans un vase",
+      "Vaporiser de l’eau"
+    ],
+    "correctAnswer": "Vaporiser de l’eau",
+    "explanation": "Bassiner signifie vaporiser, souvent de l’eau, sur les végétaux."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel type de coupe est un biseau ?",
+    "choices": [
+      "Une coupe droite",
+      "Une taille en rond",
+      "Une coupe oblique"
+    ],
+    "correctAnswer": "Une coupe oblique",
+    "explanation": "Un biseau est une taille oblique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une botte en art floral ?",
+    "choices": [
+      "Un assemblage de fleurs différentes",
+      "Un assemblage de fleurs de même nature liées ensemble",
+      "Un emballage décoratif"
+    ],
+    "correctAnswer": "Un assemblage de fleurs de même nature liées ensemble",
+    "explanation": "Une botte est un assemblage de fleurs de même nature liées ensemble."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un bouquet ?",
+    "choices": [
+      "Une plante en pot",
+      "Un assemblage de végétaux fixé à un support",
+      "Un assemblage de fleurs et de végétaux réunis et liés en un point"
+    ],
+    "correctAnswer": "Un assemblage de fleurs et de végétaux réunis et liés en un point",
+    "explanation": "Un bouquet est un assemblage de fleurs et de végétaux réunis et liés en un seul point."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un brin dans une composition florale ?",
+    "choices": [
+      "Une petite tige florale",
+      "Un lien décoratif",
+      "Une base pour bouquet"
+    ],
+    "correctAnswer": "Une petite tige florale",
+    "explanation": "Un brin désigne une petite tige florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel est le rôle d’un cache-pot ?",
+    "choices": [
+      "Nourrir la plante",
+      "Dissimuler un pot de fleurs avec un vase décoratif",
+      "Maintenir l’humidité du sol"
+    ],
+    "correctAnswer": "Dissimuler un pot de fleurs avec un vase décoratif",
+    "explanation": "Le cache-pot est un vase décoratif qui sert à dissimuler un pot de fleurs."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie le terme 'camaïeu' en art floral ?",
+    "choices": [
+      "Une opposition de couleurs vives",
+      "Un ton sur ton en dégradé du plus clair au plus foncé",
+      "Un mélange de couleurs complémentaires"
+    ],
+    "correctAnswer": "Un ton sur ton en dégradé du plus clair au plus foncé",
+    "explanation": "Le camaïeu désigne un dégradé de couleur du plus clair au plus foncé, en ton sur ton."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quelle est la forme d’une composition en cascade ?",
+    "choices": [
+      "Évasée vers le haut",
+      "Horizontale et compacte",
+      "Décorative et retombante"
+    ],
+    "correctAnswer": "Décorative et retombante",
+    "explanation": "La cascade est une forme décorative retombante."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un cavalier dans une composition florale ?",
+    "choices": [
+      "Une pince métallique",
+      "Un fil de fer recourbé en U",
+      "Un support en mousse"
+    ],
+    "correctAnswer": "Un fil de fer recourbé en U",
+    "explanation": "Le cavalier est un fil de fer recourbé en forme de U."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert le cheveu d’ange ?",
+    "choices": [
+      "À décorer les bouquets avec des paillettes",
+      "À stabiliser les tiges épaisses",
+      "À réaliser des montages minutieux avec un fil très fin"
+    ],
+    "correctAnswer": "À réaliser des montages minutieux avec un fil très fin",
+    "explanation": "Le cheveu d’ange est un fil de fer très fin utilisé dans les montages minutieux."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quelle colle est utilisée pour le collage en art floral ?",
+    "choices": [
+      "Uniquement de la colle chaude",
+      "Colle froide pour végétaux frais ou colle chaude au pistolet",
+      "Colle à papier"
+    ],
+    "correctAnswer": "Colle froide pour végétaux frais ou colle chaude au pistolet",
+    "explanation": "Le collage utilise de la colle froide spécifique pour végétaux frais ou de la colle chaude (pistolet thermofusible)."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel est le rôle d’une collerette ?",
+    "choices": [
+      "Maintenir l’humidité des fleurs",
+      "Servir de support en mousse",
+      "Mettre en valeur une composition florale"
+    ],
+    "correctAnswer": "Mettre en valeur une composition florale",
+    "explanation": "La collerette est un accessoire en diverses textures utilisé pour mettre en valeur une composition florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une composition en art floral ?",
+    "choices": [
+      "Un bouquet de fleurs naturelles sans travail technique",
+      "Un assemblage libre de végétaux",
+      "Un assemblage nécessitant un savoir-faire technique et artistique"
+    ],
+    "correctAnswer": "Un assemblage nécessitant un savoir-faire technique et artistique",
+    "explanation": "Une composition est un assemblage qui requiert un savoir-faire technique et artistique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel est le rôle d’un conservateur en floriculture ?",
+    "choices": [
+      "Aider les fleurs à s’ouvrir plus vite",
+      "Colorer les végétaux",
+      "Assurer la conservation des végétaux"
+    ],
+    "correctAnswer": "Assurer la conservation des végétaux",
+    "explanation": "Un conservateur est un produit qui assure la conservation des végétaux."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un contenant en art floral ?",
+    "choices": [
+      "Un support en plastique pour les plantes",
+      "Un récipient pouvant contenir de l’eau",
+      "Un emballage pour transport de fleurs"
+    ],
+    "correctAnswer": "Un récipient pouvant contenir de l’eau",
+    "explanation": "Le contenant est un récipient utilisé pour contenir de l’eau dans une composition florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'décoratif' dans le contexte floral ?",
+    "choices": [
+      "Qui permet à la plante de pousser",
+      "Qui a une fonction uniquement pratique",
+      "Dont la finalité est esthétique"
+    ],
+    "correctAnswer": "Dont la finalité est esthétique",
+    "explanation": "Décoratif désigne ce qui a un effet esthétique, dont la finalité est purement visuelle."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un décor floral ?",
+    "choices": [
+      "Un assemblage de végétaux comestibles",
+      "Un arrangement floral placé sur un lieu, un support ou un objet",
+      "Une plante en pot suspendue"
+    ],
+    "correctAnswer": "Un arrangement floral placé sur un lieu, un support ou un objet",
+    "explanation": "Le décor floral est un arrangement floral réalisé sur un lieu, un support ou un objet."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie dépoter une plante ?",
+    "choices": [
+      "La mettre en terre",
+      "L’extraire de son pot",
+      "La tailler pour qu’elle reprenne"
+    ],
+    "correctAnswer": "L’extraire de son pot",
+    "explanation": "Dépoter signifie extraire une plante de son pot."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie désépiner une tige ?",
+    "choices": [
+      "Enlever ses feuilles",
+      "Ajouter des protections",
+      "Ôter ses épines"
+    ],
+    "correctAnswer": "Ôter ses épines",
+    "explanation": "Désépiner consiste à ôter les épines d’une tige."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un végétal déshydraté ?",
+    "choices": [
+      "Un végétal très humide",
+      "Un végétal privé ou ayant perdu beaucoup d’eau",
+      "Un végétal artificiel"
+    ],
+    "correctAnswer": "Un végétal privé ou ayant perdu beaucoup d’eau",
+    "explanation": "Un végétal déshydraté a été privé d’eau ou en a perdu une grande quantité."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'disposer' des végétaux ?",
+    "choices": [
+      "Les arroser régulièrement",
+      "Les regrouper sans ordre précis",
+      "Les arranger dans un certain ordre"
+    ],
+    "correctAnswer": "Les arranger dans un certain ordre",
+    "explanation": "Disposer consiste à arranger ou mettre en ordre des végétaux dans un contenant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le drainage dans un contenant floral ?",
+    "choices": [
+      "L’ajout de colorants pour les végétaux",
+      "L’action de bloquer l’eau pour l’humidité",
+      "L’action permettant la circulation de l’air et de l’eau"
+    ],
+    "correctAnswer": "L’action permettant la circulation de l’air et de l’eau",
+    "explanation": "Le drainage favorise la circulation de l’air et de l’eau dans un contenant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie dresser un végétal ?",
+    "choices": [
+      "L’orienter dans le sens vertical",
+      "Le faire sécher",
+      "L’entourer d’un support décoratif"
+    ],
+    "correctAnswer": "L’orienter dans le sens vertical",
+    "explanation": "Dresser signifie diriger un végétal vers le haut, dans le sens vertical."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie ébrancher un végétal ?",
+    "choices": [
+      "Ajouter des branches pour étoffer la plante",
+      "Retirer toutes les feuilles de la tige",
+      "Enlever tout ou partie des branches pour ne garder que la tige"
+    ],
+    "correctAnswer": "Enlever tout ou partie des branches pour ne garder que la tige",
+    "explanation": "Ébrancher consiste à retirer tout ou partie des branches afin de ne conserver que la tige."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’éclosion d’une fleur ?",
+    "choices": [
+      "L’ouverture ou l’épanouissement de la fleur",
+      "La chute des pétales",
+      "Le dessèchement progressif"
+    ],
+    "correctAnswer": "L’ouverture ou l’épanouissement de la fleur",
+    "explanation": "L’éclosion désigne l’épanouissement d’une fleur, c’est-à-dire son ouverture."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie effeuiller une plante ou une fleur ?",
+    "choices": [
+      "Ajouter des feuilles décoratives",
+      "Supprimer les feuilles ou les pétales",
+      "Couper la tige principale"
+    ],
+    "correctAnswer": "Supprimer les feuilles ou les pétales",
+    "explanation": "Effeuiller consiste à supprimer les feuilles ou à arracher les pétales d’une fleur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que veut dire épurer en art floral ?",
+    "choices": [
+      "Ajouter des éléments brillants",
+      "Enlever ce qui gêne pour mettre en valeur une forme",
+      "Cacher les défauts des végétaux"
+    ],
+    "correctAnswer": "Enlever ce qui gêne pour mettre en valeur une forme",
+    "explanation": "Épurer signifie mettre en valeur une ligne ou une forme d’un végétal en supprimant ce qui gêne."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’étanchéité dans un contenant floral ?",
+    "choices": [
+      "La décoration de l’extérieur du contenant",
+      "L’action de rendre imperméable à l’eau",
+      "L’ajout de mousse florale"
+    ],
+    "correctAnswer": "L’action de rendre imperméable à l’eau",
+    "explanation": "L’étanchéité est l’action de rendre un contenant imperméable à l’eau."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'exotique' pour une fleur ou une plante ?",
+    "choices": [
+      "Originaire de régions montagneuses",
+      "Plante ou fruit d’Europe",
+      "Originaire de l’hémisphère sud"
+    ],
+    "correctAnswer": "Originaire de l’hémisphère sud",
+    "explanation": "Une plante ou fleur exotique provient généralement de l’hémisphère sud."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie façonner en art floral ?",
+    "choices": [
+      "Réduire un végétal à sa tige",
+      "Donner une forme en travaillant une matière",
+      "Ajouter un support à la composition"
+    ],
+    "correctAnswer": "Donner une forme en travaillant une matière",
+    "explanation": "Façonner consiste à travailler une matière pour lui donner une forme."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un faisceau dans une composition florale ?",
+    "choices": [
+      "Un amas de mousse florale",
+      "Un regroupement de feuilles en cercle",
+      "Des tiges orientées dans le même sens"
+    ],
+    "correctAnswer": "Des tiges orientées dans le même sens",
+    "explanation": "Un faisceau est la partie des tiges tournées ou orientées dans un même sens."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert le feuillage dans un bouquet ?",
+    "choices": [
+      "À décorer uniquement la base",
+      "À ajouter de la hauteur",
+      "À étoffer le bouquet"
+    ],
+    "correctAnswer": "À étoffer le bouquet",
+    "explanation": "Le feuillage est constitué de branches couvertes de feuilles qui permettent d’étoffer un bouquet."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie finition en art floral ?",
+    "choices": [
+      "Commencer un assemblage floral",
+      "Découper les tiges avec soin",
+      "Achever soigneusement un assemblage floral"
+    ],
+    "correctAnswer": "Achever soigneusement un assemblage floral",
+    "explanation": "La finition est l’action d’achever avec soin tout assemblage floral."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un fixateur en floristique ?",
+    "choices": [
+      "À faire briller les feuilles",
+      "À maintenir les fleurs en place",
+      "À vernir les fleurs fraîches ou séchées"
+    ],
+    "correctAnswer": "À vernir les fleurs fraîches ou séchées",
+    "explanation": "Un fixateur est un vernis spécial utilisé pour les fleurs fraîches ou séchées."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un fleuron ?",
+    "choices": [
+      "Une tige secondaire d’une fleur",
+      "Une partie d’une fleur composée",
+      "Un pétale séché"
+    ],
+    "correctAnswer": "Une partie d’une fleur composée",
+    "explanation": "Le fleuron est une partie d’une fleur composée, comme un fleuron d’orchidée."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne la floraison d’une plante ?",
+    "choices": [
+      "Le début de la croissance des racines",
+      "La période d’apparition ou d’épanouissement des fleurs",
+      "Le moment de la chute des feuilles"
+    ],
+    "correctAnswer": "La période d’apparition ou d’épanouissement des fleurs",
+    "explanation": "La floraison est la période durant laquelle les fleurs apparaissent ou s’épanouissent."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que sont les floralies ?",
+    "choices": [
+      "Des concours de fleuristes",
+      "Des expositions florales",
+      "Des créations florales exotiques"
+    ],
+    "correctAnswer": "Des expositions florales",
+    "explanation": "Les floralies sont des événements ou expositions florales."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert le floratape ?",
+    "choices": [
+      "À fixer les fleurs sur les vêtements",
+      "À créer une finition brillante",
+      "À réaliser des montages avec une bande de papier paraffiné"
+    ],
+    "correctAnswer": "À réaliser des montages avec une bande de papier paraffiné",
+    "explanation": "Le floratape est une bande étroite de papier paraffiné servant à la réalisation de montages floraux."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que la floriculture ?",
+    "choices": [
+      "L’étude des couleurs florales",
+      "La culture des fleurs et plantes",
+      "La création de compositions florales"
+    ],
+    "correctAnswer": "La culture des fleurs et plantes",
+    "explanation": "La floriculture est l’activité dédiée à la culture des fleurs et des plantes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie focaliser dans une composition florale ?",
+    "choices": [
+      "Équilibrer visuellement la composition",
+      "Centrer l’attention sur un point précis",
+      "Ajouter de la lumière sur la fleur"
+    ],
+    "correctAnswer": "Centrer l’attention sur un point précis",
+    "explanation": "Focaliser, c’est faire converger le regard vers un point dans la composition."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le foyer dans une composition florale ?",
+    "choices": [
+      "Le point le plus dense en végétaux",
+      "La zone la plus basse du contenant",
+      "Le point d’attraction visuelle principal"
+    ],
+    "correctAnswer": "Le point d’attraction visuelle principal",
+    "explanation": "Le foyer est le point d’attraction visuelle d’un ensemble floral, souvent l’élément central."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'garnir' en art floral ?",
+    "choices": [
+      "Tailler les feuilles d’une composition",
+      "Remplir un espace ou décorer un contenant",
+      "Éliminer les fleurs fanées"
+    ],
+    "correctAnswer": "Remplir un espace ou décorer un contenant",
+    "explanation": "Garnir signifie occuper un espace, remplir un contenant ou le décorer."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un végétal gélif ?",
+    "choices": [
+      "Un végétal qui aime l’humidité",
+      "Un végétal sensible à l’action du gel",
+      "Un végétal qui pousse en hiver"
+    ],
+    "correctAnswer": "Un végétal sensible à l’action du gel",
+    "explanation": "Un végétal gélif est sensible au gel et ne supporte pas les températures très basses."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le géotropisme ?",
+    "choices": [
+      "La réaction des plantes à la lumière",
+      "L’orientation de la croissance sous l’action de la pesanteur",
+      "Le développement des racines en surface"
+    ],
+    "correctAnswer": "L’orientation de la croissance sous l’action de la pesanteur",
+    "explanation": "Le géotropisme est l’orientation de la croissance des végétaux sous l’effet de la gravité."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une gerbe en floristique ?",
+    "choices": [
+      "Un assemblage de fleurs flottantes",
+      "Un bouquet rond sans tige visible",
+      "Un bouquet de fleurs coupées à longues tiges, vu de face"
+    ],
+    "correctAnswer": "Un bouquet de fleurs coupées à longues tiges, vu de face",
+    "explanation": "La gerbe est un bouquet de fleurs à longues tiges, disposées pour être vues de face."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie glaner ?",
+    "choices": [
+      "Cueillir des fleurs dans un jardin",
+      "Ramasser des végétaux sauvages ou naturels",
+      "Récolter des graines pour replanter"
+    ],
+    "correctAnswer": "Ramasser des végétaux sauvages ou naturels",
+    "explanation": "Glaner consiste à ramasser des végétaux ou éléments naturels dans la nature."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un godet ?",
+    "choices": [
+      "Un arrosoir miniature",
+      "Un petit contenant utilisé pour le transport des plantes",
+      "Un support pour tiges florales"
+    ],
+    "correctAnswer": "Un petit contenant utilisé pour le transport des plantes",
+    "explanation": "Le godet est un petit contenant, rond ou carré, servant au transport des plantes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un système de goutte-à-goutte ?",
+    "choices": [
+      "À enrichir la terre avec des nutriments",
+      "À arroser automatiquement avec un faible débit",
+      "À brumiser les fleurs"
+    ],
+    "correctAnswer": "À arroser automatiquement avec un faible débit",
+    "explanation": "Le goutte-à-goutte est un système d’arrosage automatique à faible débit."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie le graphisme dans une composition florale ?",
+    "choices": [
+      "L’utilisation de motifs peints sur les feuilles",
+      "La manière d’utiliser les végétaux pour exprimer des lignes",
+      "Le dessin technique d’une composition"
+    ],
+    "correctAnswer": "La manière d’utiliser les végétaux pour exprimer des lignes",
+    "explanation": "Le graphisme désigne la manière d’utiliser les végétaux pour souligner une expression de lignes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un groupe en art floral ?",
+    "choices": [
+      "Une série de fleurs de couleurs différentes",
+      "Une réunion ou disposition de végétaux identiques",
+      "Un style de bouquet rond et symétrique"
+    ],
+    "correctAnswer": "Une réunion ou disposition de végétaux identiques",
+    "explanation": "Un groupe est une réunion de végétaux formant un ensemble ou une disposition groupée de végétaux identiques."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une guirlande en décoration florale ?",
+    "choices": [
+      "Une rangée de pots suspendus",
+      "Un ensemble de fleurs tressées autour d’un cercle",
+      "Un ornement floral souple formant une chaîne"
+    ],
+    "correctAnswer": "Un ornement floral souple formant une chaîne",
+    "explanation": "La guirlande est un ensemble ornemental de fleurs ou de verdure formant une chaîne flexible."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une hampe florale ?",
+    "choices": [
+      "Une tige feuillue qui porte les fruits",
+      "Une tige principale ramifiée",
+      "Une tige sans feuilles ni rameaux portant uniquement la fleur et le fruit"
+    ],
+    "correctAnswer": "Une tige sans feuilles ni rameaux portant uniquement la fleur et le fruit",
+    "explanation": "La hampe est une tige herbacée sans feuilles ni rameaux, destinée à porter la fleur et le fruit (ex. : glaïeul)."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’harmonie florale ?",
+    "choices": [
+      "Une disposition symétrique de fleurs",
+      "Un assemblage de couleurs vives uniquement",
+      "Un arrangement équilibré d’éléments : ligne, couleur, texture, proportions..."
+    ],
+    "correctAnswer": "Un arrangement équilibré d’éléments : ligne, couleur, texture, proportions...",
+    "explanation": "L’harmonie florale est l’agencement équilibré de plusieurs éléments comme la couleur, la ligne, le volume, etc."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’horticulture ?",
+    "choices": [
+      "La création de jardins paysagers",
+      "La culture des végétaux d’ornement",
+      "La décoration de lieux publics avec des fleurs"
+    ],
+    "correctAnswer": "La culture des végétaux d’ornement",
+    "explanation": "L’horticulture est la culture des végétaux à but ornemental."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un humidificateur ?",
+    "choices": [
+      "À arroser les plantes en profondeur",
+      "À humidifier l’air ambiant",
+      "À refroidir les compositions florales"
+    ],
+    "correctAnswer": "À humidifier l’air ambiant",
+    "explanation": "Un humidificateur est un appareil utilisé pour humidifier l’air ambiant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un matériau hydrophile ?",
+    "choices": [
+      "Qui repousse l’eau",
+      "Qui absorbe l’eau",
+      "Qui chauffe au contact de l’eau"
+    ],
+    "correctAnswer": "Qui absorbe l’eau",
+    "explanation": "Un matériau hydrophile est capable d’absorber l’eau."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que mesure l’hygrométrie ?",
+    "choices": [
+      "La température de l’air",
+      "Le taux de lumière",
+      "L’humidité de l’air"
+    ],
+    "correctAnswer": "L’humidité de l’air",
+    "explanation": "L’hygrométrie désigne le taux d’humidité de l’air."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’ikebana ?",
+    "choices": [
+      "Une technique moderne de bouquet",
+      "Un art floral japonais codifié et symbolique",
+      "Un récipient pour fleurs flottantes"
+    ],
+    "correctAnswer": "Un art floral japonais codifié et symbolique",
+    "explanation": "L’ikebana est un art floral traditionnel japonais, régi par une codification symbolique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie imperméabiliser en art floral ?",
+    "choices": [
+      "Ajouter un revêtement brillant",
+      "Rendre un contenant étanche à l’eau",
+      "Colorer l’intérieur d’un vase"
+    ],
+    "correctAnswer": "Rendre un contenant étanche à l’eau",
+    "explanation": "Imperméabiliser consiste à rendre un contenant ou un matériau étanche à l’eau."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'imbibé' dans un contexte floral ?",
+    "choices": [
+      "Entouré de mousse",
+      "Rempli d’un liquide",
+      "Coloré artificiellement"
+    ],
+    "correctAnswer": "Rempli d’un liquide",
+    "explanation": "Imbibé signifie qu’un matériau est imprégné ou rempli d’un liquide."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'irisé' ?",
+    "choices": [
+      "Qui a une surface rugueuse",
+      "Qui change de texture avec l’eau",
+      "Qui a des reflets aux couleurs de l’arc-en-ciel"
+    ],
+    "correctAnswer": "Qui a des reflets aux couleurs de l’arc-en-ciel",
+    "explanation": "Irisé qualifie une surface qui présente des reflets semblables à ceux de l’arc-en-ciel."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’irrigation ?",
+    "choices": [
+      "La taille des végétaux en serre",
+      "L’arrosage par un système technique",
+      "La conservation des fleurs dans l’eau"
+    ],
+    "correctAnswer": "L’arrosage par un système technique",
+    "explanation": "L’irrigation désigne l’arrosage des plantes par un moyen technique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une jardinière ?",
+    "choices": [
+      "Un outil pour planter des bulbes",
+      "Une décoration florale suspendue",
+      "Un contenant destiné à accueillir des plantes"
+    ],
+    "correctAnswer": "Un contenant destiné à accueillir des plantes",
+    "explanation": "La jardinière est un contenant, souvent allongé, servant à accueillir des plantes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une jetée ou épaulière ?",
+    "choices": [
+      "Un bouquet à porter au poignet",
+      "Une parure florale portée sur l’épaule",
+      "Une décoration florale de centre de table"
+    ],
+    "correctAnswer": "Une parure florale portée sur l’épaule",
+    "explanation": "La jetée, ou épaulière, est une parure florale ornant l’épaule, souvent utilisée comme accessoire décoratif."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quel est le rôle du lien dans un bouquet ?",
+    "choices": [
+      "Servir de base pour le piquage",
+      "Être un point d’attache ou un rappel de couleur",
+      "Décorer les pétales de fleurs"
+    ],
+    "correctAnswer": "Être un point d’attache ou un rappel de couleur",
+    "explanation": "Le lien est le point d’attache d’un bouquet ou un fil conducteur/rappel de couleur dans une composition."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie lier en floristique ?",
+    "choices": [
+      "Planter les fleurs en groupe",
+      "Fixer un support à un contenant",
+      "Attacher à l’aide d’un lien comme du raphia ou du coton"
+    ],
+    "correctAnswer": "Attacher à l’aide d’un lien comme du raphia ou du coton",
+    "explanation": "Lier consiste à attacher un assemblage avec un lien (raphia, sotiba, coton...)."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Comment définit-on une ligne en art floral ?",
+    "choices": [
+      "Une rangée de feuillage",
+      "Une forme rigide d’un contenant",
+      "Une expression graphique qui crée un mouvement"
+    ],
+    "correctAnswer": "Une expression graphique qui crée un mouvement",
+    "explanation": "La ligne est une expression graphique (verticale, courbe...) qui engendre un mouvement dans une composition."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie lyophilisé pour un végétal ?",
+    "choices": [
+      "Conservé dans de l’eau sucrée",
+      "Déshydraté par un procédé à basse température",
+      "Coloré artificiellement pour durer"
+    ],
+    "correctAnswer": "Déshydraté par un procédé à basse température",
+    "explanation": "Un végétal lyophilisé a été déshydraté à basse température pour une longue conservation."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une marbrure ?",
+    "choices": [
+      "Une fissure naturelle dans la tige",
+      "Un motif décoratif imitant le marbre",
+      "Une zone sèche sur un feuillage"
+    ],
+    "correctAnswer": "Un motif décoratif imitant le marbre",
+    "explanation": "La marbrure est un décor qui imite les veines et taches du marbre."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne la matière en art floral ?",
+    "choices": [
+      "La couleur dominante d’un bouquet",
+      "La consistance particulière d’un élément",
+      "Le style général d’un arrangement"
+    ],
+    "correctAnswer": "La consistance particulière d’un élément",
+    "explanation": "La matière est la consistance ou texture particulière qui compose un élément floral."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une plante mellifère ?",
+    "choices": [
+      "Une plante utilisée pour faire du miel directement",
+      "Une plante contenant du sucre naturel",
+      "Une plante produisant du nectar et du pollen de qualité pour les abeilles"
+    ],
+    "correctAnswer": "Une plante produisant du nectar et du pollen de qualité pour les abeilles",
+    "explanation": "Les plantes mellifères produisent nectar et pollen de bonne qualité, accessibles aux abeilles."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne le minimalisme en composition florale ?",
+    "choices": [
+      "Un style très chargé avec beaucoup de fleurs",
+      "Une expression sobre et simplifiée",
+      "Un arrangement symétrique et classique"
+    ],
+    "correctAnswer": "Une expression sobre et simplifiée",
+    "explanation": "Le minimalisme est une expression florale sobre et simplifiée."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que la mise à l’eau ?",
+    "choices": [
+      "L’action de poser une composition dans un vase",
+      "Une technique de nettoyage des vases",
+      "Une action de base pour hydrater les végétaux coupés"
+    ],
+    "correctAnswer": "Une action de base pour hydrater les végétaux coupés",
+    "explanation": "La mise à l’eau est une technique de base pour l’hydratation des végétaux coupés."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'moiré' pour un tissu végétal ?",
+    "choices": [
+      "Rugueux au toucher",
+      "À reflets changeants ou chatoyants",
+      "Imperméable à l’eau"
+    ],
+    "correctAnswer": "À reflets changeants ou chatoyants",
+    "explanation": "Moiré désigne un tissu ou un aspect avec des reflets chatoyants."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie monochrome dans une création florale ?",
+    "choices": [
+      "Un dégradé de couleurs",
+      "Une seule couleur utilisée",
+      "Un jeu de textures variées"
+    ],
+    "correctAnswer": "Une seule couleur utilisée",
+    "explanation": "Monochrome signifie que la composition est réalisée avec une seule couleur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne le montage en floristique ?",
+    "choices": [
+      "Une technique d’assemblage sans eau",
+      "Le remplacement d’une tige naturelle par une tige artificielle",
+      "Une superposition de feuilles"
+    ],
+    "correctAnswer": "Le remplacement d’une tige naturelle par une tige artificielle",
+    "explanation": "Le montage est une technique où l’on remplace une tige naturelle par une tige artificielle pour des créations spécifiques."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie le terme 'motif floral' ?",
+    "choices": [
+      "Un détail végétal répétitif dans une œuvre",
+      "Un type particulier de feuillage",
+      "Un terme général pour désigner divers travaux floraux"
+    ],
+    "correctAnswer": "Un terme général pour désigner divers travaux floraux",
+    "explanation": "Motif floral est un terme utilisé pour désigner différents types de créations florales."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Quelle est la particularité de la mousse naturelle ?",
+    "choices": [
+      "Elle est utilisée pour recouvrir les tiges",
+      "Elle permet de fixer des fleurs sur les murs",
+      "Elle retient l’eau et s’utilise pour le piquage des fleurs"
+    ],
+    "correctAnswer": "Elle retient l’eau et s’utilise pour le piquage des fleurs",
+    "explanation": "La mousse naturelle est un végétal sans racines qui retient l’eau, utilisée pour le piquage des fleurs."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que la mousse synthétique hydrophile ?",
+    "choices": [
+      "Une décoration florale réutilisable",
+      "Une mousse qui ne retient pas l’eau",
+      "Un produit de synthèse qui retient l’eau pour conserver les végétaux"
+    ],
+    "correctAnswer": "Un produit de synthèse qui retient l’eau pour conserver les végétaux",
+    "explanation": "La mousse synthétique hydrophile est conçue pour retenir l’eau afin d’assurer la conservation et le transport des fleurs coupées."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie nanification dans le monde végétal ?",
+    "choices": [
+      "La coupe régulière des tiges",
+      "La réduction de la taille d’un végétal vivant",
+      "La conservation d’un végétal en pot"
+    ],
+    "correctAnswer": "La réduction de la taille d’un végétal vivant",
+    "explanation": "La nanification est le processus qui vise à réduire la taille d’un végétal vivant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un végétal naturel ?",
+    "choices": [
+      "Un végétal cultivé sous serre",
+      "Un végétal modifié pour durer plus longtemps",
+      "Un végétal issu de la nature, sans transformation"
+    ],
+    "correctAnswer": "Un végétal issu de la nature, sans transformation",
+    "explanation": "Naturel signifie que le végétal provient de la nature et n’a subi aucune transformation."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le style néo décoratif en art floral ?",
+    "choices": [
+      "Un style minimaliste venu du Japon",
+      "Un style classique et ancien du XVIIIe siècle",
+      "Un style floral français apparu à la fin des années 80"
+    ],
+    "correctAnswer": "Un style floral français apparu à la fin des années 80",
+    "explanation": "Le style néo décoratif est un courant floral français né à la fin des années 1980."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie le terme 'neutre' en art floral ?",
+    "choices": [
+      "Une couleur dominante",
+      "Un élément sans caractère particulier",
+      "Une zone centrale de la composition"
+    ],
+    "correctAnswer": "Un élément sans caractère particulier",
+    "explanation": "Neutre désigne quelque chose sans caractère distinctif ou marquant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un nœud en décoration florale ?",
+    "choices": [
+      "Un point de fixation pour les tiges",
+      "Une technique de taille de ruban",
+      "Une technique décorative utilisant un ruban ou une passementerie"
+    ],
+    "correctAnswer": "Une technique décorative utilisant un ruban ou une passementerie",
+    "explanation": "Le nœud est une technique décorative utilisant du ruban ou d’autres matériaux similaires."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'oblique' en composition florale ?",
+    "choices": [
+      "Une forme arrondie",
+      "Une ligne droite verticale",
+      "Une ligne en biais"
+    ],
+    "correctAnswer": "Une ligne en biais",
+    "explanation": "Oblique désigne une ligne qui n’est ni droite ni perpendiculaire, mais de biais."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une ombelle ?",
+    "choices": [
+      "Une fleur unique au bout d’une tige",
+      "Un type d’inflorescence avec des fleurs disposées sur un même plan",
+      "Une structure métallique pour fleurs tombantes"
+    ],
+    "correctAnswer": "Un type d’inflorescence avec des fleurs disposées sur un même plan",
+    "explanation": "L’ombelle est une inflorescence simple où les pédoncules floraux partent d’un même point, formant une surface plane ou sphérique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie orner dans le contexte floral ?",
+    "choices": [
+      "Réduire le volume d’une composition",
+      "Ajouter des éléments naturels",
+      "Embellir ou décorer pour rendre plus agréable"
+    ],
+    "correctAnswer": "Embellir ou décorer pour rendre plus agréable",
+    "explanation": "Orner signifie embellir ou décorer une composition florale pour la rendre plus esthétique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que l’osier en art floral ?",
+    "choices": [
+      "Un type de mousse synthétique",
+      "Une liane colorée utilisée en décoration",
+      "Un saule flexible ou rigide utilisé en structure ou vannerie"
+    ],
+    "correctAnswer": "Un saule flexible ou rigide utilisé en structure ou vannerie",
+    "explanation": "L’osier est un type de saule utilisé pour créer des structures ou en vannerie."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une ossature dans une composition florale ?",
+    "choices": [
+      "Un motif central en mousse naturelle",
+      "Une armature servant de base ou de soutien",
+      "Un feuillage dense pour cacher les tiges"
+    ],
+    "correctAnswer": "Une armature servant de base ou de soutien",
+    "explanation": "L’ossature est l’assemblage ou la structure de base qui soutient un ouvrage floral."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un panier en art floral ?",
+    "choices": [
+      "Un récipient en céramique",
+      "Un contenant en vannerie",
+      "Un support en métal"
+    ],
+    "correctAnswer": "Un contenant en vannerie",
+    "explanation": "Le panier est un contenant fabriqué en vannerie, souvent utilisé pour les compositions florales."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie une expression florale parallèle ?",
+    "choices": [
+      "Les éléments se croisent régulièrement",
+      "Les lignes et volumes sont disposés sans se croiser",
+      "Les fleurs sont toutes regroupées au centre"
+    ],
+    "correctAnswer": "Les lignes et volumes sont disposés sans se croiser",
+    "explanation": "L'expression florale parallèle se caractérise par des lignes, surfaces et volumes qui ne se rejoignent pas."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une parure florale ?",
+    "choices": [
+      "Un feuillage qui habille un bouquet",
+      "Un petit arrangement floral minutieux destiné à parer quelqu’un",
+      "Une couronne végétale pour décoration murale"
+    ],
+    "correctAnswer": "Un petit arrangement floral minutieux destiné à parer quelqu’un",
+    "explanation": "La parure est un petit arrangement floral minutieux, utilisé comme bijou ou boutonnière."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'passif' en vocabulaire floral ?",
+    "choices": [
+      "Un style très structuré",
+      "Un feuillage en spirale",
+      "Un caractère arrondi ou retombant apportant formes et mouvement"
+    ],
+    "correctAnswer": "Un caractère arrondi ou retombant apportant formes et mouvement",
+    "explanation": "Passif désigne un élément qui a un aspect arrondi ou retombant, créant du mouvement."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert une pâte adhésive ?",
+    "choices": [
+      "À fixer les fleurs dans un vase",
+      "À lustrer les feuilles",
+      "À bloquer la mousse synthétique dans un contenant"
+    ],
+    "correctAnswer": "À bloquer la mousse synthétique dans un contenant",
+    "explanation": "La pâte adhésive est utilisée comme fixateur pour bloquer la mousse synthétique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie un feuillage persistant ?",
+    "choices": [
+      "Qui tombe à chaque saison",
+      "Qui reste toute l’année",
+      "Qui pousse rapidement au printemps"
+    ],
+    "correctAnswer": "Qui reste toute l’année",
+    "explanation": "Un feuillage persistant reste présent toute l’année, contrairement au feuillage caduc."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le phototropisme ?",
+    "choices": [
+      "L'attirance des plantes vers l'eau",
+      "Le rejet des rayons du soleil",
+      "Le phénomène d’attirance vers la lumière"
+    ],
+    "correctAnswer": "Le phénomène d’attirance vers la lumière",
+    "explanation": "Le phototropisme est le phénomène par lequel les végétaux s’orientent vers la lumière."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une pièce de forme ?",
+    "choices": [
+      "Un type de vase asymétrique",
+      "Une composition ayant une forme définie comme coussin, cœur, croix",
+      "Une base creuse pour créer du volume"
+    ],
+    "correctAnswer": "Une composition ayant une forme définie comme coussin, cœur, croix",
+    "explanation": "Une pièce de forme est une composition florale avec une forme précise, comme un cœur ou une couronne."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un pinholder ?",
+    "choices": [
+      "Un pic en métal pour fixer les tiges",
+      "Un tabouret plastique pour maintenir la mousse synthétique",
+      "Un récipient pour fleurs piquées"
+    ],
+    "correctAnswer": "Un tabouret plastique pour maintenir la mousse synthétique",
+    "explanation": "Le pinholder est un petit support en plastique qui permet de bloquer la mousse synthétique dans un contenant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert une pipette en floristique ?",
+    "choices": [
+      "À couper les tiges avec précision",
+      "À mesurer le niveau d’humidité",
+      "À hydrater les végétaux avec un petit tube"
+    ],
+    "correctAnswer": "À hydrater les végétaux avec un petit tube",
+    "explanation": "La pipette est un petit tube (verre, zinc ou plastique) utilisé pour hydrater les végétaux individuellement."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'piquage' en art floral ?",
+    "choices": [
+      "Fixer une fleur avec du fil",
+      "Insérer des tiges en biais ou en pointe dans un support",
+      "Coller des feuilles sur un support"
+    ],
+    "correctAnswer": "Insérer des tiges en biais ou en pointe dans un support",
+    "explanation": "Le piquage est l’action d’enfoncer des tiges taillées dans un support, comme de la mousse synthétique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un pique-fleurs ?",
+    "choices": [
+      "Un outil pour tailler les fleurs",
+      "Un support avec pointes pour caler les tiges",
+      "Un vaporisateur décoratif"
+    ],
+    "correctAnswer": "Un support avec pointes pour caler les tiges",
+    "explanation": "Le pique-fleurs est un support à pointes permettant de maintenir les tiges en place."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le point focal d’une composition ?",
+    "choices": [
+      "L’élément le plus coloré",
+      "Le centre vers lequel convergent les fleurs et feuillage",
+      "La zone de base de la composition"
+    ],
+    "correctAnswer": "Le centre vers lequel convergent les fleurs et feuillage",
+    "explanation": "Le point focal est le centre visuel où les regards convergent dans une composition florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le point principal dans un assemblage asymétrique ?",
+    "choices": [
+      "Le point le plus haut de la composition",
+      "Le point avec le plus de volume dans l’assemblage",
+      "Le centre de la base"
+    ],
+    "correctAnswer": "Le point avec le plus de volume dans l’assemblage",
+    "explanation": "Le point principal est celui qui contient le volume le plus important dans un assemblage asymétrique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne le point secondaire dans un assemblage asymétrique ?",
+    "choices": [
+      "Le point le plus bas de la composition",
+      "Le point opposé au centre",
+      "Le point le plus éloigné du point principal"
+    ],
+    "correctAnswer": "Le point le plus éloigné du point principal",
+    "explanation": "Le point secondaire est celui qui se trouve à l’opposé ou au plus loin du point principal dans une composition asymétrique."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie polychrome en floristique ?",
+    "choices": [
+      "Une composition à base de végétaux exotiques",
+      "Une création florale en noir et blanc",
+      "Une composition avec plusieurs couleurs"
+    ],
+    "correctAnswer": "Une composition avec plusieurs couleurs",
+    "explanation": "Polychrome signifie que la composition est réalisée avec plusieurs couleurs."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un pot-pourri ?",
+    "choices": [
+      "Un récipient contenant de l’eau parfumée",
+      "Un mélange de fleurs séchées et végétaux parfumés",
+      "Une composition de fleurs fraîches mélangées"
+    ],
+    "correctAnswer": "Un mélange de fleurs séchées et végétaux parfumés",
+    "explanation": "Le pot-pourri est un mélange de fleurs séchées et d’autres végétaux, souvent utilisé pour parfumer un espace."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que la profondeur dans une composition florale ?",
+    "choices": [
+      "Un espace entre deux fleurs",
+      "Le positionnement des éléments pour créer du relief ou de la transparence",
+      "La taille de la base utilisée"
+    ],
+    "correctAnswer": "Le positionnement des éléments pour créer du relief ou de la transparence",
+    "explanation": "La profondeur est le caractère qui accentue le relief ou la transparence d’une composition par l’éloignement des éléments."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie pyramidal en art floral ?",
+    "choices": [
+      "En forme d’escalier",
+      "En forme de sphère aplatie",
+      "En forme de pyramide ou de cône"
+    ],
+    "correctAnswer": "En forme de pyramide ou de cône",
+    "explanation": "Pyramidal décrit une forme florale structurée en pyramide ou cône."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie une disposition en quinconce ?",
+    "choices": [
+      "Les éléments sont parfaitement alignés",
+      "Les rangs sont décalés les uns par rapport aux autres",
+      "Les fleurs sont regroupées en cercle"
+    ],
+    "correctAnswer": "Les rangs sont décalés les uns par rapport aux autres",
+    "explanation": "La disposition en quinconce consiste à décaler les rangs dans une composition."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie rabattre un végétal ?",
+    "choices": [
+      "Réduire l’arrosage",
+      "Tailler un arbre pour qu’il s’étoffe",
+      "Replanter une tige cassée"
+    ],
+    "correctAnswer": "Tailler un arbre pour qu’il s’étoffe",
+    "explanation": "Rabattre consiste à tailler un arbre ou arbuste pour favoriser son développement et l’étoffer."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie un travail raffiné en art floral ?",
+    "choices": [
+      "Un assemblage dense de feuillage",
+      "Un travail brut et naturel",
+      "Un travail réalisé avec une grande délicatesse"
+    ],
+    "correctAnswer": "Un travail réalisé avec une grande délicatesse",
+    "explanation": "Un travail raffiné est synonyme d’élégance, de précision et de délicatesse."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Pourquoi rafraîchit-on les végétaux ?",
+    "choices": [
+      "Pour les faire changer de couleur",
+      "Pour mieux les attacher",
+      "Pour améliorer leur conservation"
+    ],
+    "correctAnswer": "Pour améliorer leur conservation",
+    "explanation": "Rafraîchir consiste à redonner de la fraîcheur aux végétaux pour prolonger leur durée de vie."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le raphia ?",
+    "choices": [
+      "Un fil synthétique utilisé pour attacher les fleurs",
+      "Une fibre naturelle issue d’un palmier",
+      "Une colle végétale servant au piquage"
+    ],
+    "correctAnswer": "Une fibre naturelle issue d’un palmier",
+    "explanation": "Le raphia est une fibre naturelle extraite d’un palmier, utilisée pour lier ou décorer."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un rappel dans une composition florale ?",
+    "choices": [
+      "Une répétition de végétaux identiques",
+      "Un petit motif rappelant le thème principal",
+      "Un élément en relief utilisé pour la base"
+    ],
+    "correctAnswer": "Un petit motif rappelant le thème principal",
+    "explanation": "Un rappel est un détail visuel (forme, couleur, texture) qui fait écho au thème principal."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que décrit la règle d’or en art floral ?",
+    "choices": [
+      "Un équilibre parfait entre tiges droites et courbes",
+      "Un agencement symétrique des fleurs principales",
+      "Un équilibre asymétrique entre point principal, secondaire et complémentaire"
+    ],
+    "correctAnswer": "Un équilibre asymétrique entre point principal, secondaire et complémentaire",
+    "explanation": "La règle d’or repose sur un équilibre asymétrique, où le groupe secondaire et complémentaire équivaut au principal."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'remonter' ou 'remontage' ?",
+    "choices": [
+      "Changer l’orientation des fleurs",
+      "Assembler plusieurs petits montages pour créer une pièce raffinée",
+      "Réhausser une plante dans un vase"
+    ],
+    "correctAnswer": "Assembler plusieurs petits montages pour créer une pièce raffinée",
+    "explanation": "Le remontage est l’action d’assembler de petits montages pour former une réalisation plus complexe et soignée."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le rempotage ?",
+    "choices": [
+      "Planter une graine dans un petit pot",
+      "Mettre une plante dans un pot plus grand",
+      "Réutiliser un pot pour une nouvelle plante"
+    ],
+    "correctAnswer": "Mettre une plante dans un pot plus grand",
+    "explanation": "Le rempotage consiste à transférer une plante dans un pot plus grand pour favoriser sa croissance."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un ruban en décoration florale ?",
+    "choices": [
+      "À fixer les tiges dans la mousse",
+      "À servir de base pour les bouquets ronds",
+      "À décorer avec des bandelettes de différentes textures"
+    ],
+    "correctAnswer": "À décorer avec des bandelettes de différentes textures",
+    "explanation": "Le ruban est une bande décorative, disponible en diverses textures, utilisée pour orner les compositions florales."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne 'le sec' en art floral ?",
+    "choices": [
+      "Les plantes artificielles",
+      "Les végétaux fraîchement coupés",
+      "L’ensemble des végétaux séchés utilisés en décoration"
+    ],
+    "correctAnswer": "L’ensemble des végétaux séchés utilisés en décoration",
+    "explanation": "'Le sec' désigne l’ensemble des végétaux séchés, souvent utilisés en décoration florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un sécateur ?",
+    "choices": [
+      "À désinfecter les tiges",
+      "À tailler de petites branches ou arbustes",
+      "À coller des tiges ensemble"
+    ],
+    "correctAnswer": "À tailler de petites branches ou arbustes",
+    "explanation": "Le sécateur est un outil de coupe robuste utilisé à une main pour tailler les petites branches."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une serpette ?",
+    "choices": [
+      "Un couteau de précision pour fleurs",
+      "Un outil pour nettoyer les vases",
+      "Une lame recourbée utilisée pour tailler en biseau et désépiner"
+    ],
+    "correctAnswer": "Une lame recourbée utilisée pour tailler en biseau et désépiner",
+    "explanation": "La serpette est une lame recourbée en croissant, utilisée pour tailler les tiges en biseau et désépiner les roses."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une solution nutritive ?",
+    "choices": [
+      "Une eau colorée pour fleurs",
+      "Un mélange d’éléments nourrissants pour végétaux",
+      "Un produit servant à la lyophilisation"
+    ],
+    "correctAnswer": "Un mélange d’éléments nourrissants pour végétaux",
+    "explanation": "La solution nutritive est un composé contenant plusieurs éléments qui nourrissent les végétaux."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne le mot structure en art floral ?",
+    "choices": [
+      "Un feuillage dominant",
+      "Une base visuelle uniquement décorative",
+      "Un assemblage d’éléments servant d’ossature ou de support"
+    ],
+    "correctAnswer": "Un assemblage d’éléments servant d’ossature ou de support",
+    "explanation": "La structure est un assemblage d’éléments qui constitue une base, une ossature ou une armature."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie structurer une composition florale ?",
+    "choices": [
+      "Ajouter des rubans et accessoires",
+      "Organiser les éléments pour former un ensemble cohérent",
+      "Créer une forme géométrique visible"
+    ],
+    "correctAnswer": "Organiser les éléments pour former un ensemble cohérent",
+    "explanation": "Structurer consiste à organiser les différents éléments d’un tout pour donner cohérence et stabilité à la composition."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie styliser en décoration florale ?",
+    "choices": [
+      "Utiliser des styles traditionnels",
+      "Simplifier les formes pour les représenter de manière artistique",
+      "Ajouter des fleurs de style asiatique"
+    ],
+    "correctAnswer": "Simplifier les formes pour les représenter de manière artistique",
+    "explanation": "Styliser, c’est représenter quelque chose en simplifiant volontairement ses formes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le surfaçage ?",
+    "choices": [
+      "Une technique de découpe des feuilles",
+      "Un travail de finition sur la surface de base d’une composition",
+      "Un nettoyage des contenants avant utilisation"
+    ],
+    "correctAnswer": "Un travail de finition sur la surface de base d’une composition",
+    "explanation": "Le surfaçage est une action technique qui permet de finir esthétiquement la base d’un montage floral."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une suspension en art floral ?",
+    "choices": [
+      "Une composition florale à poser sur table",
+      "Une décoration florale murale",
+      "Une décoration florale suspendue"
+    ],
+    "correctAnswer": "Une décoration florale suspendue",
+    "explanation": "Une suspension est une création florale destinée à être accrochée en hauteur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie la symétrie dans une composition florale ?",
+    "choices": [
+      "Un déséquilibre volontaire pour plus de mouvement",
+      "Un équilibre basé sur la règle d’or",
+      "Une disposition régulière de part et d’autre d’un axe"
+    ],
+    "correctAnswer": "Une disposition régulière de part et d’autre d’un axe",
+    "explanation": "La symétrie est un équilibre visuel obtenu par une disposition régulière autour d’un axe."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie tailler une plante ?",
+    "choices": [
+      "Lui donner de la couleur",
+      "Lui retirer ses racines",
+      "Réduire son volume pour lui donner une forme ou supprimer les parties abîmées"
+    ],
+    "correctAnswer": "Réduire son volume pour lui donner une forme ou supprimer les parties abîmées",
+    "explanation": "Tailler consiste à réduire le volume de la ramure pour lui donner une forme ou enlever les parties abîmées."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une teinte ?",
+    "choices": [
+      "Un motif de feuille",
+      "Un degré d’intensité d’une couleur",
+      "Une variation de température"
+    ],
+    "correctAnswer": "Un degré d’intensité d’une couleur",
+    "explanation": "La teinte correspond au degré d’intensité ou de saturation d’une couleur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie la tension en composition florale ?",
+    "choices": [
+      "Une opposition entre différentes expressions de formes ou de textures",
+      "Un lien serré entre les végétaux",
+      "Une structure instable"
+    ],
+    "correctAnswer": "Une opposition entre différentes expressions de formes ou de textures",
+    "explanation": "La tension est créée par les différences entre les formes, textures, couleurs ou rythmes."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne la texture en art floral ?",
+    "choices": [
+      "La dureté d’un végétal",
+      "L’aspect extérieur d’un tissu végétal",
+      "Le parfum d’une fleur"
+    ],
+    "correctAnswer": "L’aspect extérieur d’un tissu végétal",
+    "explanation": "La texture est l’apparence extérieure (lisse, rugueuse, veloutée…) d’un élément végétal."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie tisser en art floral ?",
+    "choices": [
+      "Attacher solidement un végétal à un support",
+      "Former un tissu homogène avec des éléments végétaux",
+      "Ajouter de la couleur aux feuillages"
+    ],
+    "correctAnswer": "Former un tissu homogène avec des éléments végétaux",
+    "explanation": "Tisser consiste à fabriquer un tissu à partir de divers éléments pour créer un ensemble homogène."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le tontinage ?",
+    "choices": [
+      "Une méthode de tressage pour feuillage",
+      "Une action de décor à l’aide de tontines",
+      "Un procédé de lyophilisation végétale"
+    ],
+    "correctAnswer": "Une action de décor à l’aide de tontines",
+    "explanation": "Le tontinage est une technique décorative utilisant des tontines comme base."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une tontine ?",
+    "choices": [
+      "Une sphère en mousse colorée",
+      "Une base de tulle renforcée",
+      "Un revêtement de mousse entourant les racines d’une plante"
+    ],
+    "correctAnswer": "Un revêtement de mousse entourant les racines d’une plante",
+    "explanation": "La tontine est une couche de mousse plate utilisée autour de l’appareil racinaire."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'tortueux' dans la description d’un végétal ?",
+    "choices": [
+      "Courbé ou sinueux",
+      "Piquant et rigide",
+      "Très droit et fragile"
+    ],
+    "correctAnswer": "Courbé ou sinueux",
+    "explanation": "Tortueux décrit un végétal sinueux, comme certaines variétés de saules."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’un toupillon ?",
+    "choices": [
+      "Un petit feuillage décoratif collé",
+      "Une touffe d’un même végétal montée ou ficelée",
+      "Une boucle de tige tressée"
+    ],
+    "correctAnswer": "Une touffe d’un même végétal montée ou ficelée",
+    "explanation": "Un toupillon est une petite touffe d’un même végétal préparée pour un travail décoratif."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie tourner un bouquet ?",
+    "choices": [
+      "Changer les fleurs de place",
+      "Faire pivoter le bouquet pour lui donner une forme équilibrée",
+      "Ajouter une vrille de support"
+    ],
+    "correctAnswer": "Faire pivoter le bouquet pour lui donner une forme équilibrée",
+    "explanation": "Tourner signifie faire un mouvement de rotation pour équilibrer l’ensemble ou créer une vrille."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie tresser ?",
+    "choices": [
+      "Assembler les feuilles par collage",
+      "Attacher en formant des cercles",
+      "Entrelacer plusieurs éléments"
+    ],
+    "correctAnswer": "Entrelacer plusieurs éléments",
+    "explanation": "Tresser, c’est entrelacer plusieurs éléments pour former une structure décorative."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce que le tulle en art floral ?",
+    "choices": [
+      "Une fibre naturelle résistante à l’eau",
+      "Un tissu léger et transparent",
+      "Une mousse utilisée pour piquage"
+    ],
+    "correctAnswer": "Un tissu léger et transparent",
+    "explanation": "Le tulle est un tissu fin, léger et souvent transparent, utilisé pour la décoration."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert un tuteur ?",
+    "choices": [
+      "À colorer les fleurs artificielles",
+      "À soutenir ou redresser une plante",
+      "À stocker l’eau autour des racines"
+    ],
+    "correctAnswer": "À soutenir ou redresser une plante",
+    "explanation": "Le tuteur est un piquet ou bâton qui aide à maintenir une plante droite."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie tuteurer une plante ?",
+    "choices": [
+      "La tailler pour qu’elle pousse plus vite",
+      "La fixer à un piquet pour la maintenir droite",
+      "La placer dans un contenant plus grand"
+    ],
+    "correctAnswer": "La fixer à un piquet pour la maintenir droite",
+    "explanation": "Tuteurer consiste à attacher une plante à un tuteur pour la guider dans sa croissance."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'uniflor' ?",
+    "choices": [
+      "Une fleur composée de plusieurs tiges",
+      "Un végétal qui ne porte qu’une seule fleur",
+      "Une fleur utilisée uniquement pour les bouquets secs"
+    ],
+    "correctAnswer": "Un végétal qui ne porte qu’une seule fleur",
+    "explanation": "'Uniflor' désigne un végétal qui ne porte qu’une seule fleur."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une vasque en art floral ?",
+    "choices": [
+      "Un pot profond pour fleurs aquatiques",
+      "Une coupe large et peu profonde",
+      "Un vase suspendu pour les orchidées"
+    ],
+    "correctAnswer": "Une coupe large et peu profonde",
+    "explanation": "La vasque est une coupe large et peu profonde, souvent utilisée pour les compositions florales."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que désigne le terme 'verdure' ?",
+    "choices": [
+      "Des plantes à fleurs très colorées",
+      "Des végétaux utilisés pour leur feuillage",
+      "Des tiges utilisées comme support"
+    ],
+    "correctAnswer": "Des végétaux utilisés pour leur feuillage",
+    "explanation": "La verdure désigne les végétaux sélectionnés principalement pour leur feuillage."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie 'verdurer' ?",
+    "choices": [
+      "Teinter les végétaux en vert",
+      "Ajouter des tiges pour donner de la hauteur",
+      "Disposer du feuillage sur un support"
+    ],
+    "correctAnswer": "Disposer du feuillage sur un support",
+    "explanation": "Verdurer consiste à placer du feuillage sur un support ou dans une composition florale."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une poterie vernissée ?",
+    "choices": [
+      "Une poterie ancienne faite à la main",
+      "Une poterie avec un revêtement brillant de vernis",
+      "Un récipient fait en verre coloré"
+    ],
+    "correctAnswer": "Une poterie avec un revêtement brillant de vernis",
+    "explanation": "Une poterie vernissée ou faïence vernissée est recouverte d’un vernis pour lui donner un aspect brillant."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Qu’est-ce qu’une vrille en floristique ?",
+    "choices": [
+      "Une branche enroulée naturellement",
+      "Le résultat d’un faisceau de tiges tournées ensemble",
+      "Un support métallique spiralé"
+    ],
+    "correctAnswer": "Le résultat d’un faisceau de tiges tournées ensemble",
+    "explanation": "La vrille est le résultat de la technique qui consiste à vriller un faisceau de tiges ensemble."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que signifie vriller un bouquet ?",
+    "choices": [
+      "Courber toutes les tiges vers l’extérieur",
+      "Disposer les tiges en les tournant dans un même sens",
+      "Faire onduler les fleurs pour créer du mouvement"
+    ],
+    "correctAnswer": "Disposer les tiges en les tournant dans un même sens",
+    "explanation": "Vriller un bouquet, c’est disposer les tiges de manière à ce qu’elles tournent dans le même sens."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "Que représente le style 'zen' en art floral ?",
+    "choices": [
+      "Un style chargé et coloré",
+      "Une recherche de simplicité, sobriété et calme",
+      "Un style uniquement japonais et structuré"
+    ],
+    "correctAnswer": "Une recherche de simplicité, sobriété et calme",
+    "explanation": "Le style zen en floral recherche la sobriété, la simplicité et une ambiance paisible."
+  },
+  {
+    "category": "Vocabulaire floral",
+    "question": "À quoi sert le zinc en décoration florale ?",
+    "choices": [
+      "À enrichir la terre en minéraux",
+      "À créer des tiges artificielles",
+      "À décorer ou protéger le fer contre l’humidité"
+    ],
+    "correctAnswer": "À décorer ou protéger le fer contre l’humidité",
+    "explanation": "Le zinc est un métal utilisé pour la décoration, mais aussi pour protéger le fer de l’humidité."
   }
 ]
