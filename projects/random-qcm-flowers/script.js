@@ -86,7 +86,7 @@ function showExplanation(question, userChoice) {
     const isCorrect = userChoice === question.correctAnswer;
     const resultClass = isCorrect ? 'response-true' : 'response-false';
     const resultText = isCorrect ? 'Correct' : 'Incorrect';
-    const resultImg = isCorrect ? 'true.png' : 'false.png';
+    const resultImg = isCorrect ? 'true1.png' : 'false1.png';
 
     if (isCorrect) successCount++;
     else failCount++;
