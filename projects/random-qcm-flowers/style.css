@@ -16,9 +16,15 @@ body {
     justify-content: center;
     text-align: center;
     overflow-x: hidden;
-    background-color: #222;
+    background-color: #000;
     color: #eee;
+    background-image: url("assets/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 .study-projects-back-button {
     position: absolute;
@@ -45,11 +51,13 @@ body {
 /* Title */
 .question h3 {
     font-size: 1.2rem;
+    text-shadow: 1px 1px 6px #000;
     margin-bottom: 0;
 }
 
 .question h2 {
     font-size: 1.4rem;
+    text-shadow: 1px 1px 6px #000;
     margin-bottom: 32px;
 }
 
@@ -62,16 +70,18 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     color: #eee;
-    background-color: #222;
+    background-color: #2225;
     border: 2px solid #eee;
     border-radius: 8px;
     transition: 0.4s;
+    text-shadow: 1px 1px 12px #000;
 }
 
 .choice:hover {
     color: #222;
     background-color: #eee;
     border: 2px solid #eee;
+    text-shadow: 1px 1px 6px #fff;
     transition: 0.2s;
 }
 
@@ -103,6 +113,7 @@ body {
 
 .explanation {
     font-size: 1.2rem;
+    text-shadow: 1px 1px 6px #000;
     padding: 0 16px;
 }
 
@@ -111,9 +122,10 @@ body {
     cursor: pointer;
     padding: 8px 16px;
     font-size: 1.2rem;
+    text-shadow: 1px 1px 6px #000;
     font-weight: 600;
     color: #eee;
-    background-color: #222;
+    background-color: #2225;
     border: 2px solid #eee;
     border-radius: 8px;
     transition: 0.4s;
@@ -122,6 +134,7 @@ body {
 
 #nextQuestion:hover {
     color: #222;
+    text-shadow: 1px 1px 6px #fff;
     background-color: #eee;
     border: 2px solid #eee;
     transition: 0.2s;
@@ -133,8 +146,9 @@ body {
     padding: 8px 16px;
     font-size: 1.2rem;
     font-weight: 600;
+    text-shadow: 1px 1px 6px #000;
     color: #eee;
-    background-color: #222;
+    background-color: #2225;
     border: 2px solid #eee;
     border-radius: 8px;
     transition: 0.4s;
@@ -143,6 +157,7 @@ body {
 
 #restart:hover {
     color: #222;
+    text-shadow: 1px 1px 6px #fff;
     background-color: #eee;
     border: 2px solid #eee;
     transition: 0.2s;
@@ -164,6 +179,7 @@ body {
 
 .score-item span {
     color: #eee;
+    text-shadow: 1px 1px 6px #000;
     font-weight: bold;
 }
 
@@ -172,5 +188,15 @@ body {
     top: 1rem;
     right: 1rem;
     font-size: 1.2em;
+    font-weight: bold;
+}
+
+.percentage-green {
+    color: #fcbf49 !important;
+    font-weight: bold;
+}
+
+.percentage-red {
+    color: #d62828 !important;
     font-weight: bold;
 }

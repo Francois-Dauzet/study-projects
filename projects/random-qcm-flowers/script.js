@@ -63,6 +63,19 @@ function updateScoreDisplay() {
     successDisplay.textContent = successCount;
     percentageDisplay.textContent = percentage + '%';
     failDisplay.textContent = failCount;
+
+    console.log("Pourcentage :", percentage); // voir la valeur
+    console.log("Élément : ", percentageDisplay); // voir si on cible bien
+
+    // Enlève les classes existantes d'abord
+    percentageDisplay.classList.remove('percentage-green', 'percentage-red');
+
+    // Applique la bonne couleur
+    if (percentage >= 50) {
+        percentageDisplay.classList.add('percentage-green');
+    } else {
+        percentageDisplay.classList.add('percentage-red');
+    }
 }
 
 function showExplanation(question, userChoice) {
