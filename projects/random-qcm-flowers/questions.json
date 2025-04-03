@@ -2660,5 +2660,3767 @@
     ],
     "correctAnswer": "À décorer ou protéger le fer contre l’humidité",
     "explanation": "Le zinc est un métal utilisé pour la décoration, mais aussi pour protéger le fer de l’humidité."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l'azalée d'intérieur ?",
+    "choices": [
+      "Rhododendron simsii",
+      "Gardenia jasminoides",
+      "Camellia japonica"
+    ],
+    "correctAnswer": "Rhododendron simsii",
+    "explanation": "L'azalée d'intérieur est aussi appelée Rhododendron simsii."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Dans quel type de sol l’azalée d’intérieur se développe-t-elle le mieux ?",
+    "choices": [
+      "Sol neutre",
+      "Terre calcaire",
+      "Terre acide"
+    ],
+    "correctAnswer": "Terre acide",
+    "explanation": "L’azalée est une plante acidophile, elle préfère donc une terre acide."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est l’exposition idéale pour l’azalée d’intérieur ?",
+    "choices": [
+      "Plein soleil toute la journée",
+      "Mi-ombre, préférence Nord-ouest",
+      "Ombre profonde"
+    ],
+    "correctAnswer": "Mi-ombre, préférence Nord-ouest",
+    "explanation": "L’azalée préfère une exposition mi-ombragée, idéalement orientée Nord-ouest."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison de l’azalée d’intérieur ?",
+    "choices": [
+      "Février à juillet",
+      "Juin à décembre",
+      "Toute l’année"
+    ],
+    "correctAnswer": "Février à juillet",
+    "explanation": "L’azalée d’intérieur fleurit de février à juillet."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de l’azalée d’intérieur ?",
+    "choices": [
+      "Plante grimpante à fleurs violettes",
+      "Arbuste à fleurs de différentes couleurs et feuillage panaché",
+      "Plante tombante à petites fleurs jaunes"
+    ],
+    "correctAnswer": "Arbuste à fleurs de différentes couleurs et feuillage panaché",
+    "explanation": "L’azalée est un arbuste à fleurs jaunes, orange, rouges, carmin ou roses, avec un feuillage vert ou panaché."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage de l’azalée d’intérieur ?",
+    "choices": [
+      "Caduc",
+      "Persistant",
+      "Semi-persistant"
+    ],
+    "correctAnswer": "Persistant",
+    "explanation": "Le feuillage de l’azalée est vivace et persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle précaution importante faut-il prendre avec l’azalée ?",
+    "choices": [
+      "Elle est comestible",
+      "Elle est toxique en cas d’ingestion",
+      "Elle attire les moustiques"
+    ],
+    "correctAnswer": "Elle est toxique en cas d’ingestion",
+    "explanation": "L’azalée est toxique si elle est ingérée, attention aux enfants et animaux domestiques."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale que peut atteindre l’azalée ?",
+    "choices": [
+      "1 mètre",
+      "5 mètres",
+      "30 mètres"
+    ],
+    "correctAnswer": "30 mètres",
+    "explanation": "L’azalée peut atteindre jusqu’à 30 mètres de haut selon les espèces."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies touchent fréquemment l’azalée ?",
+    "choices": [
+      "Chlorose systématique et tâches foliaires",
+      "Mildiou et oïdium",
+      "Rouille et cochenilles"
+    ],
+    "correctAnswer": "Chlorose systématique et tâches foliaires",
+    "explanation": "L’azalée est sujette à la chlorose systématique et aux tâches foliaires."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D’où provient l’azalée d’intérieur ?",
+    "choices": [
+      "Europe et Afrique",
+      "Asie et Amérique du Nord",
+      "Océanie uniquement"
+    ],
+    "correctAnswer": "Asie et Amérique du Nord",
+    "explanation": "L’azalée d’intérieur est originaire d’Asie et d’Amérique du Nord."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l’hortensia ?",
+    "choices": [
+      "Hydrangea macrophylla",
+      "Rhododendron simsii",
+      "Gardenia jasminoides"
+    ],
+    "correctAnswer": "Hydrangea macrophylla",
+    "explanation": "Le nom scientifique de l’hortensia est Hydrangea macrophylla, mais il existe aussi Hydrangea paniculata."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de sol préfère l’hortensia ?",
+    "choices": [
+      "Terre calcaire",
+      "Terre neutre",
+      "Terre acide"
+    ],
+    "correctAnswer": "Terre acide",
+    "explanation": "Comme de nombreuses plantes fleuries, l’hortensia est une plante acidophile qui préfère les terres acides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est l’exposition idéale pour un hortensia ?",
+    "choices": [
+      "Ombre totale",
+      "Soleil ou mi-ombre, de préférence Nord-ouest",
+      "Plein soleil uniquement, orienté sud"
+    ],
+    "correctAnswer": "Soleil ou mi-ombre, de préférence Nord-ouest",
+    "explanation": "L’hortensia apprécie le soleil ou la mi-ombre, avec une exposition Nord-ouest recommandée."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison de l’hortensia ?",
+    "choices": [
+      "Février à juillet",
+      "Printemps, été, automne",
+      "Hiver uniquement"
+    ],
+    "correctAnswer": "Printemps, été, automne",
+    "explanation": "L’hortensia fleurit du printemps à l’automne."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles sont les couleurs possibles des fleurs d’hortensia ?",
+    "choices": [
+      "Bleues, jaunes, violettes",
+      "Roses, rouges, bleues ou blanches",
+      "Vertes, brunes et orange"
+    ],
+    "correctAnswer": "Roses, rouges, bleues ou blanches",
+    "explanation": "Les hortensias offrent une belle variété de fleurs roses, rouges, bleues ou blanches."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage de l’hortensia ?",
+    "choices": [
+      "Persistant",
+      "Semi-persistant",
+      "Caduc"
+    ],
+    "correctAnswer": "Caduc",
+    "explanation": "Le feuillage de l’hortensia est caduc : il tombe en hiver."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "L’hortensia est-il toxique ?",
+    "choices": [
+      "Non, il est comestible",
+      "Oui, c’est une plante toxique",
+      "Uniquement en contact avec la peau"
+    ],
+    "correctAnswer": "Oui, c’est une plante toxique",
+    "explanation": "L’hortensia est une plante toxique, notamment en cas d’ingestion."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale d’un hortensia ?",
+    "choices": [
+      "50 cm",
+      "2 mètres",
+      "5 mètres"
+    ],
+    "correctAnswer": "2 mètres",
+    "explanation": "L’hortensia peut atteindre environ 2 mètres de haut."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies peuvent affecter l’hortensia ?",
+    "choices": [
+      "Oïdium, cochenilles, acariens, pourriture grise, ascochyta",
+      "Chlorose, taches foliaires",
+      "Rouille, mildiou"
+    ],
+    "correctAnswer": "Oïdium, cochenilles, acariens, pourriture grise, ascochyta",
+    "explanation": "L’hortensia peut être sensible à l’oïdium, aux cochenilles, acariens, pourriture grise et ascochyta."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelles régions est originaire l’hortensia ?",
+    "choices": [
+      "Europe et Afrique",
+      "Amérique du Nord et Japon",
+      "Australie et Inde"
+    ],
+    "correctAnswer": "Amérique du Nord et Japon",
+    "explanation": "L’hortensia est originaire d’Amérique du Nord et du Japon."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du gardénia ?",
+    "choices": [
+      "Gardenia jasminoides",
+      "Hydrangea paniculata",
+      "Camellia japonica"
+    ],
+    "correctAnswer": "Gardenia jasminoides",
+    "explanation": "Le nom scientifique du gardénia est Gardenia jasminoides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type d’arrosage convient au gardénia ?",
+    "choices": [
+      "Arrosage léger quotidien",
+      "Arrosage abondant, laisser sécher entre deux arrosages",
+      "Pas d’arrosage en été"
+    ],
+    "correctAnswer": "Arrosage abondant, laisser sécher entre deux arrosages",
+    "explanation": "Le gardénia nécessite un arrosage abondant mais espacé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est recommandée pour le gardénia ?",
+    "choices": [
+      "Ombre profonde",
+      "Plein soleil uniquement",
+      "Lumineux à ombre"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le gardénia préfère les expositions lumineuses à ombragées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D'où est originaire le gardénia ?",
+    "choices": [
+      "Amérique du Nord",
+      "Asie",
+      "Europe du Sud"
+    ],
+    "correctAnswer": "Asie",
+    "explanation": "Le gardénia provient d’Asie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison fleurit le gardénia ?",
+    "choices": [
+      "Hiver",
+      "Été",
+      "Printemps et automne"
+    ],
+    "correctAnswer": "Été",
+    "explanation": "Le gardénia fleurit en été."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du gardénia ?",
+    "choices": [
+      "Plante grimpante à fleurs rouges",
+      "Plante arbustive au feuillage lustré et fleurs blanches parfumées",
+      "Petit arbre tropical à feuilles épaisses"
+    ],
+    "correctAnswer": "Plante arbustive au feuillage lustré et fleurs blanches parfumées",
+    "explanation": "Le gardénia est une plante arbustive méditerranéenne avec des fleurs très parfumées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du gardénia ?",
+    "choices": [
+      "Persistant",
+      "Caduc",
+      "Semi-persistant"
+    ],
+    "correctAnswer": "Caduc",
+    "explanation": "Le gardénia possède un feuillage caduc."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le gardénia est particulièrement apprécié pour :",
+    "choices": [
+      "Son feuillage coloré",
+      "Son parfum délicat",
+      "Ses fruits comestibles"
+    ],
+    "correctAnswer": "Son parfum délicat",
+    "explanation": "Le parfum du gardénia est très recherché en parfumerie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un gardénia ?",
+    "choices": [
+      "Jusqu’à 1 m",
+      "Jusqu’à 2,50 m",
+      "Plus de 4 m"
+    ],
+    "correctAnswer": "Jusqu’à 2,50 m",
+    "explanation": "Le gardénia peut atteindre jusqu’à 2,50 mètres selon les conditions."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le gardénia est-il sensible aux maladies ?",
+    "choices": [
+      "Oui, très fragile",
+      "Non, il est résistant",
+      "Uniquement en hiver"
+    ],
+    "correctAnswer": "Non, il est résistant",
+    "explanation": "Le gardénia est naturellement résistant aux maladies et parasites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du camélia ?",
+    "choices": [
+      "Camellia japonica",
+      "Gardenia jasminoides",
+      "Hydrangea macrophylla"
+    ],
+    "correctAnswer": "Camellia japonica",
+    "explanation": "Le nom scientifique du camélia est Camellia japonica."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de sol adapté au camélia ?",
+    "choices": [
+      "Terre sableuse",
+      "Terre neutre",
+      "Terre acide"
+    ],
+    "correctAnswer": "Terre acide",
+    "explanation": "Le camélia est une plante acidophile, il préfère une terre acide."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est l’exposition idéale pour un camélia ?",
+    "choices": [
+      "Plein soleil",
+      "Lumineux à ombre",
+      "Ombre totale uniquement"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le camélia se développe bien dans un endroit lumineux à ombragé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelles régions est originaire le camélia ?",
+    "choices": [
+      "Europe et Afrique du Nord",
+      "Japon, Corée, Chine",
+      "Amérique du Sud"
+    ],
+    "correctAnswer": "Japon, Corée, Chine",
+    "explanation": "Le camélia est originaire d'Asie : Japon, Corée et Chine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison le camélia fleurit-il ?",
+    "choices": [
+      "Hiver",
+      "Printemps",
+      "Été et automne"
+    ],
+    "correctAnswer": "Été et automne",
+    "explanation": "La floraison du camélia a lieu en été et en automne."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du camélia ?",
+    "choices": [
+      "Petit arbre florifère au feuillage brillant et aux fleurs colorées",
+      "Plante grimpante à fleurs violettes",
+      "Feuillage panaché sans floraison"
+    ],
+    "correctAnswer": "Petit arbre florifère au feuillage brillant et aux fleurs colorées",
+    "explanation": "Le camélia est un petit arbre très florifère aux feuilles lustrées et aux fleurs variées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du camélia ?",
+    "choices": [
+      "Caduc",
+      "Persistant",
+      "Semi-persistant"
+    ],
+    "correctAnswer": "Persistant",
+    "explanation": "Le feuillage du camélia est persistant : il reste vert toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la particularité esthétique du camélia ?",
+    "choices": [
+      "Ses fleurs comestibles",
+      "Ses tiges spiralées",
+      "Ses feuilles lustrées et fleurs très recherchées"
+    ],
+    "correctAnswer": "Ses feuilles lustrées et fleurs très recherchées",
+    "explanation": "Le camélia est apprécié pour ses feuilles brillantes et ses fleurs ornementales."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle hauteur peut atteindre un camélia ?",
+    "choices": [
+      "50 cm à 1 m",
+      "1,20 à 3 m",
+      "4 à 6 m"
+    ],
+    "correctAnswer": "1,20 à 3 m",
+    "explanation": "Le camélia peut mesurer entre 1,20 et 3 mètres de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le camélia est-il sensible aux maladies ?",
+    "choices": [
+      "Oui, il est très fragile",
+      "Non, il est résistant aux maladies et parasites",
+      "Seulement en automne"
+    ],
+    "correctAnswer": "Non, il est résistant aux maladies et parasites",
+    "explanation": "Le camélia est naturellement résistant aux maladies et aux parasites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de la chamaedorea ?",
+    "choices": [
+      "Chamaedorea elegans",
+      "Camellia japonica",
+      "Gardenia jasminoides"
+    ],
+    "correctAnswer": "Chamaedorea elegans",
+    "explanation": "Le nom scientifique complet de la chamaedorea est Chamaedorea elegans."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle fréquence faut-il arroser la chamaedorea en été ?",
+    "choices": [
+      "Une fois par semaine",
+      "Deux fois par semaine",
+      "Trois fois par semaine"
+    ],
+    "correctAnswer": "Trois fois par semaine",
+    "explanation": "En été, la chamaedorea a besoin d’être arrosée trois fois par semaine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température idéale de stockage pour la chamaedorea ?",
+    "choices": [
+      "15 °C",
+      "18 °C",
+      "22 °C"
+    ],
+    "correctAnswer": "18 °C",
+    "explanation": "La chamaedorea se développe idéalement à une température d’environ 18 °C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient à la chamaedorea ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre uniquement",
+      "Lumineux à ombre"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "La chamaedorea préfère les emplacements lumineux à ombragés."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire la chamaedorea ?",
+    "choices": [
+      "Afrique de l’Ouest",
+      "Amérique du Sud (Mexique) et Amérique centrale",
+      "Asie du Sud-Est"
+    ],
+    "correctAnswer": "Amérique du Sud (Mexique) et Amérique centrale",
+    "explanation": "La chamaedorea est originaire du Mexique et d’Amérique centrale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de croissance ou d’intérêt décoratif de la chamaedorea ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Été et automne"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "La chamaedorea est décorative et agréable toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de la chamaedorea ?",
+    "choices": [
+      "Petit arbuste à fleurs rouges",
+      "Palmier d'intérieur ornemental",
+      "Liane tropicale grimpante"
+    ],
+    "correctAnswer": "Palmier d'intérieur ornemental",
+    "explanation": "La chamaedorea est un petit palmier très utilisé comme plante d’intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède la chamaedorea ?",
+    "choices": [
+      "Caduc",
+      "Persistant et retombant",
+      "Panaché et épineux"
+    ],
+    "correctAnswer": "Persistant et retombant",
+    "explanation": "La chamaedorea a un feuillage persistant, aux longues feuilles retombantes."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une spécificité toxique de la chamaedorea ?",
+    "choices": [
+      "Ses racines sont toxiques",
+      "Elle émet du latex",
+      "Elle produit des baies jaunes toxiques"
+    ],
+    "correctAnswer": "Elle produit des baies jaunes toxiques",
+    "explanation": "Les baies jaunes de la chamaedorea sont toxiques si elles sont ingérées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou parasites la chamaedorea est-elle sensible ?",
+    "choices": [
+      "Rouille et oïdium",
+      "Araignées rouges et excès d’eau",
+      "Chlorose et taches foliaires"
+    ],
+    "correctAnswer": "Araignées rouges et excès d’eau",
+    "explanation": "La chamaedorea peut être sujette aux araignées rouges et à un arrosage excessif."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du cocotier ?",
+    "choices": [
+      "Cocos nucifera",
+      "Chamaedorea elegans",
+      "Camellia japonica"
+    ],
+    "correctAnswer": "Cocos nucifera",
+    "explanation": "Le cocotier porte le nom scientifique Cocos nucifera."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du cocotier ?",
+    "choices": [
+      "Très abondant",
+      "Modéré, sans laisser sécher complètement",
+      "Très faible, seulement une fois par mois"
+    ],
+    "correctAnswer": "Modéré, sans laisser sécher complètement",
+    "explanation": "Le cocotier demande un arrosage régulier mais sans que la terre ne sèche totalement."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température convient au stockage du cocotier ?",
+    "choices": [
+      "De 0°C à 10°C",
+      "De 10°C à 30°C",
+      "De 25°C à 40°C"
+    ],
+    "correctAnswer": "De 10°C à 30°C",
+    "explanation": "Le cocotier supporte bien une température comprise entre 10°C et 30°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le cocotier ?",
+    "choices": [
+      "Ombre uniquement",
+      "Soleil et mi-ombre",
+      "Lumière indirecte uniquement"
+    ],
+    "correctAnswer": "Soleil et mi-ombre",
+    "explanation": "Le cocotier préfère les expositions ensoleillées ou légèrement ombragées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle zone géographique est originaire le cocotier ?",
+    "choices": [
+      "Europe méditerranéenne",
+      "Zones tropicales du Pacifique-Ouest, Océan Indien, Afrique, Asie et Amériques",
+      "Amérique du Nord et Europe du Nord"
+    ],
+    "correctAnswer": "Zones tropicales du Pacifique-Ouest, Océan Indien, Afrique, Asie et Amériques",
+    "explanation": "Le cocotier est une plante tropicale originaire de nombreuses régions chaudes du monde."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison le cocotier est-il décoratif ?",
+    "choices": [
+      "Printemps uniquement",
+      "Hiver",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le cocotier est ornemental toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect caractéristique du cocotier ?",
+    "choices": [
+      "Arbuste à fleurs rouges",
+      "Palmier graphique sortant d'une noix de coco",
+      "Liane retombante à grandes feuilles"
+    ],
+    "correctAnswer": "Palmier graphique sortant d'une noix de coco",
+    "explanation": "Le cocotier est souvent reconnaissable à son tronc qui émerge directement de la noix de coco."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale que peut atteindre un cocotier ?",
+    "choices": [
+      "5 mètres",
+      "10 mètres",
+      "25 mètres"
+    ],
+    "correctAnswer": "25 mètres",
+    "explanation": "Un cocotier adulte peut atteindre jusqu’à 25 mètres de haut."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou problèmes le cocotier est-il sensible ?",
+    "choices": [
+      "Oïdium et chlorose",
+      "Araignées rouges et hygrométrie trop faible",
+      "Mildiou et taches foliaires"
+    ],
+    "correctAnswer": "Araignées rouges et hygrométrie trop faible",
+    "explanation": "Le cocotier peut souffrir des araignées rouges et d’un air trop sec."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la longueur des feuilles du cocotier ?",
+    "choices": [
+      "1 à 2 mètres",
+      "3 à 4 mètres",
+      "5 à 6 mètres"
+    ],
+    "correctAnswer": "5 à 6 mètres",
+    "explanation": "Les feuilles du cocotier peuvent mesurer jusqu’à 5 à 6 mètres de long."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de la dracaena ?",
+    "choices": [
+      "Dracaena fragrans / Dracaena marginata",
+      "Cocos nucifera",
+      "Chamaedorea elegans"
+    ],
+    "correctAnswer": "Dracaena fragrans / Dracaena marginata",
+    "explanation": "La dracaena regroupe notamment les variétés Dracaena fragrans et Dracaena marginata."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type d’arrosage est recommandé pour la dracaena ?",
+    "choices": [
+      "Arrosage quotidien abondant",
+      "Arrosage modéré, pas en dessous de 18°C",
+      "Pas d’arrosage en hiver"
+    ],
+    "correctAnswer": "Arrosage modéré, pas en dessous de 18°C",
+    "explanation": "La dracaena nécessite un arrosage modéré, et il est déconseillé d’arroser si la température est inférieure à 18°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale de stockage pour une dracaena ?",
+    "choices": [
+      "5°C",
+      "10°C",
+      "15°C"
+    ],
+    "correctAnswer": "15°C",
+    "explanation": "La température minimale recommandée pour stocker une dracaena est de 15°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour la dracaena ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre totale",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "La dracaena préfère une exposition lumineuse mais sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D’où est originaire la dracaena ?",
+    "choices": [
+      "Asie tropicale",
+      "Afrique tropicale et Antilles",
+      "Océanie"
+    ],
+    "correctAnswer": "Afrique tropicale et Antilles",
+    "explanation": "La dracaena est originaire d’Afrique tropicale et des Antilles, où elle est aussi appelée dragonnier."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison la dracaena est-elle décorative ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Automne seulement"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "La dracaena reste décorative et ornementale tout au long de l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de la dracaena ?",
+    "choices": [
+      "Palmier avec tronc rugueux",
+      "Touffu et érigé à croissance lente",
+      "Plante rampante à tiges fines"
+    ],
+    "correctAnswer": "Touffu et érigé à croissance lente",
+    "explanation": "La dracaena est une plante touffue, dressée et à croissance lente."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la particularité du feuillage de la dracaena ?",
+    "choices": [
+      "Feuilles courtes, ovales et épaisses",
+      "Feuilles vertes ou panachées, longues jusqu’à 150 cm",
+      "Feuilles caduques qui tombent en hiver"
+    ],
+    "correctAnswer": "Feuilles vertes ou panachées, longues jusqu’à 150 cm",
+    "explanation": "La dracaena possède un feuillage vert ou panaché pouvant mesurer jusqu’à 150 cm."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Que peuvent produire les vieux sujets de dracaena ?",
+    "choices": [
+      "Des fruits comestibles",
+      "Des fleurs blanches ou roses très parfumées",
+      "Des tiges secondaires rampantes"
+    ],
+    "correctAnswer": "Des fleurs blanches ou roses très parfumées",
+    "explanation": "Les vieux sujets de dracaena peuvent produire des fleurs au parfum de vanille et d’ylang-ylang."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre une dracaena en pot ?",
+    "choices": [
+      "1 mètre",
+      "2 mètres",
+      "3 mètres"
+    ],
+    "correctAnswer": "3 mètres",
+    "explanation": "En pot, la dracaena peut atteindre jusqu’à 3 mètres de haut."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle maladie ou problème peut affecter la dracaena ?",
+    "choices": [
+      "Excès d’eau",
+      "Araignées rouges",
+      "Oïdium"
+    ],
+    "correctAnswer": "Excès d’eau",
+    "explanation": "La dracaena est sensible à un excès d’eau, qui peut faire pourrir ses racines."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du ficus ?",
+    "choices": [
+      "Ficus benjamina",
+      "Ficus tropicalis",
+      "Ficus elastica"
+    ],
+    "correctAnswer": "Ficus benjamina",
+    "explanation": "Le ficus le plus courant en intérieur est le Ficus benjamina."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du ficus ?",
+    "choices": [
+      "Arrosage abondant tous les jours",
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Brumisation uniquement"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "Le ficus a besoin de peu d’eau, et le substrat doit sécher entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température est conseillée pour stocker un ficus ?",
+    "choices": [
+      "Il peut supporter le gel",
+      "Conserver à température ambiante",
+      "Il supporte jusqu’à 5°C"
+    ],
+    "correctAnswer": "Conserver à température ambiante",
+    "explanation": "Le ficus craint le froid et doit être conservé à température ambiante."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le ficus ?",
+    "choices": [
+      "Ombre totale",
+      "Soleil direct",
+      "Lumineux à ombre"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le ficus s’épanouit dans un environnement lumineux à légèrement ombragé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le ficus ?",
+    "choices": [
+      "Afrique du Sud",
+      "Asie tropicale",
+      "Amérique centrale"
+    ],
+    "correctAnswer": "Asie tropicale",
+    "explanation": "Le ficus benjamina est originaire d’Asie tropicale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison de floraison ou d'intérêt décoratif du ficus ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le ficus est décoratif toute l’année, avec son feuillage persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du ficus ?",
+    "choices": [
+      "Plante tombante à feuilles argentées",
+      "Plante brillante au feuillage plastique",
+      "Petit arbuste à fleurs rouges"
+    ],
+    "correctAnswer": "Plante brillante au feuillage plastique",
+    "explanation": "Le ficus est une plante tropicale au feuillage lustré, presque plastique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le ficus ?",
+    "choices": [
+      "Caduc",
+      "Persistant",
+      "Panaché"
+    ],
+    "correctAnswer": "Persistant",
+    "explanation": "Le feuillage du ficus est persistant, il reste en place toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle propriété dépolluante possède le ficus ?",
+    "choices": [
+      "Aucune",
+      "Il capte les poussières",
+      "Il est idéal pour les fumeurs"
+    ],
+    "correctAnswer": "Il est idéal pour les fumeurs",
+    "explanation": "Le ficus est une plante dépolluante particulièrement adaptée aux intérieurs de fumeurs."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle substance collante le ficus peut-il libérer ?",
+    "choices": [
+      "Du latex",
+      "Un lait collant",
+      "Une résine rouge"
+    ],
+    "correctAnswer": "Un lait collant",
+    "explanation": "Le ficus sécrète un lait collant lorsqu’il est coupé ou blessé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quels sont les principaux ennemis du ficus ?",
+    "choices": [
+      "Limaces et pucerons",
+      "Araignées rouges, cochenilles et excès d’eau",
+      "Moisissures et champignons"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et excès d’eau",
+    "explanation": "Le ficus peut être sujet aux araignées rouges, cochenilles, et souffrir d’un excès d’eau."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du caoutchouc ?",
+    "choices": [
+      "Ficus elastica",
+      "Ficus benjamina",
+      "Ficus tropicalis"
+    ],
+    "correctAnswer": "Ficus elastica",
+    "explanation": "Le nom scientifique du caoutchouc est Ficus elastica."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du caoutchouc ?",
+    "choices": [
+      "Arrosage quotidien",
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Bain d’eau une fois par semaine"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "Le caoutchouc a besoin de peu d’eau et préfère que la terre sèche entre les arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au caoutchouc ?",
+    "choices": [
+      "Plein soleil",
+      "Lumineux à ombre",
+      "Ombre totale uniquement"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le caoutchouc apprécie une lumière indirecte, entre lumineux et ombre."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Dans quelle région le caoutchouc est-il originaire ?",
+    "choices": [
+      "Afrique du Nord",
+      "Asie tropicale",
+      "Amérique centrale"
+    ],
+    "correctAnswer": "Asie tropicale",
+    "explanation": "Le caoutchouc est originaire des régions tropicales d’Asie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison le caoutchouc est-il décoratif ?",
+    "choices": [
+      "Printemps uniquement",
+      "Automne et hiver",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le caoutchouc est décoratif toute l’année grâce à son feuillage persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du caoutchouc ?",
+    "choices": [
+      "Feuillage fin et délicat",
+      "Plante brillante au feuillage plastique",
+      "Plante rampante à feuilles argentées"
+    ],
+    "correctAnswer": "Plante brillante au feuillage plastique",
+    "explanation": "Le caoutchouc a un aspect tropical et brillant, avec des feuilles épaisses et lustrées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Comment sont les feuilles du caoutchouc ?",
+    "choices": [
+      "Petites et arrondies",
+      "Alternées, vertes ou panachées, lustrées",
+      "En rosette compacte"
+    ],
+    "correctAnswer": "Alternées, vertes ou panachées, lustrées",
+    "explanation": "Le caoutchouc a des feuilles alternées, vertes ou panachées, épaisses et brillantes."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le caoutchouc est-il une plante dépolluante ?",
+    "choices": [
+      "Non",
+      "Oui",
+      "Seulement en extérieur"
+    ],
+    "correctAnswer": "Oui",
+    "explanation": "Le caoutchouc est reconnu pour ses propriétés dépolluantes en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle hauteur peut atteindre un caoutchouc dans son milieu naturel ?",
+    "choices": [
+      "5 mètres",
+      "15 mètres",
+      "30 à 40 mètres"
+    ],
+    "correctAnswer": "30 à 40 mètres",
+    "explanation": "Dans la nature, le caoutchouc peut atteindre une hauteur de 30 à 40 mètres."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies peuvent affecter le caoutchouc ?",
+    "choices": [
+      "Chlorose et rouille",
+      "Champignons, thrips, cochenilles",
+      "Oïdium et moisissure noire"
+    ],
+    "correctAnswer": "Champignons, thrips, cochenilles",
+    "explanation": "Le caoutchouc peut être sensible aux champignons, thrips et cochenilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du ficus bonsaï ?",
+    "choices": [
+      "Ficus microcarpa",
+      "Ficus benjamina",
+      "Ficus elastica"
+    ],
+    "correctAnswer": "Ficus microcarpa",
+    "explanation": "Le ficus bonsaï est également appelé Ficus microcarpa."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du ficus bonsaï ?",
+    "choices": [
+      "Arrosage quotidien",
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Bain une fois par semaine"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "Comme les autres ficus, le ficus bonsaï demande peu d’eau et préfère un substrat sec entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température est idéale pour le ficus bonsaï ?",
+    "choices": [
+      "10°C",
+      "15°C",
+      "20°C"
+    ],
+    "correctAnswer": "20°C",
+    "explanation": "La température idéale pour conserver un ficus bonsaï est d’environ 20°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient le mieux au ficus bonsaï ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre totale",
+      "Lumineux à ombre"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le ficus bonsaï préfère une exposition lumineuse sans soleil direct ou légèrement ombragée."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le ficus bonsaï ?",
+    "choices": [
+      "Amérique centrale",
+      "Afrique du Sud",
+      "Asie tropicale et subtropicale"
+    ],
+    "correctAnswer": "Asie tropicale et subtropicale",
+    "explanation": "Le ficus microcarpa est originaire d’Asie tropicale et subtropicale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de décorativité du ficus bonsaï ?",
+    "choices": [
+      "Printemps uniquement",
+      "Hiver uniquement",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le ficus bonsaï reste décoratif toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du ficus bonsaï ?",
+    "choices": [
+      "Feuillage fin et tombant",
+      "Feuilles épaisses, brillantes, sur un tronc sculpté",
+      "Liane retombante panachée"
+    ],
+    "correctAnswer": "Feuilles épaisses, brillantes, sur un tronc sculpté",
+    "explanation": "Le ficus bonsaï a un aspect ornemental avec un tronc travaillé et un feuillage lustré."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles sont les propriétés spécifiques du ficus bonsaï ?",
+    "choices": [
+      "Médicinale, dépolluante et ornementale",
+      "Aromatique uniquement",
+      "Plante toxique et grimpante"
+    ],
+    "correctAnswer": "Médicinale, dépolluante et ornementale",
+    "explanation": "Le ficus bonsaï est reconnu pour ses qualités décoratives, dépolluantes et médicinales."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille typique d’un ficus bonsaï ?",
+    "choices": [
+      "20 cm à 60 cm",
+      "1 mètre à 2 mètres",
+      "5 à 10 cm"
+    ],
+    "correctAnswer": "20 cm à 60 cm",
+    "explanation": "Le ficus bonsaï mesure généralement entre 20 et 60 cm."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies peuvent toucher le ficus bonsaï ?",
+    "choices": [
+      "Mildiou, rouille, pucerons",
+      "Champignons, thrips, cochenilles",
+      "Chlorose et nécrose"
+    ],
+    "correctAnswer": "Champignons, thrips, cochenilles",
+    "explanation": "Le ficus microcarpa peut être atteint de champignons, de thrips et de cochenilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du ficus lyrata ?",
+    "choices": [
+      "Ficus benjamina",
+      "Ficus elastica",
+      "Ficus lyrata"
+    ],
+    "correctAnswer": "Ficus lyrata",
+    "explanation": "Le nom scientifique du ficus à grandes feuilles est Ficus lyrata."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du ficus lyrata ?",
+    "choices": [
+      "Arrosage abondant tous les deux jours",
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Immersion hebdomadaire complète"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "Le ficus lyrata a besoin de peu d’eau, et il faut laisser sécher le sol entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est recommandée pour le ficus lyrata ?",
+    "choices": [
+      "Ombre totale",
+      "Lumineux à ombre",
+      "Plein soleil"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le ficus lyrata préfère une lumière indirecte ou un emplacement légèrement ombragé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température est recommandée pour stocker un ficus lyrata ?",
+    "choices": [
+      "En dessous de 10°C",
+      "Environ 5°C",
+      "Température ambiante"
+    ],
+    "correctAnswer": "Température ambiante",
+    "explanation": "Le ficus lyrata craint le froid et doit être conservé à température ambiante."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le ficus lyrata ?",
+    "choices": [
+      "Asie tropicale",
+      "Amérique du Sud",
+      "Afrique de l’Ouest"
+    ],
+    "correctAnswer": "Asie tropicale",
+    "explanation": "Le ficus lyrata est originaire d’Asie tropicale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison d’intérêt décoratif du ficus lyrata ?",
+    "choices": [
+      "Été uniquement",
+      "Hiver uniquement",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le ficus lyrata est une plante décorative toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la forme caractéristique des feuilles du ficus lyrata ?",
+    "choices": [
+      "En aiguille",
+      "En cœur",
+      "En forme de triangle avec des nervures en lyre"
+    ],
+    "correctAnswer": "En forme de triangle avec des nervures en lyre",
+    "explanation": "Les feuilles du ficus lyrata ont une forme triangulaire avec des nervures qui rappellent une lyre."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le ficus lyrata est-il une plante dépolluante ?",
+    "choices": [
+      "Oui",
+      "Non",
+      "Seulement en extérieur"
+    ],
+    "correctAnswer": "Oui",
+    "explanation": "Le ficus lyrata est une plante dépolluante très appréciée en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille typique du ficus lyrata en intérieur ?",
+    "choices": [
+      "Très grande (plus de 3 m)",
+      "Petite taille",
+      "1,5 à 2 mètres"
+    ],
+    "correctAnswer": "Petite taille",
+    "explanation": "Le ficus lyrata est une plante de petite taille, idéale pour les espaces réduits."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou parasites le ficus lyrata est-il sensible ?",
+    "choices": [
+      "Oïdium et rouille",
+      "Araignées rouges, cochenilles et excès d’eau",
+      "Mildiou et champignons racinaires"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et excès d’eau",
+    "explanation": "Le ficus lyrata peut être affecté par les araignées rouges, les cochenilles et l’excès d’eau."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du ficus rampant ?",
+    "choices": [
+      "Ficus elastica",
+      "Ficus benjamina",
+      "Ficus pumila"
+    ],
+    "correctAnswer": "Ficus pumila",
+    "explanation": "Le nom scientifique du ficus rampant est Ficus pumila."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du ficus rampant ?",
+    "choices": [
+      "Arrosage abondant",
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Immersion complète hebdomadaire"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "Le ficus rampant a besoin de peu d’eau et préfère que le sol sèche entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la plage de température supportée par le ficus rampant ?",
+    "choices": [
+      "0°C à 30°C",
+      "10°C à 20°C",
+      "20°C à 35°C"
+    ],
+    "correctAnswer": "0°C à 30°C",
+    "explanation": "Le ficus pumila supporte une large plage de températures allant de 0 à 30°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au ficus rampant ?",
+    "choices": [
+      "Plein soleil",
+      "Lumineux à ombre",
+      "Ombre totale uniquement"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "Le ficus rampant préfère une lumière indirecte ou un environnement légèrement ombragé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le ficus rampant ?",
+    "choices": [
+      "Afrique de l’Ouest",
+      "Amérique du Sud",
+      "Asie orientale"
+    ],
+    "correctAnswer": "Asie orientale",
+    "explanation": "Le ficus pumila est originaire d’Asie orientale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison d’intérêt décoratif du ficus rampant ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le ficus rampant est décoratif toute l’année grâce à son feuillage persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect caractéristique du ficus rampant ?",
+    "choices": [
+      "Plante érigée à grandes feuilles",
+      "Couvre-sol, fin et délicat",
+      "Plante grimpante à grandes fleurs"
+    ],
+    "correctAnswer": "Couvre-sol, fin et délicat",
+    "explanation": "Le ficus pumila est une plante couvre-sol à l’aspect fin et délicat."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le ficus rampant ?",
+    "choices": [
+      "Feuillage caduc, vert foncé",
+      "Feuilles larges en rosette",
+      "Feuillage rampant, persistant, ovales vertes et panachées"
+    ],
+    "correctAnswer": "Feuillage rampant, persistant, ovales vertes et panachées",
+    "explanation": "Le feuillage du ficus rampant est persistant, de forme ovale et peut être panaché."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles sont les spécificités du ficus rampant ?",
+    "choices": [
+      "Plante dépolluante, ornementale et médicinale",
+      "Plante comestible et grimpante",
+      "Plante carnivore et odorante"
+    ],
+    "correctAnswer": "Plante dépolluante, ornementale et médicinale",
+    "explanation": "Le ficus rampant a plusieurs propriétés : il est décoratif, purifie l’air et a des usages médicinaux."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quels sont les principaux problèmes pouvant affecter le ficus rampant ?",
+    "choices": [
+      "Gel et manque de lumière",
+      "Mildiou et chlorose",
+      "Araignées rouges, cochenilles et excès d'eau"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et excès d'eau",
+    "explanation": "Le ficus rampant peut être attaqué par des cochenilles, des araignées rouges et souffrir d’un excès d’eau."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l’anthurium ?",
+    "choices": [
+      "Anthurium andreanum",
+      "Ficus lyrata",
+      "Dracaena fragrans"
+    ],
+    "correctAnswer": "Anthurium andreanum",
+    "explanation": "L’anthurium appartient à l’espèce Anthurium andreanum."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de l’anthurium ?",
+    "choices": [
+      "Très peu d’eau, laisser sécher entre deux arrosages",
+      "Arrosage abondant tous les jours",
+      "Bain d’eau toutes les semaines"
+    ],
+    "correctAnswer": "Très peu d’eau, laisser sécher entre deux arrosages",
+    "explanation": "L’anthurium demande un arrosage modéré, en laissant sécher légèrement la terre entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température idéale pour conserver un anthurium ?",
+    "choices": [
+      "10°C à 15°C",
+      "18°C à 25°C",
+      "25°C à 35°C"
+    ],
+    "correctAnswer": "18°C à 25°C",
+    "explanation": "L’anthurium se conserve bien à des températures comprises entre 18°C et 25°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour l’anthurium ?",
+    "choices": [
+      "Plein soleil",
+      "Lumineux sans soleil direct",
+      "Ombre complète"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "L’anthurium préfère une lumière vive, mais sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire l’anthurium ?",
+    "choices": [
+      "Afrique tropicale",
+      "Asie du Sud-Est",
+      "Régions tropicales d’Amérique du Nord"
+    ],
+    "correctAnswer": "Régions tropicales d’Amérique du Nord",
+    "explanation": "L’anthurium vient des régions tropicales d’Amérique du Nord."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle période l’anthurium est-il le plus décoratif ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons, surtout en hiver",
+      "Été uniquement"
+    ],
+    "correctAnswer": "Toutes saisons, surtout en hiver",
+    "explanation": "L’anthurium est décoratif toute l’année, mais il fleurit particulièrement bien en hiver."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de la fleur d’anthurium ?",
+    "choices": [
+      "Fleur délicate à pétales transparents",
+      "Fleur à l’aspect plastique et très colorée",
+      "Fleur tombante en cloche"
+    ],
+    "correctAnswer": "Fleur à l’aspect plastique et très colorée",
+    "explanation": "La fleur d’anthurium a un aspect brillant et plastique, avec une grande variété de couleurs."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage de l’anthurium ?",
+    "choices": [
+      "Feuilles fines et caduques",
+      "Feuilles en forme de cœur, persistantes et brillantes",
+      "Feuilles épaisses en rosette"
+    ],
+    "correctAnswer": "Feuilles en forme de cœur, persistantes et brillantes",
+    "explanation": "L’anthurium a des feuilles persistantes, brillantes et en forme de cœur allongé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle partie de l’anthurium est toxique ?",
+    "choices": [
+      "Le feuillage",
+      "Le spadice",
+      "Les racines"
+    ],
+    "correctAnswer": "Le spadice",
+    "explanation": "Le spadice (la partie centrale en forme d’épi) de l’anthurium est toxique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou parasites l’anthurium est-il sensible ?",
+    "choices": [
+      "Thrips et oïdium",
+      "Araignées rouges et pucerons",
+      "Taches foliaires et nématodes"
+    ],
+    "correctAnswer": "Araignées rouges et pucerons",
+    "explanation": "L’anthurium peut être touché par les araignées rouges et les pucerons."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de la dieffenbachia ?",
+    "choices": [
+      "Dieffenbachia picta / Dieffenbachia seguine",
+      "Dieffenbachia tropicalis",
+      "Anthurium andreanum"
+    ],
+    "correctAnswer": "Dieffenbachia picta / Dieffenbachia seguine",
+    "explanation": "La dieffenbachia regroupe notamment les espèces picta et seguine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de la dieffenbachia ?",
+    "choices": [
+      "Arrosage quotidien abondant",
+      "Arrosage modéré",
+      "Très peu d’eau"
+    ],
+    "correctAnswer": "Arrosage modéré",
+    "explanation": "La dieffenbachia demande un arrosage modéré, sans excès."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale recommandée pour conserver la dieffenbachia ?",
+    "choices": [
+      "10°C",
+      "12°C",
+      "15°C"
+    ],
+    "correctAnswer": "15°C",
+    "explanation": "La dieffenbachia doit être conservée à une température minimale de 15°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour la dieffenbachia ?",
+    "choices": [
+      "Plein soleil direct",
+      "Lumineux à ombre",
+      "Ombre totale uniquement"
+    ],
+    "correctAnswer": "Lumineux à ombre",
+    "explanation": "La dieffenbachia préfère une lumière tamisée ou une légère ombre."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D'où est originaire la dieffenbachia ?",
+    "choices": [
+      "Afrique de l’Ouest",
+      "Brésil et Amérique tropicale",
+      "Asie du Sud-Est"
+    ],
+    "correctAnswer": "Brésil et Amérique tropicale",
+    "explanation": "La dieffenbachia est une plante originaire du Brésil et d’Amérique tropicale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle saison la dieffenbachia est-elle décorative ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Automne"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "La dieffenbachia est décorative toute l’année grâce à son feuillage panaché persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de la dieffenbachia ?",
+    "choices": [
+      "Feuillage rouge brillant",
+      "Feuilles tachetées",
+      "Feuilles en forme de lyre"
+    ],
+    "correctAnswer": "Feuilles tachetées",
+    "explanation": "La dieffenbachia est reconnaissable à ses grandes feuilles tachetées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède la dieffenbachia ?",
+    "choices": [
+      "Caduc et vert uni",
+      "Persistant, camaïeux de vert, jaune, blanc et panaché",
+      "Fin et retombant"
+    ],
+    "correctAnswer": "Persistant, camaïeux de vert, jaune, blanc et panaché",
+    "explanation": "Son feuillage est persistant et très ornemental, avec des panachures de plusieurs couleurs."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "La dieffenbachia est-elle toxique ?",
+    "choices": [
+      "Non, elle est comestible",
+      "Oui, par absorption",
+      "Seulement en cas d’ingestion par les animaux"
+    ],
+    "correctAnswer": "Oui, par absorption",
+    "explanation": "La dieffenbachia est une plante toxique, même par simple absorption."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre une dieffenbachia ?",
+    "choices": [
+      "40 cm uniquement",
+      "1,50 m de hauteur et 80 cm de diamètre",
+      "3 mètres de haut"
+    ],
+    "correctAnswer": "1,50 m de hauteur et 80 cm de diamètre",
+    "explanation": "La dieffenbachia peut atteindre jusqu’à 1,50 m de hauteur et 80 cm de large."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou parasites la dieffenbachia est-elle sensible ?",
+    "choices": [
+      "Oïdium et mildiou",
+      "Araignées rouges, cochenilles et excès d’eau",
+      "Taches foliaires et virus"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et excès d’eau",
+    "explanation": "La dieffenbachia peut être attaquée par des araignées rouges, des cochenilles et souffrir d’un excès d’eau."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du monstera ?",
+    "choices": [
+      "Monstera deliciosa",
+      "Monstera gigantea",
+      "Dieffenbachia seguine"
+    ],
+    "correctAnswer": "Monstera deliciosa",
+    "explanation": "Le nom scientifique complet du monstera est Monstera deliciosa."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le rythme d’arrosage conseillé pour un monstera ?",
+    "choices": [
+      "Tous les jours",
+      "Une fois tous les 15 jours",
+      "Trois fois par semaine"
+    ],
+    "correctAnswer": "Une fois tous les 15 jours",
+    "explanation": "Le monstera a besoin d’un arrosage modéré, environ tous les 15 jours."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale recommandée pour un monstera ?",
+    "choices": [
+      "5°C",
+      "10°C",
+      "13°C à 15°C"
+    ],
+    "correctAnswer": "13°C à 15°C",
+    "explanation": "Le monstera doit être conservé à une température minimale de 13 à 15°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient le mieux au monstera ?",
+    "choices": [
+      "Soleil direct",
+      "Ombre complète",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le monstera préfère la lumière vive mais sans exposition directe au soleil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le monstera ?",
+    "choices": [
+      "Afrique équatoriale",
+      "Extrême sud du Mexique et Guatemala",
+      "Asie du Sud-Est"
+    ],
+    "correctAnswer": "Extrême sud du Mexique et Guatemala",
+    "explanation": "Le monstera provient des forêts tropicales du Mexique et du Guatemala."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période d’intérêt décoratif du monstera ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver seulement"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le monstera est une plante décorative toute l’année grâce à son feuillage imposant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du monstera ?",
+    "choices": [
+      "Plante buissonnante à feuilles fines",
+      "Plante tombante à feuillage argenté",
+      "Plante exotique à grandes feuilles brillantes, croissance de liane"
+    ],
+    "correctAnswer": "Plante exotique à grandes feuilles brillantes, croissance de liane",
+    "explanation": "Le monstera pousse comme une liane et possède de grandes feuilles brillantes et découpées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le monstera ?",
+    "choices": [
+      "Feuilles épaisses et en rosette",
+      "Grosses feuilles vertes lustrées et découpées",
+      "Petites feuilles fines et dentelées"
+    ],
+    "correctAnswer": "Grosses feuilles vertes lustrées et découpées",
+    "explanation": "Le monstera est connu pour ses grandes feuilles découpées et brillantes."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la particularité florale du monstera ?",
+    "choices": [
+      "Fleur en étoile très parfumée",
+      "Fleur rare en forme de spathe",
+      "Fleur jaune vive en grappes"
+    ],
+    "correctAnswer": "Fleur rare en forme de spathe",
+    "explanation": "La fleur du monstera est peu fréquente et prend la forme d’une spathe."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Jusqu’à quelle hauteur peut monter un monstera en intérieur ?",
+    "choices": [
+      "2 mètres",
+      "4 mètres",
+      "6 mètres"
+    ],
+    "correctAnswer": "6 mètres",
+    "explanation": "Le monstera peut grimper jusqu’à 6 mètres en intérieur s’il est bien entretenu."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies ou parasites peuvent toucher le monstera ?",
+    "choices": [
+      "Mildiou et taches foliaires",
+      "Araignées rouges et cochenilles",
+      "Rouille et pucerons noirs"
+    ],
+    "correctAnswer": "Araignées rouges et cochenilles",
+    "explanation": "Le monstera peut être attaqué par des araignées rouges et des cochenilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du spathiphyllum ?",
+    "choices": [
+      "Spathiphyllum hybrides",
+      "Monstera deliciosa",
+      "Dieffenbachia picta"
+    ],
+    "correctAnswer": "Spathiphyllum hybrides",
+    "explanation": "Le nom scientifique du spathiphyllum est Spathiphyllum hybrides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du spathiphyllum en hiver ?",
+    "choices": [
+      "Un arrosage tous les 2 jours",
+      "Un arrosage tous les 15 jours",
+      "Aucun arrosage nécessaire"
+    ],
+    "correctAnswer": "Un arrosage tous les 15 jours",
+    "explanation": "En hiver, le spathiphyllum doit être arrosé tous les 15 jours."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température est adaptée au stockage du spathiphyllum ?",
+    "choices": [
+      "5°C à 15°C",
+      "11°C à 25°C",
+      "18°C à 35°C"
+    ],
+    "correctAnswer": "11°C à 25°C",
+    "explanation": "Le spathiphyllum doit être conservé entre 11°C et 25°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le spathiphyllum ?",
+    "choices": [
+      "Ombre totale",
+      "Lumineux sans soleil direct",
+      "Plein soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le spathiphyllum préfère une lumière vive sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D'où provient le spathiphyllum ?",
+    "choices": [
+      "Asie tropicale",
+      "Afrique équatoriale",
+      "Amérique du Sud"
+    ],
+    "correctAnswer": "Amérique du Sud",
+    "explanation": "Le spathiphyllum est originaire d’Amérique du Sud."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de croissance active du spathiphyllum ?",
+    "choices": [
+      "Hiver uniquement",
+      "Du printemps à l'automne",
+      "Été uniquement"
+    ],
+    "correctAnswer": "Du printemps à l'automne",
+    "explanation": "Pendant la période de croissance active (printemps à automne), il est conseillé d'ajouter de l'engrais tous les 15 jours."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du spathiphyllum ?",
+    "choices": [
+      "Plante grimpante à feuillage panaché",
+      "Plante fournie, décorative et élégante",
+      "Plante suspendue à petites fleurs"
+    ],
+    "correctAnswer": "Plante fournie, décorative et élégante",
+    "explanation": "Le spathiphyllum a un port dense et élégant, très décoratif en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du spathiphyllum ?",
+    "choices": [
+      "Caduc et dentelé",
+      "Persistant, vert foncé et lustré",
+      "Fin et retombant"
+    ],
+    "correctAnswer": "Persistant, vert foncé et lustré",
+    "explanation": "Le spathiphyllum possède un feuillage persistant, foncé et brillant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle particularité rend le spathiphyllum allergène ?",
+    "choices": [
+      "Son pollen provoque des éternuements",
+      "Il contient une substance qui provoque des dermites",
+      "Son feuillage émet une odeur forte"
+    ],
+    "correctAnswer": "Il contient une substance qui provoque des dermites",
+    "explanation": "Le spathiphyllum contient une substance allergène pouvant causer des dermites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la fonction écologique du spathiphyllum ?",
+    "choices": [
+      "Plante carnivore",
+      "Plante médicinale",
+      "Plante très dépolluante"
+    ],
+    "correctAnswer": "Plante très dépolluante",
+    "explanation": "Le spathiphyllum est une plante dépolluante très efficace en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles maladies ou parasites peuvent toucher le spathiphyllum ?",
+    "choices": [
+      "Mildiou et rouille",
+      "Araignées rouges, cochenilles et air trop sec",
+      "Taches bactériennes et pourriture noire"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et air trop sec",
+    "explanation": "Le spathiphyllum est sensible aux araignées rouges, aux cochenilles et à un air trop sec."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du lierre ?",
+    "choices": [
+      "Hedera helix",
+      "Ficus lyrata",
+      "Spathiphyllum hybrides"
+    ],
+    "correctAnswer": "Hedera helix",
+    "explanation": "Le nom scientifique du lierre est Hedera helix."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du lierre ?",
+    "choices": [
+      "Arrosage quotidien",
+      "Arrosage modéré",
+      "Très peu d’eau, uniquement en hiver"
+    ],
+    "correctAnswer": "Arrosage modéré",
+    "explanation": "Le lierre a un besoin modéré en eau, sans excès."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Où stocker idéalement le lierre ?",
+    "choices": [
+      "En plein soleil",
+      "Au frais, en chambre climatique",
+      "À température ambiante uniquement"
+    ],
+    "correctAnswer": "Au frais, en chambre climatique",
+    "explanation": "Le lierre se conserve bien dans un environnement frais, comme une chambre climatique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au lierre ?",
+    "choices": [
+      "Plein soleil uniquement",
+      "Mi-ombre et ombre",
+      "Soleil, mi-ombre et ombre"
+    ],
+    "correctAnswer": "Soleil, mi-ombre et ombre",
+    "explanation": "Le lierre est très tolérant à la lumière et s’adapte à plusieurs expositions."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le lierre ?",
+    "choices": [
+      "Amérique du Sud",
+      "Europe",
+      "Asie centrale"
+    ],
+    "correctAnswer": "Europe",
+    "explanation": "Le lierre est originaire d’Europe."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période idéale pour planter le lierre ?",
+    "choices": [
+      "Printemps ou automne",
+      "Été uniquement",
+      "Hiver"
+    ],
+    "correctAnswer": "Printemps ou automne",
+    "explanation": "La plantation du lierre se fait de préférence au printemps ou à l’automne."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du lierre ?",
+    "choices": [
+      "Petite plante buissonnante à fleurs jaunes",
+      "Liane grimpante ou couvre-sol, idéale pour topiaire",
+      "Plante suspendue à feuilles charnues"
+    ],
+    "correctAnswer": "Liane grimpante ou couvre-sol, idéale pour topiaire",
+    "explanation": "Le lierre est une liane qui grimpe ou couvre les surfaces, souvent utilisée en topiaire."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le lierre ?",
+    "choices": [
+      "Feuillage caduc et coloré",
+      "Feuillage persistant vert ou panaché à pousse rapide",
+      "Feuilles grasses et brillantes"
+    ],
+    "correctAnswer": "Feuillage persistant vert ou panaché à pousse rapide",
+    "explanation": "Le lierre a un feuillage persistant, vert ou panaché, qui pousse rapidement."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le lierre produit-il des éléments toxiques ?",
+    "choices": [
+      "Oui, ses feuilles sont toxiques",
+      "Oui, ses baies sont toxiques",
+      "Non, il est comestible"
+    ],
+    "correctAnswer": "Oui, ses baies sont toxiques",
+    "explanation": "Les baies du lierre sont toxiques, il faut éviter leur ingestion."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Jusqu’à quelle taille un lierre peut-il grimper ?",
+    "choices": [
+      "5 mètres",
+      "10 mètres",
+      "20 mètres"
+    ],
+    "correctAnswer": "20 mètres",
+    "explanation": "Le lierre peut atteindre une hauteur impressionnante allant jusqu’à 20 mètres."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Le lierre est-il sensible aux maladies et parasites ?",
+    "choices": [
+      "Oui, il est fragile",
+      "Non, il est résistant",
+      "Oui, uniquement en été"
+    ],
+    "correctAnswer": "Non, il est résistant",
+    "explanation": "Le lierre est naturellement résistant aux maladies et aux parasites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l’asparagus ?",
+    "choices": [
+      "Asparagus densiflorus",
+      "Asparagus officinalis",
+      "Asparagus africana"
+    ],
+    "correctAnswer": "Asparagus densiflorus",
+    "explanation": "Le nom scientifique de l’asparagus utilisé en décoration est Asparagus densiflorus."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de l’asparagus ?",
+    "choices": [
+      "Abondant, tous les jours",
+      "Modéré",
+      "Très faible, uniquement en été"
+    ],
+    "correctAnswer": "Modéré",
+    "explanation": "L’asparagus a un besoin en eau modéré."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Jusqu’à quelle température l’asparagus peut-il supporter le froid ?",
+    "choices": [
+      "0°C",
+      "-3°C",
+      "-7°C"
+    ],
+    "correctAnswer": "-7°C",
+    "explanation": "L’asparagus est robuste et peut supporter des températures allant jusqu’à -7°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de stockage idéal pour l’asparagus ?",
+    "choices": [
+      "En plein soleil",
+      "À température ambiante élevée",
+      "Au frais en chambre climatique"
+    ],
+    "correctAnswer": "Au frais en chambre climatique",
+    "explanation": "Il est recommandé de stocker l’asparagus au frais, dans une chambre climatique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient le mieux à l’asparagus ?",
+    "choices": [
+      "Soleil direct",
+      "Lumière vive sans soleil",
+      "Ombre"
+    ],
+    "correctAnswer": "Ombre",
+    "explanation": "L’asparagus apprécie les endroits ombragés."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "D'où est originaire l’asparagus ?",
+    "choices": [
+      "Asie du Sud-Est",
+      "Afrique du Sud",
+      "Amérique centrale"
+    ],
+    "correctAnswer": "Afrique du Sud",
+    "explanation": "L’asparagus densiflorus est originaire d’Afrique du Sud."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison d’intérêt décoratif de l’asparagus ?",
+    "choices": [
+      "Été uniquement",
+      "Printemps et automne",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "L’asparagus est décoratif tout au long de l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général de l’asparagus ?",
+    "choices": [
+      "Plante rigide et verticale à fleurs colorées",
+      "Plante herbacée verte, souple et retombante",
+      "Plante grimpante à tiges ligneuses"
+    ],
+    "correctAnswer": "Plante herbacée verte, souple et retombante",
+    "explanation": "L’asparagus a un feuillage dense, souple, vert vif et retombant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède l’asparagus ?",
+    "choices": [
+      "Caduc",
+      "Persistant",
+      "Épineux"
+    ],
+    "correctAnswer": "Persistant",
+    "explanation": "Le feuillage de l’asparagus est persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une des spécificités de l’asparagus ?",
+    "choices": [
+      "Il produit de grandes fleurs jaunes",
+      "Il développe des baies rouges en suspension",
+      "Il monte jusqu’à 6 m"
+    ],
+    "correctAnswer": "Il développe des baies rouges en suspension",
+    "explanation": "L’asparagus produit de petites baies rouges, décoratives lorsqu’il est suspendu."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelles maladies ou parasites l’asparagus est-il sensible ?",
+    "choices": [
+      "Pucerons et oïdium",
+      "Araignées rouges et cochenilles",
+      "Taches noires et champignons"
+    ],
+    "correctAnswer": "Araignées rouges et cochenilles",
+    "explanation": "L’asparagus peut être attaqué par les araignées rouges et les cochenilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l’aspidistra ?",
+    "choices": [
+      "Aspidistra elatior",
+      "Asparagus densiflorus",
+      "Spathiphyllum hybrides"
+    ],
+    "correctAnswer": "Aspidistra elatior",
+    "explanation": "Le nom scientifique de l’aspidistra est Aspidistra elatior."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Jusqu’à quelle température l’aspidistra peut-elle résister ?",
+    "choices": [
+      "0°C",
+      "-7°C",
+      "-15°C"
+    ],
+    "correctAnswer": "-15°C",
+    "explanation": "L’aspidistra est très résistante et supporte des températures allant jusqu’à -15°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de l’aspidistra ?",
+    "choices": [
+      "Important",
+      "Modéré",
+      "Très faible"
+    ],
+    "correctAnswer": "Modéré",
+    "explanation": "L’aspidistra a un besoin en eau modéré, sans excès."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de stockage est recommandé pour l’aspidistra ?",
+    "choices": [
+      "Plein soleil",
+      "À la chaleur en intérieur",
+      "Au frais et à l’ombre"
+    ],
+    "correctAnswer": "Au frais et à l’ombre",
+    "explanation": "L’aspidistra doit être stockée dans un endroit frais et ombragé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour l’aspidistra ?",
+    "choices": [
+      "Soleil direct",
+      "Mi-ombre",
+      "Ombre"
+    ],
+    "correctAnswer": "Ombre",
+    "explanation": "L’aspidistra aime les endroits ombragés et peu lumineux."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire l’aspidistra ?",
+    "choices": [
+      "Amérique du Sud",
+      "Asie orientale",
+      "Afrique tropicale"
+    ],
+    "correctAnswer": "Asie orientale",
+    "explanation": "L’aspidistra est originaire d’Asie orientale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période d’intérêt décoratif de l’aspidistra ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver uniquement"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "L’aspidistra est décorative tout au long de l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de l’aspidistra ?",
+    "choices": [
+      "Feuillage panaché retombant",
+      "Feuilles longues, souples et décoratives",
+      "Plante grimpante à petites feuilles"
+    ],
+    "correctAnswer": "Feuilles longues, souples et décoratives",
+    "explanation": "L’aspidistra est une plante ornementale à longues feuilles souples et brillantes."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage de l’aspidistra ?",
+    "choices": [
+      "Caduc vert clair",
+      "Persistant vert foncé vernissé",
+      "Fin et retombant"
+    ],
+    "correctAnswer": "Persistant vert foncé vernissé",
+    "explanation": "Le feuillage de l’aspidistra est persistant, foncé et brillant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la particularité d'entretien de l’aspidistra ?",
+    "choices": [
+      "Très exigeante en lumière",
+      "Difficile à arroser",
+      "Facile à entretenir et tolérante aux endroits peu lumineux"
+    ],
+    "correctAnswer": "Facile à entretenir et tolérante aux endroits peu lumineux",
+    "explanation": "L’aspidistra est une plante facile à vivre, idéale pour les lieux ombragés comme les halls d’entrée."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "L’aspidistra est-elle sensible aux maladies et parasites ?",
+    "choices": [
+      "Oui, très sensible",
+      "Oui, uniquement à l’humidité",
+      "Non, elle est résistante"
+    ],
+    "correctAnswer": "Non, elle est résistante",
+    "explanation": "L’aspidistra est résistante aux maladies et aux parasites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de la cordyline ?",
+    "choices": [
+      "Cordyline fruticosa",
+      "Cordyline australis",
+      "Cordyline tropicalis"
+    ],
+    "correctAnswer": "Cordyline fruticosa",
+    "explanation": "Le nom scientifique de cette plante est Cordyline fruticosa."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de la cordyline ?",
+    "choices": [
+      "Arrosage abondant tous les jours",
+      "Arrosage régulier et modéré",
+      "Très peu d’eau, uniquement en hiver"
+    ],
+    "correctAnswer": "Arrosage régulier et modéré",
+    "explanation": "La cordyline nécessite un arrosage modéré et régulier."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle température doit-on conserver la cordyline ?",
+    "choices": [
+      "Température ambiante",
+      "Entre 5°C et 10°C",
+      "À moins de 15°C"
+    ],
+    "correctAnswer": "Température ambiante",
+    "explanation": "La cordyline se conserve bien à température ambiante."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient à la cordyline ?",
+    "choices": [
+      "Soleil, mi-ombre et ombre",
+      "Ombre uniquement",
+      "Plein soleil uniquement"
+    ],
+    "correctAnswer": "Soleil, mi-ombre et ombre",
+    "explanation": "La cordyline est très adaptable à différentes expositions : soleil, mi-ombre ou ombre."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire la cordyline ?",
+    "choices": [
+      "Amérique du Sud",
+      "Asie et Océanie subtropicale",
+      "Afrique de l’Ouest"
+    ],
+    "correctAnswer": "Asie et Océanie subtropicale",
+    "explanation": "La cordyline est originaire des régions subtropicales d’Asie et d’Océanie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison d’intérêt décoratif de la cordyline ?",
+    "choices": [
+      "Été uniquement",
+      "Printemps et automne",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "La cordyline est ornementale tout au long de l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général de la cordyline ?",
+    "choices": [
+      "Retombante et fine",
+      "Touffue et érigée",
+      "Rampante et panachée"
+    ],
+    "correctAnswer": "Touffue et érigée",
+    "explanation": "La cordyline est une plante touffue, au port érigé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la caractéristique de son feuillage ?",
+    "choices": [
+      "Vert clair uniquement",
+      "Feuilles roses à rouges, panachées ou jaunes",
+      "Petites feuilles épaisses et rondes"
+    ],
+    "correctAnswer": "Feuilles roses à rouges, panachées ou jaunes",
+    "explanation": "La cordyline se distingue par ses feuilles très colorées, allant du rose au rouge avec des variations panachées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel élément de la cordyline peut être consommé ?",
+    "choices": [
+      "Les feuilles",
+      "Les racines secondaires",
+      "Le rhizome"
+    ],
+    "correctAnswer": "Le rhizome",
+    "explanation": "Le rhizome de la cordyline est consommable dans certaines cultures."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale que peut atteindre une cordyline ?",
+    "choices": [
+      "1 mètre",
+      "3 mètres",
+      "5 mètres"
+    ],
+    "correctAnswer": "5 mètres",
+    "explanation": "La cordyline peut atteindre jusqu’à 5 mètres de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "La cordyline est-elle sensible aux maladies et parasites ?",
+    "choices": [
+      "Oui, très sensible",
+      "Non, elle est résistante",
+      "Seulement à certaines périodes de l’année"
+    ],
+    "correctAnswer": "Non, elle est résistante",
+    "explanation": "La cordyline est naturellement résistante aux maladies et aux parasites."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du bégonia d’intérieur ?",
+    "choices": [
+      "Begonia elatior",
+      "Begonia rex",
+      "Begonia maculata"
+    ],
+    "correctAnswer": "Begonia elatior",
+    "explanation": "Le bégonia d’intérieur appartient à l’espèce Begonia elatior."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du bégonia d’intérieur ?",
+    "choices": [
+      "Arrosage tous les jours",
+      "Arrosage tous les 15 jours",
+      "Arrosage environ 2 fois par semaine"
+    ],
+    "correctAnswer": "Arrosage environ 2 fois par semaine",
+    "explanation": "Le bégonia d’intérieur demande un arrosage modéré, environ deux fois par semaine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température idéale de stockage pour le bégonia d’intérieur ?",
+    "choices": [
+      "0°C à 10°C",
+      "10°C à 20°C",
+      "20°C à 30°C"
+    ],
+    "correctAnswer": "10°C à 20°C",
+    "explanation": "Le bégonia d’intérieur se conserve idéalement entre 10°C et 20°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est adaptée au bégonia d’intérieur ?",
+    "choices": [
+      "Soleil direct",
+      "Ombre totale",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le bégonia préfère un emplacement lumineux sans exposition directe au soleil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le bégonia d’intérieur ?",
+    "choices": [
+      "Amérique du Sud",
+      "Nord de l’Inde",
+      "Afrique équatoriale"
+    ],
+    "correctAnswer": "Nord de l’Inde",
+    "explanation": "Le bégonia elatior est originaire du nord de l’Inde."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison de culture du bégonia d’intérieur ?",
+    "choices": [
+      "Printemps uniquement",
+      "Hiver uniquement",
+      "Comme les annuelles"
+    ],
+    "correctAnswer": "Comme les annuelles",
+    "explanation": "Le bégonia elatior est cultivé comme une plante annuelle."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du bégonia d’intérieur ?",
+    "choices": [
+      "Fleurs suspendues à tige longue",
+      "Fleurs buissonnantes très colorées",
+      "Feuilles géantes sans fleurs"
+    ],
+    "correctAnswer": "Fleurs buissonnantes très colorées",
+    "explanation": "Le bégonia elatior est une plante à fleurs buissonnantes, très décoratives."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du bégonia d’intérieur ?",
+    "choices": [
+      "Persistant et coriace",
+      "Vivace gélive",
+      "Caduc et fin"
+    ],
+    "correctAnswer": "Vivace gélive",
+    "explanation": "Le feuillage du bégonia est vivace, mais il ne supporte pas le gel (gélif)."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une particularité de certaines variétés de bégonias ?",
+    "choices": [
+      "Leur feuillage devient bleu",
+      "Leurs fleurs sont comestibles",
+      "Elles changent de couleur selon la lumière"
+    ],
+    "correctAnswer": "Leurs fleurs sont comestibles",
+    "explanation": "Certaines fleurs de bégonias sont consommables."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un bégonia d’intérieur ?",
+    "choices": [
+      "10 à 20 cm",
+      "25 à 50 cm",
+      "1 mètre"
+    ],
+    "correctAnswer": "25 à 50 cm",
+    "explanation": "Le bégonia elatior peut mesurer entre 25 et 50 cm de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle maladie est sensible le bégonia d’intérieur ?",
+    "choices": [
+      "Rouille",
+      "Oïdium",
+      "Taches noires"
+    ],
+    "correctAnswer": "Oïdium",
+    "explanation": "Le bégonia elatior est sensible à l’oïdium, une maladie fongique fréquente."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du bégonia royal ?",
+    "choices": [
+      "Begonia elatior",
+      "Begonia rex",
+      "Begonia maculata"
+    ],
+    "correctAnswer": "Begonia rex",
+    "explanation": "Le bégonia royal est connu sous le nom scientifique Begonia rex."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du bégonia rex ?",
+    "choices": [
+      "Arrosage quotidien",
+      "Arrosage environ 2 fois par semaine",
+      "Très peu d’arrosage, uniquement en été"
+    ],
+    "correctAnswer": "Arrosage environ 2 fois par semaine",
+    "explanation": "Le bégonia rex nécessite un arrosage modéré, environ deux fois par semaine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température convient au stockage du bégonia rex ?",
+    "choices": [
+      "0°C à 10°C",
+      "10°C à 20°C",
+      "20°C à 30°C"
+    ],
+    "correctAnswer": "10°C à 20°C",
+    "explanation": "Le bégonia rex doit être stocké entre 10°C et 20°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au bégonia rex ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre complète",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le bégonia rex préfère une lumière vive sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le bégonia rex ?",
+    "choices": [
+      "Asie du Sud-Est",
+      "Nord de l’Inde",
+      "Amérique du Sud"
+    ],
+    "correctAnswer": "Nord de l’Inde",
+    "explanation": "Le bégonia rex est originaire du nord de l’Inde."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Comment est cultivé le bégonia rex ?",
+    "choices": [
+      "Comme une vivace",
+      "Comme les annuelles",
+      "Comme une plante grimpante"
+    ],
+    "correctAnswer": "Comme les annuelles",
+    "explanation": "Le bégonia rex est cultivé comme une plante annuelle en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général du bégonia rex ?",
+    "choices": [
+      "Plante tombante à fleurs fines",
+      "Port touffu",
+      "Feuillage en rosette serrée"
+    ],
+    "correctAnswer": "Port touffu",
+    "explanation": "Le bégonia rex présente un port touffu, dense et ornemental."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du bégonia rex ?",
+    "choices": [
+      "Feuilles vertes unies et épaisses",
+      "Feuilles aux multiples couleurs",
+      "Feuilles fines en forme d’aiguilles"
+    ],
+    "correctAnswer": "Feuilles aux multiples couleurs",
+    "explanation": "Le feuillage du bégonia rex est décoratif, coloré et très varié."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la fonction principale du bégonia rex ?",
+    "choices": [
+      "Plante médicinale",
+      "Plante aromatique",
+      "Plante décorative et ornementale"
+    ],
+    "correctAnswer": "Plante décorative et ornementale",
+    "explanation": "Le bégonia rex est apprécié pour son aspect décoratif et ornemental."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale d’un bégonia rex ?",
+    "choices": [
+      "20 cm",
+      "40 cm",
+      "80 cm"
+    ],
+    "correctAnswer": "40 cm",
+    "explanation": "Le bégonia rex peut atteindre une hauteur d’environ 40 cm."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle maladie est sensible le bégonia rex ?",
+    "choices": [
+      "Mildiou",
+      "Oïdium",
+      "Rouille"
+    ],
+    "correctAnswer": "Oïdium",
+    "explanation": "Le bégonia rex peut être affecté par l’oïdium, une maladie fongique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de l’hibiscus ?",
+    "choices": [
+      "Hibiscus rosa-sinensis",
+      "Hibiscus tropicalis",
+      "Hibiscus floribunda"
+    ],
+    "correctAnswer": "Hibiscus rosa-sinensis",
+    "explanation": "Le nom scientifique de l’hibiscus commun est Hibiscus rosa-sinensis."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau de l’hibiscus ?",
+    "choices": [
+      "Très faible, terre sèche",
+      "Sol toujours frais",
+      "Arrosage uniquement en hiver"
+    ],
+    "correctAnswer": "Sol toujours frais",
+    "explanation": "L’hibiscus a besoin d’un sol toujours légèrement frais pour bien se développer."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température convient au stockage de l’hibiscus ?",
+    "choices": [
+      "En chambre froide",
+      "Température ambiante",
+      "Inférieure à 10°C"
+    ],
+    "correctAnswer": "Température ambiante",
+    "explanation": "L’hibiscus doit être conservé à température ambiante et protégé du gel."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient à l’hibiscus ?",
+    "choices": [
+      "Ombre complète",
+      "Lumineux sans soleil direct",
+      "Ensoleillé"
+    ],
+    "correctAnswer": "Ensoleillé",
+    "explanation": "L’hibiscus aime le plein soleil pour bien fleurir."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire l’hibiscus ?",
+    "choices": [
+      "Afrique centrale",
+      "Asie tropicale, Chine",
+      "Amérique du Sud"
+    ],
+    "correctAnswer": "Asie tropicale, Chine",
+    "explanation": "L’hibiscus rosa-sinensis est originaire d’Asie tropicale, notamment de Chine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison principale de floraison de l’hibiscus ?",
+    "choices": [
+      "Hiver",
+      "Printemps",
+      "Été"
+    ],
+    "correctAnswer": "Été",
+    "explanation": "L’hibiscus fleurit principalement durant l’été."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique de l’hibiscus ?",
+    "choices": [
+      "Plante suspendue à petites fleurs",
+      "Arbuste très florifère à fleurs colorées",
+      "Feuillage argenté sans fleurs"
+    ],
+    "correctAnswer": "Arbuste très florifère à fleurs colorées",
+    "explanation": "L’hibiscus est un arbuste très fleuri avec une grande variété de couleurs."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède l’hibiscus ?",
+    "choices": [
+      "Caduc",
+      "Persistant et vivace",
+      "Panaché"
+    ],
+    "correctAnswer": "Persistant et vivace",
+    "explanation": "Le feuillage de l’hibiscus est persistant et vivace."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la particularité florale de l’hibiscus ?",
+    "choices": [
+      "Fleur unique qui dure plusieurs mois",
+      "Floraison très longue et décorative",
+      "Fleurs uniquement nocturnes"
+    ],
+    "correctAnswer": "Floraison très longue et décorative",
+    "explanation": "L’hibiscus est très florifère, avec une longue floraison ornementale."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un hibiscus ?",
+    "choices": [
+      "Jusqu’à 50 cm",
+      "1 à 3 m",
+      "Plus de 5 m"
+    ],
+    "correctAnswer": "1 à 3 m",
+    "explanation": "L’hibiscus peut atteindre entre 1 et 3 mètres de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle condition doit absolument être évitée pour l’hibiscus ?",
+    "choices": [
+      "Lumière directe",
+      "Gel",
+      "Excès de chaleur"
+    ],
+    "correctAnswer": "Gel",
+    "explanation": "L’hibiscus ne supporte pas le gel et doit être protégé des températures trop basses."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du capillaire ?",
+    "choices": [
+      "Adiantum raddianum",
+      "Adiantum brasilensis",
+      "Adiantum fernalis"
+    ],
+    "correctAnswer": "Adiantum raddianum",
+    "explanation": "Le nom scientifique du capillaire est Adiantum raddianum."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du capillaire ?",
+    "choices": [
+      "Très faible",
+      "Modéré",
+      "Fort besoin en eau, motte toujours humide"
+    ],
+    "correctAnswer": "Fort besoin en eau, motte toujours humide",
+    "explanation": "Le capillaire nécessite une motte toujours humide entre deux arrosages."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale recommandée pour le capillaire ?",
+    "choices": [
+      "0°C",
+      "5°C",
+      "10°C"
+    ],
+    "correctAnswer": "5°C",
+    "explanation": "La température minimale pour conserver un capillaire est de 5°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient le mieux au capillaire ?",
+    "choices": [
+      "Plein soleil",
+      "Lumineux sans soleil direct",
+      "Ombre profonde"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le capillaire préfère un emplacement lumineux mais sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le capillaire ?",
+    "choices": [
+      "Afrique du Sud",
+      "Asie du Sud-Est",
+      "Brésil"
+    ],
+    "correctAnswer": "Brésil",
+    "explanation": "Le capillaire (Adiantum raddianum) est originaire du Brésil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle période le capillaire est-il décoratif ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver uniquement"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le capillaire est une plante décorative toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général du capillaire ?",
+    "choices": [
+      "Feuillage rigide et dressé",
+      "Plante lourde à tiges épaisses",
+      "Plante légère et aérienne"
+    ],
+    "correctAnswer": "Plante légère et aérienne",
+    "explanation": "Le capillaire est connu pour son feuillage fin et aérien."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le capillaire ?",
+    "choices": [
+      "Feuilles persistantes en touffes",
+      "Feuilles caduques en spirale",
+      "Feuilles charnues en rosettes"
+    ],
+    "correctAnswer": "Feuilles persistantes en touffes",
+    "explanation": "Le capillaire a des feuilles en touffes, persistantes et très décoratives."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la spécificité esthétique du capillaire ?",
+    "choices": [
+      "Aspect argenté",
+      "Aspect aérien",
+      "Feuillage panaché"
+    ],
+    "correctAnswer": "Aspect aérien",
+    "explanation": "L’un des atouts du capillaire est son aspect très léger et aérien."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille maximale du capillaire ?",
+    "choices": [
+      "30 cm de haut",
+      "45 cm de haut, 60 cm d’étalement",
+      "1 mètre de haut"
+    ],
+    "correctAnswer": "45 cm de haut, 60 cm d’étalement",
+    "explanation": "Le capillaire peut atteindre 45 cm de hauteur et 60 cm d’étalement."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels problèmes le capillaire est-il sensible ?",
+    "choices": [
+      "Taches noires",
+      "Excès de lumière",
+      "Manque et excès d’eau"
+    ],
+    "correctAnswer": "Manque et excès d’eau",
+    "explanation": "Le capillaire est très sensible à l’humidité : il faut éviter à la fois le manque et l’excès d’eau."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du nephrolepis ?",
+    "choices": [
+      "Nephrolepis exaltata",
+      "Nephrolepis fernalis",
+      "Nephrolepis americana"
+    ],
+    "correctAnswer": "Nephrolepis exaltata",
+    "explanation": "Le nom scientifique du nephrolepis est Nephrolepis exaltata."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du nephrolepis ?",
+    "choices": [
+      "Faible, un arrosage par mois suffit",
+      "Modéré, sans vaporisation",
+      "Fort, environ 2 arrosages par semaine et vaporisation régulière"
+    ],
+    "correctAnswer": "Fort, environ 2 arrosages par semaine et vaporisation régulière",
+    "explanation": "Le nephrolepis a un fort besoin en eau et d’humidité, il doit être arrosé deux fois par semaine et vaporisé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la plage de température idéale pour le nephrolepis ?",
+    "choices": [
+      "5°C à 15°C",
+      "12°C à 20°C",
+      "18°C à 28°C"
+    ],
+    "correctAnswer": "12°C à 20°C",
+    "explanation": "Le nephrolepis doit être conservé entre 12 et 20°C pour rester en bonne santé."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le nephrolepis ?",
+    "choices": [
+      "Soleil direct",
+      "Mi-ombre",
+      "Ombre"
+    ],
+    "correctAnswer": "Ombre",
+    "explanation": "Le nephrolepis préfère une exposition ombragée."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le nephrolepis ?",
+    "choices": [
+      "Afrique de l’Est",
+      "Asie tropicale",
+      "Amérique du Nord et du Sud"
+    ],
+    "correctAnswer": "Amérique du Nord et du Sud",
+    "explanation": "Le nephrolepis vient des zones tropicales d’Amérique du Nord et du Sud."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période d’intérêt décoratif du nephrolepis ?",
+    "choices": [
+      "Printemps uniquement",
+      "Automne uniquement",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le nephrolepis reste décoratif toute l’année grâce à son feuillage abondant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général du nephrolepis ?",
+    "choices": [
+      "Plante compacte et rigide",
+      "Plante hémisphérique, légère et aux tons de vert variés",
+      "Plante rampante à tiges ligneuses"
+    ],
+    "correctAnswer": "Plante hémisphérique, légère et aux tons de vert variés",
+    "explanation": "Le nephrolepis est reconnaissable par sa forme hémisphérique et son feuillage vert délicat."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le nephrolepis ?",
+    "choices": [
+      "Feuilles rigides et dressées",
+      "Fronde souple et retombante",
+      "Feuilles grasses et épaisses"
+    ],
+    "correctAnswer": "Fronde souple et retombante",
+    "explanation": "Le feuillage du nephrolepis est constitué de frondes souples qui retombent élégamment."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle spécificité fonctionnelle possède le nephrolepis ?",
+    "choices": [
+      "Plante aromatique",
+      "Plante déshumidifiante",
+      "Plante comestible"
+    ],
+    "correctAnswer": "Plante déshumidifiante",
+    "explanation": "Le nephrolepis est reconnu comme une plante déshumidifiante naturelle."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un nephrolepis en intérieur ?",
+    "choices": [
+      "40 cm de diamètre",
+      "60 cm de hauteur",
+      "80 cm de diamètre"
+    ],
+    "correctAnswer": "80 cm de diamètre",
+    "explanation": "Le nephrolepis peut atteindre jusqu’à 80 cm de diamètre en pot."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels problèmes le nephrolepis est-il sensible ?",
+    "choices": [
+      "Trop de lumière",
+      "Cochenilles, manque et excès d’eau",
+      "Chaleur excessive et feuilles molles"
+    ],
+    "correctAnswer": "Cochenilles, manque et excès d’eau",
+    "explanation": "Le nephrolepis est sensible aux cochenilles, ainsi qu’à un déséquilibre hydrique."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique de la corne d’élan ?",
+    "choices": [
+      "Platycerium alcicorne",
+      "Platycerium elkhornia",
+      "Platycerium cervinum"
+    ],
+    "correctAnswer": "Platycerium alcicorne",
+    "explanation": "La corne d’élan est aussi appelée Platycerium alcicorne."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du platycerium ?",
+    "choices": [
+      "Faible, un arrosage par mois suffit",
+      "Modéré, une fois par semaine",
+      "Fort, bassiner quand les frondes se ramollissent"
+    ],
+    "correctAnswer": "Fort, bassiner quand les frondes se ramollissent",
+    "explanation": "Le platycerium a un fort besoin en eau, il faut le bassiner dès que les frondes deviennent molles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température minimale est recommandée pour le platycerium ?",
+    "choices": [
+      "5°C",
+      "10°C",
+      "13°C"
+    ],
+    "correctAnswer": "13°C",
+    "explanation": "La température minimale pour conserver le platycerium est de 13°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le platycerium ?",
+    "choices": [
+      "Soleil direct",
+      "Ombre profonde",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le platycerium préfère un emplacement lumineux mais sans lumière directe du soleil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le platycerium ?",
+    "choices": [
+      "Brésil",
+      "Asie du Sud-Est",
+      "Madagascar"
+    ],
+    "correctAnswer": "Madagascar",
+    "explanation": "Le platycerium est originaire de Madagascar."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de décorativité du platycerium ?",
+    "choices": [
+      "Printemps uniquement",
+      "Toutes saisons",
+      "Hiver uniquement"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le platycerium est décoratif toute l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect général du platycerium ?",
+    "choices": [
+      "Plante tombante aux tiges fines",
+      "Plante ornementale à feuillage en corne d’élan ou de cerf",
+      "Plante à fleurs colorées dressées"
+    ],
+    "correctAnswer": "Plante ornementale à feuillage en corne d’élan ou de cerf",
+    "explanation": "Le platycerium est très reconnaissable par ses frondes en forme de corne d’élan."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le platycerium ?",
+    "choices": [
+      "Feuilles fines et pendantes",
+      "Feuilles rondes et panachées",
+      "Feuilles en forme de corne d’élan ou de cerf"
+    ],
+    "correctAnswer": "Feuilles en forme de corne d’élan ou de cerf",
+    "explanation": "Le feuillage du platycerium a une forme unique, rappelant une corne d’élan ou de cerf."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une spécificité fonctionnelle du platycerium ?",
+    "choices": [
+      "Plante comestible",
+      "Déshumidificateur",
+      "Plante médicinale"
+    ],
+    "correctAnswer": "Déshumidificateur",
+    "explanation": "Le platycerium aide à réguler l’humidité de l’air ambiant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un platycerium en intérieur ?",
+    "choices": [
+      "30 cm de large",
+      "50 cm de haut, 80 cm de large",
+      "1 mètre de haut"
+    ],
+    "correctAnswer": "50 cm de haut, 80 cm de large",
+    "explanation": "Le platycerium peut mesurer jusqu’à 50 cm de hauteur et 80 cm de largeur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle maladie est sensible le platycerium ?",
+    "choices": [
+      "Oïdium",
+      "Rouille",
+      "Pourriture en cas d'excès d'eau"
+    ],
+    "correctAnswer": "Pourriture en cas d'excès d'eau",
+    "explanation": "Un excès d’eau peut entraîner la pourriture du platycerium."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Sabot de Vénus ?",
+    "choices": [
+      "Cypripedium calceolus / Paphiopedilum hybrides",
+      "Phalaenopsis gigantea",
+      "Orchis papilionacea"
+    ],
+    "correctAnswer": "Cypripedium calceolus / Paphiopedilum hybrides",
+    "explanation": "Le Sabot de Vénus regroupe notamment Cypripedium calceolus et Paphiopedilum hybrides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du Sabot de Vénus ?",
+    "choices": [
+      "Arrosage quotidien sans limite",
+      "Arrosage deux fois par semaine en été et une fois toutes les deux semaines en hiver",
+      "Arrosage une fois par mois"
+    ],
+    "correctAnswer": "Arrosage deux fois par semaine en été et une fois toutes les deux semaines en hiver",
+    "explanation": "Cette orchidée a un besoin d’eau modéré et régulier, mais il ne faut pas mouiller les feuilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température minimale est recommandée pour le Sabot de Vénus ?",
+    "choices": [
+      "5°C",
+      "10°C",
+      "15°C"
+    ],
+    "correctAnswer": "10°C",
+    "explanation": "Le Sabot de Vénus nécessite une température minimale de 10°C pour bien se développer."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au Sabot de Vénus ?",
+    "choices": [
+      "En plein soleil",
+      "Mi-ombre",
+      "Ombre"
+    ],
+    "correctAnswer": "Ombre",
+    "explanation": "Le Sabot de Vénus préfère les endroits ombragés."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelles régions est originaire le Sabot de Vénus ?",
+    "choices": [
+      "Amérique du Sud",
+      "Afrique équatoriale",
+      "Inde du Nord, Thaïlande, Philippines, Europe"
+    ],
+    "correctAnswer": "Inde du Nord, Thaïlande, Philippines, Europe",
+    "explanation": "Cette orchidée a une origine variée : Asie tropicale et Europe."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison du Sabot de Vénus ?",
+    "choices": [
+      "Hiver",
+      "Printemps",
+      "Été"
+    ],
+    "correctAnswer": "Été",
+    "explanation": "Le Sabot de Vénus fleurit principalement en été."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du Sabot de Vénus ?",
+    "choices": [
+      "Fleurs fines et pendantes",
+      "Fleurs en rosettes compactes",
+      "Fleurs brunes, vertes, multicolores, orange, jaunes et blanches"
+    ],
+    "correctAnswer": "Fleurs brunes, vertes, multicolores, orange, jaunes et blanches",
+    "explanation": "Le Sabot de Vénus est une orchidée aux fleurs très variées en couleur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le Sabot de Vénus ?",
+    "choices": [
+      "Caduc",
+      "Persistant",
+      "Panaché et aromatique"
+    ],
+    "correctAnswer": "Persistant",
+    "explanation": "Le feuillage du Sabot de Vénus est persistant."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle particularité possède le Sabot de Vénus au niveau de l’air ambiant ?",
+    "choices": [
+      "Il purifie l'air",
+      "Il le parfume",
+      "Il agit comme un déshumidificateur"
+    ],
+    "correctAnswer": "Il agit comme un déshumidificateur",
+    "explanation": "Le Sabot de Vénus aide à absorber l’humidité de l’air."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un Sabot de Vénus ?",
+    "choices": [
+      "10 à 20 cm",
+      "30 à 60 cm",
+      "1 mètre"
+    ],
+    "correctAnswer": "30 à 60 cm",
+    "explanation": "Le Sabot de Vénus peut mesurer entre 30 et 60 cm."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels parasites le Sabot de Vénus est-il sensible ?",
+    "choices": [
+      "Nématodes et thrips",
+      "Araignées rouges, cochenilles et pucerons",
+      "Rouille et mildiou"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et pucerons",
+    "explanation": "Comme beaucoup d’orchidées, le Sabot de Vénus est sensible aux cochenilles, pucerons et araignées rouges."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Cambria ?",
+    "choices": [
+      "Odontoglossum hybrides",
+      "Paphiopedilum hybrides",
+      "Cattleya cambrensis"
+    ],
+    "correctAnswer": "Odontoglossum hybrides",
+    "explanation": "Le Cambria est une orchidée issue d’hybrides du genre Odontoglossum."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du Cambria ?",
+    "choices": [
+      "Arrosage quotidien",
+      "Arrosage 2 fois par semaine en été et 1 fois toutes les 2 semaines en hiver",
+      "Arrosage une fois par mois"
+    ],
+    "correctAnswer": "Arrosage 2 fois par semaine en été et 1 fois toutes les 2 semaines en hiver",
+    "explanation": "Le Cambria a besoin d’un arrosage régulier, mais sans mouiller les feuilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température de stockage recommandée pour le Cambria ?",
+    "choices": [
+      "0°C à 10°C",
+      "7°C à 25°C",
+      "20°C à 35°C"
+    ],
+    "correctAnswer": "7°C à 25°C",
+    "explanation": "Le Cambria se conserve idéalement entre 7°C et 25°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour le Cambria ?",
+    "choices": [
+      "Soleil direct",
+      "Ombre totale",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le Cambria apprécie une bonne luminosité, mais sans exposition directe au soleil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le Cambria ?",
+    "choices": [
+      "Afrique centrale",
+      "Amérique centrale et Amérique du Sud",
+      "Asie du Sud-Est"
+    ],
+    "correctAnswer": "Amérique centrale et Amérique du Sud",
+    "explanation": "Le Cambria est une orchidée originaire d’Amérique centrale et d’Amérique du Sud."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison de floraison du Cambria ?",
+    "choices": [
+      "Hiver",
+      "Printemps",
+      "Été"
+    ],
+    "correctAnswer": "Printemps",
+    "explanation": "Le Cambria fleurit principalement au printemps."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect typique du Cambria ?",
+    "choices": [
+      "Feuilles longues et fleurs blanches",
+      "Fleurs multicolores",
+      "Plante verte à feuilles panachées"
+    ],
+    "correctAnswer": "Fleurs multicolores",
+    "explanation": "Le Cambria se distingue par ses fleurs très décoratives aux multiples couleurs."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du Cambria ?",
+    "choices": [
+      "Caduc",
+      "Vivace",
+      "Panaché"
+    ],
+    "correctAnswer": "Vivace",
+    "explanation": "Le Cambria possède un feuillage vivace."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle propriété environnementale possède le Cambria ?",
+    "choices": [
+      "Il parfume l’air",
+      "Il repousse les insectes",
+      "Il agit comme un déshumidificateur"
+    ],
+    "correctAnswer": "Il agit comme un déshumidificateur",
+    "explanation": "Comme certaines autres orchidées, le Cambria est aussi un déshumidificateur naturel."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille que peut atteindre un Cambria ?",
+    "choices": [
+      "10 à 30 cm",
+      "20 cm à 1 m",
+      "1,50 m à 2 m"
+    ],
+    "correctAnswer": "20 cm à 1 m",
+    "explanation": "Le Cambria peut mesurer entre 20 cm et 1 m de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels parasites le Cambria est-il sensible ?",
+    "choices": [
+      "Thrips et nématodes",
+      "Araignées rouges, cochenilles et pucerons",
+      "Mouches blanches uniquement"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et pucerons",
+    "explanation": "Le Cambria est sensible aux attaques d’araignées rouges, cochenilles et pucerons."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Cattleya ?",
+    "choices": [
+      "Cattleya hybrides",
+      "Cambria fragrans",
+      "Cymbidium royal"
+    ],
+    "correctAnswer": "Cattleya hybrides",
+    "explanation": "Le nom scientifique du Cattleya est Cattleya hybrides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le besoin en eau du Cattleya pendant la floraison ?",
+    "choices": [
+      "Aucun arrosage",
+      "Arrosage quotidien",
+      "Arrosage une fois par semaine"
+    ],
+    "correctAnswer": "Arrosage une fois par semaine",
+    "explanation": "Pendant la floraison, le Cattleya doit être arrosé une fois par semaine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la fréquence d’arrosage du Cattleya hors floraison ?",
+    "choices": [
+      "Une fois tous les deux mois",
+      "Deux fois par mois",
+      "Une fois par semaine"
+    ],
+    "correctAnswer": "Deux fois par mois",
+    "explanation": "Hors floraison, le Cattleya a besoin d’un arrosage deux fois par mois."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle pratique est recommandée au quotidien pour le Cattleya ?",
+    "choices": [
+      "Taille régulière",
+      "Brumisation quotidienne",
+      "Rempotage tous les mois"
+    ],
+    "correctAnswer": "Brumisation quotidienne",
+    "explanation": "Il est recommandé de brumiser quotidiennement le Cattleya pour maintenir une bonne humidité."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale recommandée pour le Cattleya ?",
+    "choices": [
+      "10°C",
+      "16°C",
+      "20°C"
+    ],
+    "correctAnswer": "16°C",
+    "explanation": "Le Cattleya doit être maintenu à une température minimale de 16°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au Cattleya ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre totale",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le Cattleya apprécie un environnement lumineux mais sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le Cattleya ?",
+    "choices": [
+      "Afrique de l’Est",
+      "Asie du Sud-Est",
+      "Forêts tropicales d'Amérique centrale et du Sud"
+    ],
+    "correctAnswer": "Forêts tropicales d'Amérique centrale et du Sud",
+    "explanation": "Le Cattleya provient des forêts tropicales d’Amérique centrale et du Sud."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison du Cattleya ?",
+    "choices": [
+      "Printemps et été",
+      "Automne et hiver",
+      "Toute l’année"
+    ],
+    "correctAnswer": "Automne et hiver",
+    "explanation": "Le Cattleya fleurit principalement durant l’automne et l’hiver."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect floral du Cattleya ?",
+    "choices": [
+      "Fleurs discrètes et unicolores",
+      "Fleurs pendantes et blanches",
+      "Fleurs multicolores, légèrement parfumées"
+    ],
+    "correctAnswer": "Fleurs multicolores, légèrement parfumées",
+    "explanation": "Les fleurs du Cattleya sont colorées et dégagent un léger parfum."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le Cattleya ?",
+    "choices": [
+      "Feuillage caduc",
+      "Feuillage vivace",
+      "Feuillage panaché"
+    ],
+    "correctAnswer": "Feuillage vivace",
+    "explanation": "Le Cattleya a un feuillage vivace, adapté à la culture en intérieur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels parasites le Cattleya est-il sensible ?",
+    "choices": [
+      "Limaces et nématodes",
+      "Araignées rouges, cochenilles et pucerons",
+      "Mildiou et botrytis"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et pucerons",
+    "explanation": "Le Cattleya peut être attaqué par les araignées rouges, les cochenilles et les pucerons."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Cymbidium ?",
+    "choices": [
+      "Cymbidium hybrides",
+      "Cambria floribunda",
+      "Cattleya cymbiensis"
+    ],
+    "correctAnswer": "Cymbidium hybrides",
+    "explanation": "Le nom scientifique du Cymbidium est Cymbidium hybrides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la fréquence d’arrosage du Cymbidium ?",
+    "choices": [
+      "Tous les jours",
+      "Une fois par semaine",
+      "Tous les 15 jours"
+    ],
+    "correctAnswer": "Tous les 15 jours",
+    "explanation": "Le Cymbidium demande un arrosage tous les 15 jours avec un apport d'engrais."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la température minimale que peut tolérer un Cymbidium ?",
+    "choices": [
+      "10°C uniquement",
+      "5°C",
+      "-3°C"
+    ],
+    "correctAnswer": "-3°C",
+    "explanation": "Le Cymbidium peut supporter une température minimale de -3°C, ce qui est rare pour une orchidée."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition convient au Cymbidium ?",
+    "choices": [
+      "Soleil direct",
+      "Lumière vive avec soleil direct",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le Cymbidium préfère une lumière vive, mais sans exposition directe au soleil."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le Cymbidium ?",
+    "choices": [
+      "Afrique de l’Est",
+      "Népal, Asie du Sud-Est et Indonésie",
+      "Amérique centrale"
+    ],
+    "correctAnswer": "Népal, Asie du Sud-Est et Indonésie",
+    "explanation": "Le Cymbidium est originaire des zones montagneuses et tropicales d’Asie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la saison de floraison du Cymbidium ?",
+    "choices": [
+      "Été",
+      "Automne",
+      "Hiver et printemps"
+    ],
+    "correctAnswer": "Hiver et printemps",
+    "explanation": "Le Cymbidium fleurit principalement pendant l’hiver et le printemps."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect floral du Cymbidium ?",
+    "choices": [
+      "Fleurs multicolores",
+      "Fleurs unies et blanches",
+      "Fleurs discrètes et vertes"
+    ],
+    "correctAnswer": "Fleurs multicolores",
+    "explanation": "Le Cymbidium produit de belles fleurs multicolores, très décoratives."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du Cymbidium ?",
+    "choices": [
+      "Caduc",
+      "Vivace",
+      "Panaché"
+    ],
+    "correctAnswer": "Vivace",
+    "explanation": "Le Cymbidium est une plante à feuillage vivace."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une des spécificités du Cymbidium ?",
+    "choices": [
+      "Floraison courte et intense",
+      "Fleur comestible",
+      "Floraison longue d’environ 3 mois"
+    ],
+    "correctAnswer": "Floraison longue d’environ 3 mois",
+    "explanation": "Le Cymbidium se distingue par sa floraison longue, qui peut durer environ 3 mois."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un Cymbidium ?",
+    "choices": [
+      "30 cm à 60 cm",
+      "60 cm à 1 m",
+      "1,50 m à 2 m"
+    ],
+    "correctAnswer": "60 cm à 1 m",
+    "explanation": "Le Cymbidium peut mesurer entre 60 cm et 1 m de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle maladie ou parasite le Cymbidium est-il sensible ?",
+    "choices": [
+      "Oïdium",
+      "Cochenilles",
+      "Mildiou"
+    ],
+    "correctAnswer": "Cochenilles",
+    "explanation": "Le Cymbidium est sensible aux attaques de cochenilles."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Dendrobium ?",
+    "choices": [
+      "Dendrobium hybrids / Dendrobium nobile",
+      "Cymbidium giganteum",
+      "Paphiopedilum dendrosa"
+    ],
+    "correctAnswer": "Dendrobium hybrids / Dendrobium nobile",
+    "explanation": "Le nom scientifique du Dendrobium est Dendrobium hybrids ou Dendrobium nobile."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quelle fréquence faut-il arroser un Dendrobium ?",
+    "choices": [
+      "Tous les jours",
+      "Une fois par semaine",
+      "Tous les 15 jours avec apport d'engrais"
+    ],
+    "correctAnswer": "Tous les 15 jours avec apport d'engrais",
+    "explanation": "Le Dendrobium demande un arrosage tous les 15 jours et un apport d’engrais."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle température minimale un Dendrobium peut-il tolérer ?",
+    "choices": [
+      "10°C seulement",
+      "5°C",
+      "-3°C"
+    ],
+    "correctAnswer": "-3°C",
+    "explanation": "Le Dendrobium peut tolérer des températures jusqu’à -3°C, bien qu'il faille éviter les gelées prolongées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est idéale pour un Dendrobium ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre complète",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le Dendrobium apprécie un environnement lumineux mais sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelle région est originaire le Dendrobium ?",
+    "choices": [
+      "Afrique de l'Est",
+      "Amérique du Sud",
+      "Inde"
+    ],
+    "correctAnswer": "Inde",
+    "explanation": "Le Dendrobium est originaire d'Inde."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison du Dendrobium ?",
+    "choices": [
+      "Été uniquement",
+      "Hiver et printemps",
+      "Toute l’année"
+    ],
+    "correctAnswer": "Hiver et printemps",
+    "explanation": "Le Dendrobium fleurit principalement en hiver et au printemps."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect caractéristique du Dendrobium ?",
+    "choices": [
+      "Fleurs suspendues en grappe",
+      "Tiges en forme de bambou",
+      "Petites feuilles en rosette"
+    ],
+    "correctAnswer": "Tiges en forme de bambou",
+    "explanation": "Le Dendrobium se reconnaît à ses tiges érigées qui rappellent le bambou."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel type de feuillage possède le Dendrobium ?",
+    "choices": [
+      "Feuillage caduc",
+      "Feuillage semi-caduc",
+      "Feuillage panaché"
+    ],
+    "correctAnswer": "Feuillage semi-caduc",
+    "explanation": "Le Dendrobium a un feuillage vivace mais semi-caduc."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelles sont les couleurs principales des fleurs de Dendrobium ?",
+    "choices": [
+      "Bleu et violet",
+      "Rose, blanche et marron",
+      "Rouge et orange"
+    ],
+    "correctAnswer": "Rose, blanche et marron",
+    "explanation": "Le Dendrobium est très florifère avec des fleurs souvent roses, blanches ou marron."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle taille peut atteindre un Dendrobium ?",
+    "choices": [
+      "30 à 50 cm",
+      "50 à 90 cm",
+      "1 à 1,50 m"
+    ],
+    "correctAnswer": "50 à 90 cm",
+    "explanation": "Le Dendrobium peut atteindre entre 50 et 90 cm de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels parasites le Dendrobium est-il sensible ?",
+    "choices": [
+      "Pucerons uniquement",
+      "Cochenilles, thrips et aleurodes",
+      "Araignées rouges, cochenilles et pucerons"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et pucerons",
+    "explanation": "Le Dendrobium est sensible à ces trois parasites classiques des orchidées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le nom scientifique du Miltonia ?",
+    "choices": [
+      "Miltonia hybrides",
+      "Miltoniopsis tropicalis",
+      "Miltonia colombiana"
+    ],
+    "correctAnswer": "Miltonia hybrides",
+    "explanation": "Le nom scientifique du Miltonia est Miltonia hybrides."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la fréquence d’arrosage recommandée pour le Miltonia ?",
+    "choices": [
+      "Une fois par mois",
+      "Deux fois par semaine",
+      "Une fois par semaine"
+    ],
+    "correctAnswer": "Une fois par semaine",
+    "explanation": "Le Miltonia doit être arrosé une fois par semaine."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle pratique d’entretien est recommandée pour les feuilles du Miltonia ?",
+    "choices": [
+      "Ne jamais mouiller les feuilles",
+      "Tailler les feuilles tous les mois",
+      "Vaporiser le feuillage régulièrement"
+    ],
+    "correctAnswer": "Vaporiser le feuillage régulièrement",
+    "explanation": "Il est conseillé de vaporiser souvent le feuillage du Miltonia pour maintenir une bonne humidité."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la plage de température idéale pour le Miltonia ?",
+    "choices": [
+      "0°C à 15°C",
+      "10°C à 32°C",
+      "20°C à 40°C"
+    ],
+    "correctAnswer": "10°C à 32°C",
+    "explanation": "Le Miltonia se cultive bien dans une plage de température allant de 10 à 32°C."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle exposition est conseillée pour le Miltonia ?",
+    "choices": [
+      "Plein soleil",
+      "Ombre complète",
+      "Lumineux sans soleil direct"
+    ],
+    "correctAnswer": "Lumineux sans soleil direct",
+    "explanation": "Le Miltonia préfère un environnement lumineux sans soleil direct."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "De quelles régions est originaire le Miltonia ?",
+    "choices": [
+      "Asie du Sud-Est",
+      "Brésil (Ouest), Pérou, Bolivie et Colombie",
+      "Afrique de l’Ouest"
+    ],
+    "correctAnswer": "Brésil (Ouest), Pérou, Bolivie et Colombie",
+    "explanation": "Le Miltonia est originaire d’Amérique du Sud : Brésil, Pérou, Bolivie, Colombie."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la période de floraison du Miltonia ?",
+    "choices": [
+      "Printemps uniquement",
+      "Hiver uniquement",
+      "Toutes saisons"
+    ],
+    "correctAnswer": "Toutes saisons",
+    "explanation": "Le Miltonia peut fleurir tout au long de l’année."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est l’aspect des fleurs du Miltonia ?",
+    "choices": [
+      "Fleurs fines et pendantes",
+      "Fleurs ressemblant à des pensées, parfumées",
+      "Petites fleurs sans parfum"
+    ],
+    "correctAnswer": "Fleurs ressemblant à des pensées, parfumées",
+    "explanation": "Les fleurs du Miltonia évoquent les pensées et sont délicatement parfumées."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quel est le type de feuillage du Miltonia ?",
+    "choices": [
+      "Caduc",
+      "Vivace",
+      "Panaché"
+    ],
+    "correctAnswer": "Vivace",
+    "explanation": "Le Miltonia possède un feuillage vivace."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est une spécificité florale du Miltonia ?",
+    "choices": [
+      "Floraison unique annuelle",
+      "Grappe de fleurs très décoratives",
+      "Fleur comestible"
+    ],
+    "correctAnswer": "Grappe de fleurs très décoratives",
+    "explanation": "Le Miltonia produit des grappes de fleurs particulièrement ornementales."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "Quelle est la taille minimale d’un Miltonia ?",
+    "choices": [
+      "5 cm",
+      "15 cm",
+      "30 cm"
+    ],
+    "correctAnswer": "5 cm",
+    "explanation": "Le Miltonia peut exister à partir de 5 cm de hauteur."
+  },
+  {
+    "category": "Plantes d'intérieur",
+    "question": "À quels parasites le Miltonia est-il sensible ?",
+    "choices": [
+      "Thrips et nématodes",
+      "Araignées rouges, cochenilles et pucerons",
+      "Limaces uniquement"
+    ],
+    "correctAnswer": "Araignées rouges, cochenilles et pucerons",
+    "explanation": "Comme de nombreuses orchidées, le Miltonia est sensible à ces trois types de parasites."
   }
 ]
