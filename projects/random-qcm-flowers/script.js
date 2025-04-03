@@ -2,11 +2,13 @@ let successCount = 0;
 let failCount = 0;
 let remainingQuestions = [];
 let totalQuestions = 0;
+let percentage = 0;
 
 const scoreBoard = document.getElementById('scoreBoard');
 const questionCounter = document.getElementById('questionCounter');
 const nextButton = document.getElementById('nextQuestion');
 const successDisplay = document.getElementById('successCount');
+const percentageDisplay = document.getElementById('percentageCount');
 const failDisplay = document.getElementById('failCount');
 const quizContainer = document.getElementById('quiz');
 
@@ -59,6 +61,7 @@ function updateCounter() {
 
 function updateScoreDisplay() {
     successDisplay.textContent = successCount;
+    percentageDisplay.textContent = percentage + '%';
     failDisplay.textContent = failCount;
 }
 
@@ -74,6 +77,10 @@ function showExplanation(question, userChoice) {
 
     if (isCorrect) successCount++;
     else failCount++;
+
+    let percentageValue = (successCount / (successCount + failCount)) * 100;
+    percentage = Math.floor(percentageValue);
+
 
     explanationEl.innerHTML = `
         <img src="./assets/${resultImg}"/>
